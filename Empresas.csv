@@ -1,0 +1,3623 @@
+,empresa,ticker,mercado,ticker.yf
+0,01Cyberaton SA,01C.PL,Warszawa,01C.WA
+1,Magna Polonia SA,06N.PL,Warszawa,06N.WA
+2,11 bit studios SA,11B.PL,Warszawa,11B.WA
+3,Dell Technologies Inc,12DA.DE,Frankfurt,12DA.DE
+4,Atal SA,1AT.PL,Warszawa,1AT.WA
+5,Covestro AG,1COV.DE,Frankfurt,1COV.DE
+6,FACC AG,1FC.DE,Frankfurt,1FC.DE
+7,SCHOTT Pharma AG & Co KgaA,1SXP.DE,Frankfurt,1SXP.DE
+8,Broadcom Inc,1YD.DE,Frankfurt,1YD.DE
+9,PayPal Holdings Inc,2PP.DE,Frankfurt,2PP.DE
+10,3R Games SA,3RG.PL,Warszawa,3RG.WA
+11,4Mass SA,4MS.PL,Warszawa,4MS.WA
+12,888 Holdings PLC,888.UK,London,888.L
+13,A2A SpA,A2A.IT,Milan,A2A.MI
+14,Atresmedia Corp de Medios de Comunicacion SA,A3M.ES,Madrid,A3M.MC
+15,Agilent Technologies Inc,A.US,New York,A
+16,Amadeus Fire AG,AAD.DE,Frankfurt,AAD.DE
+17,Airtel Africa PLC,AAF.UK,London,AAF.L
+18,Anglo American PLC,AAL.UK,London,AAL.L
+19,American Airlines Group Inc,AAL.US,New York,AAL
+20,Aalberts Industries NV,AALB.NL,Amsterdam,AALB.AS
+21,Applied Optoelectronics Inc,AAOI.US,New York,AAOI
+22,Aaon Inc,AAON.US,New York,AAON
+23,Advance Auto Parts Inc,AAP.US,New York,AAP
+24,Apple Inc,AAPL.US,New York,AAPL
+25,Alta SA,AAT.PL,Warszawa,AAT.WA
+26,ABB Ltd,ABB.SE,Stockholm,ABB.ST
+27,ABB Ltd,ABBN.CH,Zurich,ABBN.SW
+28,AbbVie Inc,ABBV.US,New York,ABBV
+29,AmerisourceBergen Corp - class A,ABC.US,New York,ABC
+30,Abcellera Biologics Inc,ABCL.US,New York,ABCL
+31,Abrdn PLC,ABDN.UK,London,ABDN.L
+32,AB SA,ABE.PL,Warszawa,ABE.WA
+33,Alphabet Inc - class A,ABEA.DE,Frankfurt,ABEA.DE
+34,Abeona Therapeutics Inc,ABEO.US,New York,ABEO
+35,Ambev SA - ADR,ABEV.US,New York,ABEV
+36,Associated British Foods PLC,ABF.UK,London,ABF.L
+37,Asbury Automotive Group Inc,ABG.US,New York,ABG
+38,Anheuser-Busch InBev SA/NV,ABI.BE,Brussels,ABI.BR
+39,ABN AMRO Group NV,ABN.NL,Amsterdam,ABN.AS
+40,Airbnb Inc - class A,ABNB.US,New York,ABNB
+41,Arbor Realty Trust Inc,ABR.US,New York,ABR
+42,Asseco Business Solutions SA,ABS.PL,Warszawa,ABS.WA
+43,Abbott Laboratories,ABT.US,New York,ABT
+44,Arbutus Biopharma Corp,ABUS.US,New York,ABUS
+45,Abivax SA,ABVX.FR,Paris,ABVX.PA
+46,Barrick Gold Corp,ABX.US,New York,ABX
+47,Accor SA,AC.FR,Paris,AC.PA
+48,Credit Agricole SA,ACA.FR,Paris,ACA.PA
+49,Acartus SA,ACA.PL,Warszawa,ACA.WA
+50,ACADIA Pharmaceuticals Inc,ACAD.US,New York,ACAD
+51,Acast AB,ACAST.SE,Stockholm,ACAST.ST
+52,Aurora Cannabis Inc,ACB.US,New York,ACB
+53,Accolade Inc,ACCD.US,New York,ACCD
+54,ACCO Brands Corp,ACCO.US,New York,ACCO
+55,Acea SpA,ACE.IT,Milan,ACE.MI
+56,Ac SA,ACG.PL,Warszawa,ACG.WA
+57,Arch Capital Group Ltd,ACGL.US,New York,ACGL
+58,Archer Aviation Inc - class A,ACHR.US,New York,ACHR
+59,Albertsons Companies Inc - class A,ACI.US,New York,ACI
+60,Ackermans & van Haaren NV,ACKB.BE,Brussels,ACKB.BR
+61,Axcelis Technologies Inc,ACLS.US,New York,ACLS
+62,AECOM,ACM.US,New York,ACM
+63,ACM Research Inc - class A,ACMR.US,New York,ACMR
+64,Accenture PLC - class A,ACN.US,New York,ACN
+65,Asseco Poland SA,ACP.PL,Warszawa,ACP.WA
+66,Aclaris Therapeutics Inc,ACRS.US,New York,ACRS
+67,ACS Actividades de Construccion y Servicios SA,ACS.ES,Madrid,ACS.MC
+68,Action SA,ACT.PL,Warszawa,ACT.WA
+69,Acerinox SA,ACX1.ES,Madrid,ACX1.MC
+70,Koninklijke Ahold Delhaize NV,AD.NL,Amsterdam,AD.AS
+71,Adobe Systems Inc,ADBE.US,New York,ADBE
+72,Agree Realty Corp,ADC.US,New York,ADC
+73,Adeia Inc,ADEA.US,New York,ADEA
+74,Adecco Group AG,ADEN.CH,Zurich,ADEN.SW
+75,Analog Devices Inc,ADI.US,New York,ADI
+76,Adial Pharmaceuticals Inc,ADIL.US,New York,ADIL
+77,Adler Group SA,ADJ.DE,Frankfurt,ADJ.DE
+78,Admiral Group PLC,ADM.UK,London,ADM.L
+79,Archer-Daniels-Midland Co,ADM.US,New York,ADM
+80,Adient PLC,ADNT.US,New York,ADNT
+81,Aeroports de Paris,ADP.FR,Paris,ADP.PA
+82,Automatic Data Processing Inc,ADP.US,New York,ADP
+83,Adaptive Biotechnologies Corp,ADPT.US,New York,ADPT
+84,Adidas AG,ADS.DE,Frankfurt,ADS.DE
+85,Alliance Data Systems Corp,ADS.US,New York,ADS
+86,Autodesk Inc,ADSK.US,New York,ADSK
+87,ADT Corp/The,ADT.US,New York,ADT
+88,ADTRAN Inc,ADTN.US,New York,ADTN
+89,Audax Renovables SA,ADX.ES,Madrid,ADX.MC
+90,Adyen NV,ADYEN.NL,Amsterdam,ADYEN.AS
+91,Aedas Homes SAU,AEDAS.ES,Madrid,AEDAS.MC
+92,Ameren Corp,AEE.US,New York,AEE
+93,Aegon Ltd - ADR,AEG.US,New York,AEG
+94,Aehr Test Systems,AEHR.US,New York,AEHR
+95,Agnico Eagle Mines Ltd,AEM.US,New York,AEM
+96,Aena SME SA,AENA.ES,Madrid,AENA.MC
+97,American Eagle Outfitters Inc,AEO.US,New York,AEO
+98,American Electric Power Co Inc,AEP.US,New York,AEP
+99,AerCap Holdings NV,AER.US,New York,AER
+100,AES Corp/VA,AES.US,New York,AES
+101,Aeva Technologies Inc,AEVA.US,New York,AEVA
+102,AEW UK REIT PLC,AEWU.UK,London,AEWU.L
+103,Air France-KLM,AF.FR,Paris,AF.PA
+104,Af Gruppen ASA,AFG.NO,Oslo,AFG.OL
+105,American Financial Group Inc,AFG.US,New York,AFG
+106,Actus Medical Inc,AFIB.US,New York,AFIB
+107,Aflac Inc,AFL.US,New York,AFL
+108,Affirm Holdings Inc - class A,AFRM.US,New York,AFRM
+109,Carl Zeiss Meditec AG,AFX.DE,Frankfurt,AFX.DE
+110,First Majestic Silver Corp,AG.US,New York,AG
+111,Avance Gas Holding Ltd,AGAS.NO,Oslo,AGAS.OL
+112,AGCO Corp,AGCO.US,New York,AGCO
+113,Agenus Inc,AGEN.US,New York,AGEN
+114,Alamos Gold Inc - class A,AGI.US,New York,AGI
+115,Agios Pharmaceuticals Inc,AGIO.US,New York,AGIO
+116,Autogrill SpA,AGL.IT,Milan,AGL.MI
+117,Agroliga Group PLC,AGL.PL,Warszawa,AGL.WA
+118,agilon health inc,AGL.US,New York,AGL
+119,Aegon NV,AGN.NL,Amsterdam,AGN.AS
+120,AGNC Investment Corp,AGNC.US,New York,AGNC
+121,Agora SA,AGO.PL,Warszawa,AGO.WA
+122,Assura PLC,AGR.UK,London,AGR.L
+123,Adecoagro SA,AGRO.US,New York,AGRO
+124,Ageas,AGS.BE,Brussels,AGS.BR
+125,Agroton Public Ltd,AGT.PL,Warszawa,AGT.WA
+126,Alibaba Group Holding Ltd - ADR,AHLA.DE,Frankfurt,AHLA.DE
+127,Ashtead Group PLC,AHT.UK,London,AHT.L
+128,Ashford Hospitality Trust Inc,AHT.US,New York,AHT
+129,Airtificial Intelligence Structures SA,AI.ES,Madrid,AI.MC
+130,Air Liquide SA,AI.FR,Paris,AI.PA
+131,C3Ai Inc - class A,AI.US,New York,AI
+132,American International Group Inc,AIG.US,New York,AIG
+133,Airbus SE,AIR.DE,Frankfurt,AIR.DE
+134,Airbus SE,AIR.ES,Madrid,AIR.MC
+135,Airbus SE,AIR.FR,Paris,AIR.PA
+136,Applied Industrial Technologies Inc,AIT.US,New York,AIT
+137,Apartment Investment & Management Co,AIV.US,New York,AIV
+138,AIXTRON SE,AIXA.DE,Frankfurt,AIXA.DE
+139,Assurant Inc,AIZ.US,New York,AIZ
+140,Arthur J Gallagher & Co,AJG.US,New York,AJG
+141,Aerojet Rocketdyne Holdings Inc,AJRD.US,New York,AJRD
+142,Akamai Technologies Inc,AKAM.US,New York,AKAM
+143,Arkema SA,AKE.FR,Paris,AKE.PA
+144,Aker ASA,AKER.NO,Oslo,AKER.OL
+145,Aker BP ASA,AKERBP.NO,Oslo,AKERBP.OL
+146,Aker Solutions ASA,AKSO.NO,Oslo,AKSO.OL
+147,Akoustis Technologies Inc,AKTS.US,New York,AKTS
+148,Air Lease Corp - class A,AL.US,New York,AL
+149,Astera Labs Inc,ALAB.US,New York,ALAB
+150,Albemarle Corp,ALB.US,New York,ALB
+151,Alcon Inc,ALC.CH,Zurich,ALC.SW
+152,Alcon AG,ALC.US,New York,ALC
+153,ALD SA,ALD.FR,Paris,ALD.PA
+154,Allegro.eu SA,ALE.PL,Warszawa,ALE.WA
+155,Alfa Laval AB,ALFA.SE,Stockholm,ALFA.ST
+156,Alfen NV,ALFEN.NL,Amsterdam,ALFEN.AS
+157,All in! Games SA,ALG.PL,Warszawa,ALG.WA
+158,Alamo Group Inc,ALG.US,New York,ALG
+159,Allegro Microsystems Inc,ALGM.US,New York,ALGM
+160,Align Technology Inc,ALGN.US,New York,ALGN
+161,Allegiant Travel Co,ALGT.US,New York,ALGT
+162,Hopium SA,ALHPI.FR,Paris,ALHPI.PA
+163,Altus Towarzystwo Funduszy Inwestycyjnych SA,ALI.PL,Warszawa,ALI.WA
+164,AddLife AB - class B,ALIFB.SE,Stockholm,ALIFB.ST
+165,Invibes Advertising NV,ALINV.FR,Paris,ALINV.PA
+166,Alaska Air Group Inc,ALK.US,New York,ALK
+167,Alkermes PLC,ALKS.US,New York,ALKS
+168,Ailleron SA,ALL.PL,Warszawa,ALL.WA
+169,Allstate Corp,ALL.US,New York,ALL
+170,Allegion PLC,ALLE.US,New York,ALLE
+171,Allakos Inc,ALLK.US,New York,ALLK
+172,Ally Financial Inc,ALLY.US,New York,ALLY
+173,Almirall SA,ALM.ES,Madrid,ALM.MC
+174,Novacyt SA,ALNOV.FR,Paris,ALNOV.PA
+175,Alnylam Pharmaceuticals Inc,ALNY.US,New York,ALNY
+176,Alstom SA,ALO.FR,Paris,ALO.PA
+177,Alior Bank SA,ALR.PL,Warszawa,ALR.WA
+178,Altimmune Inc,ALT.US,New York,ALT
+179,Arcadium Lithium PLC,ALTM.US,New York,ALTM
+180,Alto Ingredients Inc,ALTO.US,New York,ALTO
+181,Altri SGPS SA,ALTR.PT,Lisbon,ALTR.LS
+182,Altair Engineering Inc - class A,ALTR.US,New York,ALTR
+183,Allianz SE,ALV.DE,Frankfurt,ALV.DE
+184,Autoliv Inc,ALV.US,New York,ALV
+185,Dassault Aviation SA,AM.FR,Paris,AM.PA
+186,Antero Midstream Corp,AM.US,New York,AM
+187,Applied Materials Inc,AMAT.US,New York,AMAT
+188,Ambra SA,AMB.PL,Warszawa,AMB.WA
+189,Ambarella Inc,AMBA.US,New York,AMBA
+190,Ambu A/S - class B,AMBUB.DK,Copenhagen,AMBUB.CO
+191,Amica SA,AMC.PL,Warszawa,AMC.WA
+192,AMC Entertainment Holdings Inc - class A,AMC.US,New York,AMC
+193,Amcor PLC,AMCR.US,New York,AMCR
+194,AMC Networks Inc,AMCX.US,New York,AMCX
+195,Advanced Micro Devices Inc,AMD.DE,Frankfurt,AMD.DE
+196,Advanced Micro Devices Inc,AMD.US,New York,AMD
+197,AMETEK Inc,AME.US,New York,AME
+198,Amedisys Inc,AMED.US,New York,AMED
+199,Affiliated Managers Group Inc,AMG.US,New York,AMG
+200,Amgen Inc,AMGN.US,New York,AMGN
+201,American Homes 4 Rent - class A,AMH.US,New York,AMH
+202,Amkor Technology Inc,AMKR.US,New York,AMKR
+203,Alumetal SA,AML.PL,Warszawa,AML.WA
+204,Aston Martin Lagonda Global Holdings PLC,AML.UK,London,AML.L
+205,AMN Healthcare Services Inc,AMN.US,New York,AMN
+206,Amper SA,AMP.ES,Madrid,AMP.MC
+207,Amplifon SpA,AMP.IT,Milan,AMP.MI
+208,Ameriprise Financial Inc,AMP.US,New York,AMP
+209,Amplitude Inc - class A,AMPL.US,New York,AMPL
+210,Alpha Metallurgical Resources Inc,AMR.US,New York,AMR
+211,Amarin Corp PLC - ADR,AMRN.US,New York,AMRN
+212,Amyris Inc,AMRS.US,New York,AMRS
+213,ams AG,AMS.CH,Zurich,AMS.SW
+214,Amadeus IT Group SA,AMS.ES,Madrid,AMS.MC
+215,American Tower Corp,AMT.US,New York,AMT
+216,Amundi SA,AMUN.FR,Paris,AMUN.PA
+217,American Well Corp - class A,AMWL.US,New York,AMWL
+218,America Movil S.A.B. de C.V. - ADR,AMX.US,New York,AMX
+219,Amazon.com Inc,AMZN.US,New York,AMZN
+220,AutoNation Inc,AN.US,New York,AN
+221,Acciona SA,ANA.ES,Madrid,ANA.MC
+222,Acciona Energias Renova,ANE.ES,Madrid,ANE.MC
+223,Arista Networks Inc,ANET.US,New York,ANET
+224,Abercrombie & Fitch Co,ANF.US,New York,ANF
+225,Angi Inc - class A,ANGI.US,New York,ANGI
+226,ANI Pharmaceuticals Inc,ANIP.US,New York,ANIP
+227,Answear.Com SA,ANR.PL,Warszawa,ANR.WA
+228,ANSYS Inc,ANSS.US,New York,ANSS
+229,Anthem Inc,ANTM.US,New York,ANTM
+230,Antofagasta PLC,ANTO.UK,London,ANTO.L
+231,AO World PLC,AO.UK,London,AO.L
+232,Aon PLC,AON.US,New York,AON
+233,AO Smith Corp,AOS.US,New York,AOS
+234,Apanet SA,APA.PL,Warszawa,APA.WA
+235,Apache Corp,APA.US,New York,APA
+236,APERAM SA,APAM.NL,Amsterdam,APAM.AS
+237,Artisan Partners Asset Management Inc - class A,APAM.US,New York,APAM
+238,Apple Inc,APC.DE,Frankfurt,APC.DE
+239,Air Products & Chemicals Inc,APD.US,New York,APD
+240,APS Energia SA,APE.PL,Warszawa,APE.WA
+241,Amphenol Corp - class A,APH.US,New York,APH
+242,Agora Inc - ADR,API.US,New York,API
+243,Applied Digital Corp,APLD.US,New York,APLD
+244,Apple Hospitality REIT Inc,APLE.US,New York,APLE
+245,Apellis Pharmaceuticals Inc,APLS.US,New York,APLS
+246,Aplisens SA,APN.PL,Warszawa,APN.WA
+247,Apollo Global Management Inc,APO.US,New York,APO
+248,Applovin Corp - class A,APP.US,New York,APP
+249,Appfolio Inc - class A,APPF.US,New York,APPF
+250,Appian Corp - class A,APPN.US,New York,APPN
+251,Applus Services SA,APPS.ES,Madrid,APPS.MC
+252,Digital Turbine Inc,APPS.US,New York,APPS
+253,Auto Partner SA,APR.PL,Warszawa,APR.WA
+254,Automatyka Pomiary Sterowanie SA,APS.PL,Warszawa,APS.WA
+255,Apator SA,APT.PL,Warszawa,APT.WA
+256,Alpha Pro Tech Ltd,APT.US,New York,APT
+257,Aptiv PLC,APTV.US,New York,APTV
+258,AquaBounty Technologies Inc,AQB.US,New York,AQB
+259,Aqua Metals Inc,AQMS.US,New York,AQMS
+260,Algonquin Power & Utilities Corp,AQN.US,New York,AQN
+261,AURELIUS Equity Opportunities SE & Co KGaA,AR4.DE,Frankfurt,AR4.DE
+262,Antero Resources Corp,AR.US,New York,AR
+263,Argo Blockchain PLC,ARB.UK,London,ARB.L
+264,Arcadis NV,ARCAD.NL,Amsterdam,ARCAD.AS
+265,Ares Capital Corp,ARCC.US,New York,ARCC
+266,Arcos Dorados Holdings Inc - class A,ARCO.US,New York,ARCO
+267,Arcturus Therapeutics Holdings Inc,ARCT.US,New York,ARCT
+268,Ardelyx Inc,ARDX.US,New York,ARDX
+269,Arena.pl SA,ARE.PL,Warszawa,ARE.WA
+270,Alexandria Real Estate Equities Inc,ARE.US,New York,ARE
+271,Art Games Studio SA,ARG.PL,Warszawa,ARG.WA
+272,Argenx SE,ARGX.BE,Brussels,ARGX.BR
+273,Archicom SA,ARH.PL,Warszawa,ARH.WA
+274,Arhaus Inc - class A,ARHS.US,New York,ARHS
+275,Apollo Commercial Real Estate Finance Inc,ARI.US,New York,ARI
+276,Arko Corp.,ARKO.US,New York,ARKO
+277,Aareal Bank AG,ARL.DE,Frankfurt,ARL.DE
+278,Aareal Bank AG,ARLN.DE,Frankfurt,ARLN.DE
+279,Arm Holdings PLC - ADR,ARM.US,New York,ARM
+280,ARMOUR Residential REIT Inc,ARR.US,New York,ARR
+281,Array Technologies Inc,ARRY.US,New York,ARRY
+282,Artifex Mundi SA,ART.PL,Warszawa,ART.WA
+283,Arrival SA,ARVL.US,New York,ARVL
+284,Arvinas Inc,ARVN.US,New York,ARVN
+285,Arrow Electronics Inc,ARW.US,New York,ARW
+286,Arrowhead Pharmaceuticals Inc,ARWR.US,New York,ARWR
+287,Aryzta AG,ARYN.CH,Zurich,ARYN.SW
+288,Asana Inc - class A,ASAN.US,New York,ASAN
+289,Waitr Holdings Inc,ASAP.US,New York,ASAP
+290,ASBISc Enterprises PLC,ASB.PL,Warszawa,ASB.WA
+291,ASOS PLC,ASC.UK,London,ASC.L
+292,Asseco South Eastern Europe SA,ASE.PL,Warszawa,ASE.WA
+293,Ashland Global Holdings Inc,ASH.US,New York,ASH
+294,ASM International NV,ASM.NL,Amsterdam,ASM.AS
+295,Avino Silver & Gold Mines Ltd,ASM.US,New York,ASM
+296,Assembly Biosciences Inc,ASMB.US,New York,ASMB
+297,ASML Holding NV,ASML.NL,Amsterdam,ASML.AS
+298,ASML Holding NV - ADR,ASML.US,New York,ASML
+299,Ascendis Pharma A/S - ADR,ASND.US,New York,ASND
+300,Academy Sports & Outdoors Inc,ASO.US,New York,ASO
+301,Aspen Aerogels Inc,ASPN.US,New York,ASPN
+302,ASR Nederland NV,ASRNL.NL,Amsterdam,ASRNL.AS
+303,Assertio Holdings Inc,ASRT.US,New York,ASRT
+304,Assa Abloy AB,ASSAB.SE,Stockholm,ASSAB.ST
+305,Astarta Holding NV,AST.PL,Warszawa,AST.WA
+306,Algoma Steel Group Inc,ASTL.US,New York,ASTL
+307,AST SpaceMobile Inc - class A,ASTS.US,New York,ASTS
+308,ASE Technology Holding Co Ltd - ADR,ASX.US,New York,ASX
+309,Aroundtown SA,AT1.DE,Frankfurt,AT1.DE
+310,ATC Cargo SA,ATA.PL,Warszawa,ATA.WA
+311,Tatneft PAO - ADR,ATAD.UK,London,ATAD.L
+312,Arctic Paper SA,ATC.PL,Warszawa,ATC.WA
+313,Atlas Copco AB,ATCOA.SE,Stockholm,ATCOA.ST
+314,Atlas Copco AB,ATCOB.SE,Stockholm,ATCOB.ST
+315,Atende SA,ATD.PL,Warszawa,ATD.WA
+316,Alten SA,ATE.FR,Paris,ATE.PA
+317,Aterian Inc,ATER.US,New York,ATER
+318,ATM Grupa SA,ATG.PL,Warszawa,ATG.WA
+319,Autohome Inc - ADR,ATHM.US,New York,ATHM
+320,Allegheny Technologies Inc,ATI.US,New York,ATI
+321,Atkore Inc,ATKR.US,New York,ATKR
+322,Athenex Inc,ATNX.US,New York,ATNX
+323,Atos SE,ATO.FR,Paris,ATO.PA
+324,Atmos Energy Corp,ATO.US,New York,ATO
+325,Atossa Therapeutics Inc,ATOS.US,New York,ATOS
+326,Atrem SA,ATR.PL,Warszawa,ATR.WA
+327,AptarGroup Inc,ATR.US,New York,ATR
+328,Atrys Health SA,ATRY.ES,Madrid,ATRY.MC
+329,Atlantis Se,ATS.PL,Warszawa,ATS.WA
+330,Grupa Azoty SA,ATT.PL,Warszawa,ATT.WA
+331,Activision Blizzard Inc,ATVI.US,New York,ATVI
+332,AngloGold Ashanti Ltd - ADR,AU.US,New York,AU
+333,Aurinia Pharmaceuticals Inc,AUPH.US,New York,AUPH
+334,Aurora Innovation Inc - class A,AUR.US,New York,AUR
+335,Auto Trader Group PLC,AUTO.UK,London,AUTO.L
+336,Auddia Inc,AUUD.US,New York,AUUD
+337,Auxilia SA,AUX.PL,Warszawa,AUX.WA
+338,Yamana Gold Inc,AUY.US,New York,AUY
+339,Aviva PLC,AV.UK,London,AV.L
+340,Avance Gas Holding Ltd,AVANCE.NO,Oslo,AVANCE.OL
+341,AeroVironment Inc,AVAV.US,New York,AVAV
+342,AvalonBay Communities Inc,AVB.US,New York,AVB
+343,Broadcom Ltd,AVGO.US,New York,AVGO
+344,Avnet Inc,AVT.US,New York,AVT
+345,Avantax Inc,AVTA.US,New York,AVTA
+346,Avantor Inc,AVTR.US,New York,AVTR
+347,Anavex Life Sciences Corp,AVXL.US,New York,AVXL
+348,Avery Dennison Corp,AVY.US,New York,AVY
+349,American Water Works Co Inc,AWK.US,New York,AWK
+350,Airway Medix SA,AWM.PL,Warszawa,AWM.WA
+351,American States Water Co,AWR.US,New York,AWR
+352,Axos Financial Inc,AX.US,New York,AX
+353,Axfood AB,AXFO.SE,Stockholm,AXFO.ST
+354,Axon Enterprise Inc,AXON.US,New York,AXON
+355,American Express Co,AXP.US,New York,AXP
+356,Axsome Therapeutics Inc,AXSM.US,New York,AXSM
+357,Atlantica Sustainable Infrastructure PLC,AY.US,New York,AY
+358,Acuity Brands Inc,AYI.US,New York,AYI
+359,AYRO Inc,AYRO.US,New York,AYRO
+360,Azek Company Inc - class A,AZEK.US,New York,AZEK
+361,Azkoyen SA CFD,AZK.ES,Madrid,AZK.MC
+362,Azimut Holding SpA,AZM.IT,Milan,AZM.MI
+363,AstraZeneca PLC,AZN.SE,Stockholm,AZN.ST
+364,AstraZeneca PLC,AZN.UK,London,AZN.L
+365,AstraZeneca PLC - ADR,AZN.US,New York,AZN
+366,AutoZone Inc,AZO.US,New York,AZO
+367,Azenta Inc,AZTA.US,New York,AZTA
+368,Azul SA - ADR,AZUL.US,New York,AZUL
+369,Brand 24 SA,B24.PL,Warszawa,B24.WA
+370,B2holding ASA,B2H.NO,Oslo,B2H.OL
+371,METRO AG,B4B.DE,Frankfurt,B4B.DE
+372,BAE Systems PLC,BA.UK,London,BA.L
+373,Boeing Co,BA.US,New York,BA
+374,Babcock International Group PLC,BAB.UK,London,BAB.L
+375,Alibaba - ADR,BABA.US,New York,BABA
+376,Bank of America Corp,BAC.US,New York,BAC
+377,Julius Baer Group Ltd,BAER.CH,Zurich,BAER.SW
+378,British Automotive Holding SA,BAH.PL,Warszawa,BAH.WA
+379,Booz Allen Hamilton Holding Corp - class A,BAH.US,New York,BAH
+380,Bakkafrost P/F,BAKKA.NO,Oslo,BAKKA.OL
+381,Ball Corp,BALL.US,New York,BALL
+382,BROOKFIELD ASSET MANAGEMENT LTD - class A,BAM1.US,New York,BAM1
+383,Brookfield Asset Management Inc,BAM.US,New York,BAM
+384,Banco BPM SpA,BAMI.IT,Milan,BAMI.MI
+385,Bandwidth Inc - class A,BAND.US,New York,BAND
+386,Credicorp Ltd,BAP.US,New York,BAP
+387,Barco NV,BAR.BE,Brussels,BAR.BR
+388,Barclays PLC,BARC.UK,London,BARC.L
+389,Barry Callebaut AG,BARN.CH,Zurich,BARN.SW
+390,BASF SE,BAS.DE,Frankfurt,BAS.DE
+391,Atlanta Braves Holdings Inc,BATRK.US,New York,BATRK
+392,British American Tobacco PLC,BATS.UK,London,BATS.L
+393,Bavarian Nordic A/S,BAVA.DK,Copenhagen,BAVA.CO
+394,Baxter International Inc,BAX.US,New York,BAX
+395,Bayer AG,BAYN.DE,Frankfurt,BAYN.DE
+396,Societe BIC SA,BB.FR,Paris,BB.PA
+397,BlackBerry Ltd,BB.US,New York,BB
+398,Beskidzkie Biuro Inwestycyjne SA,BBA.PL,Warszawa,BBA.WA
+399,BigBear.ai Holdings Inc,BBAI.US,New York,BBAI
+400,Bed Bath & Beyond Inc,BBBY.US,New York,BBBY
+401,BBI Development SA,BBD.PL,Warszawa,BBD.WA
+402,Banco Bradesco S.A.,BBD.US,New York,BBD
+403,Barings BDC Inc,BBDC.US,New York,BBDC
+404,Vinco Ventures Inc,BBIG.US,New York,BBIG
+405,BridgeBio Pharma Inc,BBIO.US,New York,BBIO
+406,Tritax Big Box Reit PLC,BBOX.UK,London,BBOX.L
+407,Boombit SA,BBT.PL,Warszawa,BBT.WA
+408,Banco Bilbao Vizcaya Argentaria SA,BBVA.ES,Madrid,BBVA.MC
+409,Bath & Body Works Inc,BBWI.US,New York,BBWI
+410,Balfour Beatty PLC,BBY.UK,London,BBY.L
+411,Best Buy Co Inc,BBY.US,New York,BBY
+412,Bechtle AG,BC8.DE,Frankfurt,BC8.DE
+413,Brunello Cucinelli SpA,BC.IT,Milan,BC.MI
+414,Brunswick Corp,BC.US,New York,BC
+415,Boise Cascade Co,BCC.US,New York,BCC
+416,BCE Inc,BCE.US,New York,BCE
+417,Banco Comercial Portugues SA,BCP.PT,Lisbon,BCP.LS
+418,BioCryst Pharmaceuticals Inc,BCRX.US,New York,BCRX
+419,Big Cheese Studio SA,BCS.PL,Warszawa,BCS.WA
+420,Barclays PLC - ADR,BCS.US,New York,BCS
+421,Bioceltix SA,BCX.PL,Warszawa,BCX.WA
+422,Barratt Developments PLC,BDEV.UK,London,BDEV.L
+423,Brandywine Realty Trust,BDN.US,New York,BDN
+424,Budimex SA,BDX.PL,Warszawa,BDX.WA
+425,Becton Dickinson and Co,BDX.US,New York,BDX
+426,Elektrocieplownia Bedzin SA,BDZ.PL,Warszawa,BDZ.WA
+427,Bloom Energy Corp - class A,BE.US,New York,BE
+428,Beam Therapeutics Inc,BEAM.US,New York,BEAM
+429,Beein SA,BEE.PL,Warszawa,BEE.WA
+430,Beam Global,BEEM.US,New York,BEEM
+431,Befimmo SA,BEFB.BE,Brussels,BEFB.BR
+432,Beiersdorf AG,BEI.DE,Frankfurt,BEI.DE
+433,Bekaert SA,BEKB.BE,Brussels,BEKB.BR
+434,Ke Holdings Inc - class A,BEKE.US,New York,BEKE
+435,Beneteau SA,BEN.FR,Paris,BEN.PA
+436,Franklin Resources Inc,BEN.US,New York,BEN
+437,Biomass Energy Project SA,BEP.PL,Warszawa,BEP.WA
+438,Brookfield Renewable Corp - class A,BEPC.US,New York,BEPC
+439,Berry Global Group Inc,BERY.US,New York,BERY
+440,BE Semiconductor Industries NV,BESI.NL,Amsterdam,BESI.AS
+441,Betsson AB - class B,BETSB.SE,Stockholm,BETSB.ST
+442,Beazley PLC,BEZ.UK,London,BEZ.L
+443,Brown-Forman Corp,BFB.US,New York,BFB
+444,Banca Farmafactoring SpA,BFF.IT,Milan,BFF.MI
+445,Bread Financial Holdings Inc,BFH.US,New York,BFH
+446,Basic Fit NV,BFIT.NL,Amsterdam,BFIT.AS
+447,Butterfly Network Inc - class A,BFLY.US,New York,BFLY
+448,Befesa SA,BFSA.DE,Frankfurt,BFSA.DE
+449,Benefit Systems SA,BFT.PL,Warszawa,BFT.WA
+450,Bunge Ltd,BG.US,New York,BG
+451,Big 5 Sporting Goods Corp,BGFV.US,New York,BGFV
+452,Beigene Ltd - ADR,BGNE.US,New York,BGNE
+453,B&G Foods Inc,BGS.US,New York,BGS
+454,Bausch Health Cos Inc,BHC.US,New York,BHC
+455,Brighthouse Financial Inc,BHF.US,New York,BHF
+456,BH Macro Ltd,BHMG1.UK,London,BHMG1.L
+457,BHP Group Ltd,BHP.UK,London,BHP.L
+458,BHP Billiton Ltd - ADR,BHP.US,New York,BHP
+459,Biohaven Ltd,BHVN.US,New York,BHVN
+460,Bank Handlowy w Warszawie SA,BHW.PL,Warszawa,BHW.WA
+461,Baidu Inc ADR - ADR,BIDU.US,New York,BIDU
+462,Big Lots Inc,BIG.US,New York,BIG
+463,BigCommerce Holdings Inc,BIGC.US,New York,BIGC
+464,Biogen Inc,BIIB.US,New York,BIIB
+465,Bilibili Inc - ADR,BILI.US,New York,BILI
+466,Bill.com Holdings Inc,BILL.US,New York,BILL
+467,BioMerieux,BIM.FR,Paris,BIM.PA
+468,Bioton SA,BIO.PL,Warszawa,BIO.WA
+469,Bio Rad Laboratories Inc - class A,BIO.US,New York,BIO
+470,Bio Planet SA,BIP.PL,Warszawa,BIP.WA
+471,Brookfield Infrastructure Corp - class A,BIPC.US,New York,BIPC
+472,Allbirds Inc - class A,BIRD.US,New York,BIRD
+473,Bank of Ireland Group PLC,BIRG.UK,London,BIRG.L
+474,Birkenstock Holding PLC,BIRK.US,New York,BIRK
+475,Bitfarms Ltd,BITF.US,New York,BITF
+476,BJ's Restaurants Inc,BJRI.US,New York,BJRI
+477,Bank of New York Mellon Corp,BK.US,New York,BK
+478,Baked Games SA,BKD.PL,Warszawa,BKD.WA
+479,Berkeley Group Holdings PLC,BKG.UK,London,BKG.L
+480,Black Hills Corp,BKH.US,New York,BKH
+481,Bakkt Holdings Inc - class A,BKKT.US,New York,BKKT
+482,Booking Holdings Inc,BKNG.US,New York,BKNG
+483,Baker Hughes Co - class A,BKR.US,New York,BKR
+484,Blacksky Technology Inc - class A,BKSY.US,New York,BKSY
+485,Bankinter SA,BKT.ES,Madrid,BKT.MC
+486,Berkeley Energia Ltd,BKY.ES,Madrid,BKY.MC
+487,Blackline Inc,BL.US,New York,BL
+488,TopBuild Corp,BLD.US,New York,BLD
+489,Ballard Power Systems Inc,BLDP.US,New York,BLDP
+490,Builders FirstSource Inc,BLDR.US,New York,BLDR
+491,Berkeley Lights Inc,BLI.US,New York,BLI
+492,BlackRock Inc,BLK.US,New York,BLK
+493,Ball Corp,BLL.US,New York,BLL
+494,Bloomin' Brands Inc,BLMN.US,New York,BLMN
+495,British Land Co PLC,BLND.UK,London,BLND.L
+496,Blink Charging Co,BLNK.US,New York,BLNK
+497,Bloober Team SA,BLO.PL,Warszawa,BLO.WA
+498,Balticon SA,BLT.PL,Warszawa,BLT.WA
+499,BHP Billiton PLC,BLT.UK,London,BLT.L
+500,Bluebird Bio Inc,BLUE.US,New York,BLUE
+501,Banco Macro SA - ADR,BMA.US,New York,BMA
+502,Bumble Inc - class A,BMBL.US,New York,BMBL
+503,Bumech SA,BMC.PL,Warszawa,BMC.WA
+504,B&M European Value Retail SA,BME.UK,London,BME.L
+505,Biomea Fusion Inc,BMEA.US,New York,BMEA
+506,Banca Mediolanum SpA,BMED.IT,Milan,BMED.MI
+507,Biomed Lublin Wytwornia Surowic i Szczepionek SA,BML.PL,Warszawa,BML.WA
+508,Bank of Montreal,BMO.US,New York,BMO
+509,Banca Monte dei Paschi di Sien,BMPS.IT,Milan,BMPS.MI
+510,BioMarin Pharmaceutical Inc,BMRN.US,New York,BMRN
+511,British American Tobacco PLC,BMT.DE,Frankfurt,BMT.DE
+512,Bayerische Motoren Werke AG - preference shares,BMW3.DE,Frankfurt,BMW3.DE
+513,Bayerische Motoren Werke AG,BMW.DE,Frankfurt,BMW.DE
+514,BioMaxima SA,BMX.PL,Warszawa,BMX.WA
+515,Bristol-Myers Squibb Co,BMY.US,New York,BMY
+516,Danone SA,BN.FR,Paris,BN.PA
+517,Brookfield Corp - class A,BN.US,New York,BN
+518,Benefitfocus Inc,BNFT.US,New York,BNFT
+519,Bionano Genomics Inc,BNGO.US,New York,BNGO
+520,Broadstone Net Lease Inc,BNL.US,New York,BNL
+521,BNP Paribas SA,BNP.FR,Paris,BNP.PA
+522,BNP Paribas Bank Polska SA,BNPPPL.PL,Warszawa,BNPPPL.WA
+523,Brenntag AG,BNR.DE,Frankfurt,BNR.DE
+524,Bank of Nova Scotia,BNS.US,New York,BNS
+525,BioNTech SE - ADR,BNTX.US,New York,BNTX
+526,Bunzl PLC,BNZL.UK,London,BNZL.L
+527,Boiron SA,BOI.FR,Paris,BOI.PA
+528,Bollore SA,BOL.FR,Paris,BOL.PA
+529,Boliden AB,BOL.SE,Stockholm,BOL.ST
+530,Boohoo Group PLC,BOO.UK,London,BOO.L
+531,Boot Barn Holdings Inc,BOOT.US,New York,BOOT
+532,Borr Drilling Ltd,BORR.US,New York,BORR
+533,Bank Ochrony Srodowiska SA,BOS.PL,Warszawa,BOS.WA
+534,HUGO BOSS AG,BOSS.DE,Frankfurt,BOSS.DE
+535,Bouvet ASA,BOUV.NO,Oslo,BOUV.OL
+536,Bowim SA,BOW.PL,Warszawa,BOW.WA
+537,BOWHEAD SPECIALTY HOLDINGS INC,BOW.US,New York,BOW
+538,Box Inc - class A,BOX.US,New York,BOX
+539,Bodycote PLC,BOY.UK,London,BOY.L
+540,BP PLC,BP.UK,London,BP.L
+541,BP PLC - ADR,BP.US,New York,BP
+542,BP PLC,BPE5.DE,Frankfurt,BPE5.DE
+543,BPER Banca,BPE.IT,Milan,BPE.MI
+544,Blueprint Medicines Corp,BPMC.US,New York,BPMC
+545,Popular Inc,BPOP.US,New York,BPOP
+546,bpost SA,BPOST.BE,Brussels,BPOST.BR
+547,Broadridge Financial Solutions Inc,BR.US,New York,BR
+548,Braster SA,BRA.PL,Warszawa,BRA.WA
+549,Burberry Group PLC,BRBY.UK,London,BRBY.L
+550,Brembo SpA,BRE.IT,Milan,BRE.MI
+551,BRF-Brasil Foods SA - ADR,BRFS.US,New York,BRFS
+552,Berg Holdings SA,BRH.PL,Warszawa,BRH.WA
+553,Berkshire Hathaway Inc - class A,BRKA.US,New York,BRKA
+554,Berkshire Hathaway Inc - class B,BRKB.US,New York,BRKB
+555,Bruker Corp,BRKR.US,New York,BRKR
+556,Brooks Automation Inc,BRKS.US,New York,BRKS
+557,Brown & Brown Inc,BRO.US,New York,BRO
+558,Dutch Bros Inc,BROS.US,New York,BROS
+559,Boryszew SA,BRS.PL,Warszawa,BRS.WA
+560,Boruta Zachem SA,BRU.PL,Warszawa,BRU.WA
+561,Brixmor Property Group Inc,BRX.US,New York,BRX
+562,Berkshire Hathaway Inc - class B,BRYN.DE,Frankfurt,BRYN.DE
+563,Braze Inc - class A,BRZE.US,New York,BRZE
+564,Bridge Solutions Hub SA,BSH.PL,Warszawa,BSH.WA
+565,Biesse SpA,BSS.IT,Milan,BSS.MI
+566,Best SA,BST.PL,Warszawa,BST.WA
+567,Boston Scientific Corp,BSX.US,New York,BSX
+568,Bentley Systems Inc - class B,BSY.US,New York,BSY
+569,BT Group PLC,BTA.UK,London,BTA.L
+570,Bit Digital Inc,BTBT.US,New York,BTBT
+571,ETC Issuance GmbH,BTCF.DE,Frankfurt,BTCF.DE
+572,B2Gold Corp,BTG.US,New York,BTG
+573,British American Tobacco PLC - ADR,BTI.US,New York,BTI
+574,Biztech Konsulting SA,BTK.PL,Warszawa,BTK.WA
+575,Peabody Energy Corp,BTU.US,New York,BTU
+576,Anheuser-Busch InBev SA/NV - ADR,BUD.US,New York,BUD
+577,Burford Capital Ltd - class C,BUR.UK,London,BUR.L
+578,Burlington Stores Inc,BURL.US,New York,BURL
+579,Borussia Dortmund GmbH & Co,BVB.DE,Frankfurt,BVB.DE
+580,Bureau Veritas SA,BVI.FR,Paris,BVI.PA
+581,Britvic PLC,BVIC.UK,London,BVIC.L
+582,Compania de Minas Buenaventura SA - ADR,BVN.US,New York,BVN
+583,BorgWarner Inc,BWA.US,New York,BWA
+584,BW LPG Ltd,BWLPG.NO,Oslo,BWLPG.OL
+585,BW Offshore Ltd,BWO.NO,Oslo,BWO.OL
+586,BWX Technologies Inc,BWXT.US,New York,BWXT
+587,Bellway PLC,BWY.UK,London,BWY.L
+588,Blackstone Group LP,BX.US,New York,BX
+589,Blackstone Mortgage Trust Inc - class A,BXMT.US,New York,BXMT
+590,Boston Properties Inc,BXP.US,New York,BXP
+591,BancorpSouth Bank,BXS.US,New York,BXS
+592,Blackstone Secured Lending Fund,BXSL.US,New York,BXSL
+593,Boyd Gaming Corp,BYD.US,New York,BYD
+594,Big Yellow Group PLC,BYG.UK,London,BYG.L
+595,Beyond Meat Inc,BYND.US,New York,BYND
+596,Beyond Inc,BYON.US,New York,BYON
+597,Buzzi Unicem SpA,BZU.IT,Milan,BZU.MI
+598,Baozun Inc. - ADR,BZUN.US,New York,BZUN
+599,Citigroup Inc,C.US,New York,C
+600,Carrefour SA,CA.FR,Paris,CA.PA
+601,CaixaBank SA,CABK.ES,Madrid,CABK.MC
+602,Cable One Inc,CABO.US,New York,CABO
+603,Credit Acceptance Corp,CACC.US,New York,CACC
+604,Cadence Bank,CADE.US,New York,CADE
+605,Construcciones y Auxiliar de Ferrocarriles SA,CAF.ES,Madrid,CAF.MC
+606,Conagra Brands Inc,CAG.US,New York,CAG
+607,Cardinal Health Inc,CAH.US,New York,CAH
+608,Carlson Investments Se,CAI.PL,Warszawa,CAI.WA
+609,Cheesecake Factory Inc,CAKE.US,New York,CAKE
+610,Cal-Maine Foods Inc,CALM.US,New York,CALM
+611,Calix Inc,CALX.US,New York,CALX
+612,Camtek Ltd,CAMT.US,New York,CAMT
+613,Canaan Inc - ADR,CAN.US,New York,CAN
+614,Capgemini SE,CAP.FR,Paris,CAP.PA
+615,Capital & Counties Properties PLC,CAPC.UK,London,CAPC.L
+616,Inter Cars SA,CAR.PL,Warszawa,CAR.WA
+617,Avis Budget Group Inc,CAR.US,New York,CAR
+618,Cara Therapeutics Inc,CARA.US,New York,CARA
+619,Card Factory PLC,CARD.UK,London,CARD.L
+620,CarGurus Inc - class A,CARG.US,New York,CARG
+621,Carlsberg A/S,CARLB.DK,Copenhagen,CARLB.CO
+622,Carisma Therapeutics Inc,CARM.US,New York,CARM
+623,Carrier Global Corp,CARR.US,New York,CARR
+624,Maplebear Inc,CART.US,New York,CART
+625,Prosegur Cash SA,CASH.ES,Madrid,CASH.MC
+626,Castellum AB,CAST.SE,Stockholm,CAST.ST
+627,Casey's General Stores Inc,CASY.US,New York,CASY
+628,Caterpillar Inc,CAT.US,New York,CAT
+629,Cavatina Holding SA,CAV.PL,Warszawa,CAV.WA
+630,CAVA Group Inc,CAVA.US,New York,CAVA
+631,Chubb Ltd,CB.US,New York,CB
+632,CBAK Energy Technology Inc,CBAT.US,New York,CBAT
+633,Cannabis Poland SA,CBD.PL,Warszawa,CBD.WA
+634,Companhia Brasileira de Distribuicao - ADR,CBD.US,New York,CBD
+635,Cyber_Folks SA,CBF.PL,Warszawa,CBF.WA
+636,Close Brothers Group PLC,CBG.UK,London,CBG.L
+637,Commerzbank AG,CBK.DE,Frankfurt,CBK.DE
+638,Cboe Global Markets Inc,CBOE.US,New York,CBOE
+639,CBRE Group Inc - class A,CBRE.US,New York,CBRE
+640,Cracker Barrel Old Country Store Inc,CBRL.US,New York,CBRL
+641,Commerce Bancshares Inc,CBSH.US,New York,CBSH
+642,Cabot Corp,CBT.US,New York,CBT
+643,Chemours Co,CC.US,New York,CC
+644,CCC SA,CCC.PL,Warszawa,CCC.WA
+645,C4 Therapeutics Inc,CCCC.US,New York,CCCC
+646,Coca-Cola Europacific Partners PLC,CCEP.US,New York,CCEP
+647,Coca-Cola HBC AG,CCH.UK,London,CCH.L
+648,Crown Castle International Corp,CCI.US,New York,CCI
+649,Churchill Capital IV Corp - class A,CCIV.US,New York,CCIV
+650,Cameco Corp,CCJ.US,New York,CCJ
+651,Crown Holdings Inc,CCK.US,New York,CCK
+652,Carnival PLC,CCL.UK,London,CCL.L
+653,Carnival Corp,CCL.US,New York,CCL
+654,Cogent Communications Holdings Inc,CCOI.US,New York,CCOI
+655,Cyfrowe Centrum Serwisowe SA,CCS.PL,Warszawa,CCS.WA
+656,Compania Cervecerias Unidas SA - ADR,CCU.US,New York,CCU
+657,CDA SA,CDA.PL,Warszawa,CDA.WA
+658,Ceridian HCM Holding Inc,CDAY.US,New York,CDAY
+659,Coeur Mining Inc,CDE.US,New York,CDE
+660,Centennial Resource Development Inc - class A,CDEV.US,New York,CDEV
+661,Christian Dior SE,CDI.FR,Paris,CDI.PA
+662,CDRL SA,CDL.PL,Warszawa,CDL.WA
+663,Cardlytics Inc,CDLX.US,New York,CDLX
+664,CareDx Inc,CDNA.US,New York,CDNA
+665,Cadence Design Systems Inc,CDNS.US,New York,CDNS
+666,Codere SA/Spain,CDR.ES,Madrid,CDR.MC
+667,CD Projekt SA,CDR.PL,Warszawa,CDR.WA
+668,CDW Corp,CDW.US,New York,CDW
+669,Celanese Corp - class A,CE.US,New York,CE
+670,CECONOMY AG,CEC.DE,Frankfurt,CEC.DE
+671,Constellation Energy Corp,CEG.US,New York,CEG
+672,CONSOL Energy Inc,CEIX.US,New York,CEIX
+673,Celsius Holdings Inc,CELH.US,New York,CELH
+674,PhenomeX Inc,CELL.US,New York,CELL
+675,Cenntro Electric Group Ltd,CENN.US,New York,CENN
+676,Cemtrex Inc,CETX.US,New York,CETX
+677,CEVA Inc,CEVA.US,New York,CEVA
+678,Centamin PLC,CEY.UK,London,CEY.L
+679,CEZ AS,CEZ1.CZ,Prague,CEZ1.PR
+680,CEZ as,CEZ.PL,Warszawa,CEZ.WA
+681,CF Industries Holdings Inc,CF.US,New York,CF
+682,Creativeforge Games SA,CFG.PL,Warszawa,CFG.WA
+683,Citizens Financial Group Inc,CFG.US,New York,CFG
+684,CFI Holding SA,CFI.PL,Warszawa,CFI.WA
+685,Confluent Inc - class A,CFLT.US,New York,CFLT
+686,Cie Financiere Richemont SA,CFR.CH,Zurich,CFR.SW
+687,Centrum Finansowe SA,CFS.PL,Warszawa,CFS.WA
+688,Carlyle Group Inc,CG.US,New York,CG
+689,Canopy Growth Corp,CGC.US,New York,CGC
+690,Cargotec Oyj - class B,CGCBV.FI,Helsinki,CGCBV.HE
+691,CGG SA,CGG.FR,Paris,CGG.PA
+692,Cognex Corp,CGNX.US,New York,CGNX
+693,Church & Dwight Co Inc,CHD.US,New York,CHD
+694,Chemed Corp,CHE.US,New York,CHE
+695,Check Cap Ltd,CHEK.US,New York,CHEK
+696,Chegg Inc,CHGG.US,New York,CHGG
+697,Choice Hotels International Inc,CHH.US,New York,CHH
+698,Chesapeake Energy Corp,CHK.US,New York,CHK
+699,Check Point Software Technologies Ltd,CHKP.US,New York,CHKP
+700,Cherrypick Games SA,CHP.PL,Warszawa,CHP.WA
+701,ChargePoint Holdings Inc - class A,CHPT.US,New York,CHPT
+702,Chord Energy Corp,CHRD.US,New York,CHRD
+703,Coherus Biosciences Inc,CHRS.US,New York,CHRS
+704,CH Robinson Worldwide Inc,CHRW.US,New York,CHRW
+705,Charter Communications Inc,CHTR.US,New York,CHTR
+706,Chewy Inc - class A,CHWY.US,New York,CHWY
+707,Cigna Corp,CI.US,New York,CI
+708,Bancolombia SA - ADR,CIB.US,New York,CIB
+709,CIE Automotive SA,CIE.ES,Madrid,CIE.MC
+710,Ciech SA,CIE.PL,Warszawa,CIE.WA
+711,Ciena Corp,CIEN.US,New York,CIEN
+712,Cipher Mining Inc,CIFR.US,New York,CIFR
+713,CI Games SA,CIG.PL,Warszawa,CIG.WA
+714,Colliers International Group Inc,CIGI.US,New York,CIGI
+715,Chimera Investment Corp,CIM.US,New York,CIM
+716,Cincinnati Financial Corp,CINF.US,New York,CINF
+717,Civitas Resources Inc,CIVI.US,New York,CIVI
+718,Colgate-Palmolive Co,CL.US,New York,CL
+719,Claranova SADIR,CLA.FR,Paris,CLA.PA
+720,Clariane SE,CLARI.FR,Paris,CLARI.PA
+721,Columbus Energy SA,CLC.PL,Warszawa,CLC.WA
+722,Cloud Technologies SA,CLD.PL,Warszawa,CLD.WA
+723,Celldex Therapeutics Inc,CLDX.US,New York,CLDX
+724,Coal Energy SA,CLE.PL,Warszawa,CLE.WA
+725,Cleveland-Cliffs Inc,CLF.US,New York,CLF
+726,Clearfield Inc,CLFD.US,New York,CLFD
+727,Celon Pharma SA,CLN.PL,Warszawa,CLN.WA
+728,Clean Energy Fuels Corp,CLNE.US,New York,CLNE
+729,Cellnex Telecom SA,CLNX.ES,Madrid,CLNX.MC
+730,Clover Health Investments Corp - class A,CLOV.US,New York,CLOV
+731,Celestica Inc,CLS.US,New York,CLS
+732,CleanSpark Inc,CLSK.US,New York,CLSK
+733,Celsion Corp,CLSN.US,New York,CLSN
+734,Clovis Oncology Inc,CLVS.US,New York,CLVS
+735,Clorox Co,CLX.US,New York,CLX
+736,Canadian Imperial Bank of Commerce,CM.US,New York,CM
+737,Comerica Inc,CMA.US,New York,CMA
+738,Commercial Metals Co,CMC.US,New York,CMC
+739,Comcast Corp,CMCSA.US,New York,CMCSA
+740,CMC Markets PLC,CMCX.UK,London,CMCX.L
+741,CME Group Inc,CME.US,New York,CME
+742,Chipotle Mexican Grill Inc - class A,CMG.US,New York,CMG
+743,CM International SA,CMI.PL,Warszawa,CMI.WA
+744,Cummins Inc,CMI.US,New York,CMI
+745,Comp SA,CMP.PL,Warszawa,CMP.WA
+746,Compass Pathways PLC - ADR,CMPS.US,New York,CMPS
+747,ComArch SA,CMR.PL,Warszawa,CMR.WA
+748,Costamare Inc,CMRE.US,New York,CMRE
+749,CMS Energy Corp,CMS.US,New York,CMS
+750,Centrica PLC,CNA.UK,London,CNA.L
+751,Centene Corp,CNC.US,New York,CNC
+752,CNH Industrial NV,CNHI.IT,Milan,CNHI.MI
+753,Canadian National Railway Co,CNI.US,New York,CNI
+754,Cinemark Holdings Inc,CNK.US,New York,CNK
+755,CNO Financial Group Inc,CNO.US,New York,CNO
+756,CenterPoint Energy Inc,CNP.US,New York,CNP
+757,Canadian Natural Resources Ltd,CNQ.US,New York,CNQ
+758,CNX Resources Corp,CNX.US,New York,CNX
+759,Concentrix Corp,CNXC.US,New York,CNXC
+760,Casino Guichard Perrachon SA,CO.FR,Paris,CO.PA
+761,Co-Diagnostics Inc,CODX.US,New York,CODX
+762,Capital One Financial Corp,COF.US,New York,COF
+763,Coface SA,COFA.FR,Paris,COFA.PA
+764,Cofinimmo SA,COFB.BE,Brussels,COFB.BR
+765,Cognor SA,COG.PL,Warszawa,COG.WA
+766,Cabot Oil & Gas Corp,COG.US,New York,COG
+767,Coherent Inc,COHR.US,New York,COHR
+768,Coinbase Global Inc - class A,COIN.US,New York,COIN
+769,Cancom SE,COK.DE,Frankfurt,COK.DE
+770,Coca-Cola Consolidated Inc,COKE.US,New York,COKE
+771,Inmobiliaria Colonial Socimi SA,COL.ES,Madrid,COL.MC
+772,Columbia Sportswear Co,COLM.US,New York,COLM
+773,Coloplast A/S,COLOB.DK,Copenhagen,COLOB.CO
+774,Colruyt SA,COLR.BE,Brussels,COLR.BR
+775,CommScope Holding Co Inc,COMM.US,New York,COMM
+776,Continental AG,CON.DE,Frankfurt,CON.DE
+777,Cooper Cos Inc,COO.US,New York,COO
+778,Mr. Cooper Group Inc,COOP.US,New York,COOP
+779,ConocoPhillips,COP.US,New York,COP
+780,Cencora Inc,COR1.US,New York,COR1
+781,Corticeira Amorim SGPS SA,COR.PT,Lisbon,COR.LS
+782,Costco Wholesale Corp,COST.US,New York,COST
+783,Coty Inc - class A,COTY.US,New York,COTY
+784,Coursera Inc,COUR.US,New York,COUR
+785,Covivio SA,COV.FR,Paris,COV.PA
+786,Canadian Pacific Railway Ltd,CP.US,New York,CP
+787,Copa Holdings SA,CPA.US,New York,CPA
+788,Corpay Inc,CPAY.US,New York,CPAY
+789,Campbell Soup Co,CPB.US,New York,CPB
+790,CPD SA,CPD.PL,Warszawa,CPD.WA
+791,Capital Park SA,CPG.PL,Warszawa,CPG.WA
+792,Compass Group PLC,CPG.UK,London,CPG.L
+793,Capita PLC,CPI.UK,London,CPI.L
+794,Care Property Invest NV,CPINV.BE,Brussels,CPINV.BR
+795,Coupang Inc - class A,CPNG.US,New York,CPNG
+796,Davide Campari-Milano SpA,CPR.IT,Milan,CPR.MI
+797,Compremum SA,CPR.PL,Warszawa,CPR.WA
+798,Capri Holdings Ltd,CPRI.US,New York,CPRI
+799,Copart Inc,CPRT.US,New York,CPRT
+800,Catalyst Pharmaceuticals Inc,CPRX.US,New York,CPRX
+801,Cyfrowy Polsat SA,CPS.PL,Warszawa,CPS.WA
+802,Cooper-Standard Holdings Inc,CPS.US,New York,CPS
+803,Camden Property Trust,CPT.US,New York,CPT
+804,Crayon Group Holding ASA,CRAYN.NO,Oslo,CRAYN.OL
+805,Carbon Studio SA,CRB.PL,Warszawa,CRB.WA
+806,Corebridge Financial Inc,CRBG.US,New York,CRBG
+807,Corbus Pharmaceuticals Holdings Inc,CRBP.US,New York,CRBP
+808,Croda International PLC,CRDA.UK,London,CRDA.L
+809,Cardiff Oncology Inc,CRDF.US,New York,CRDF
+810,Credo Technology Group Holding Ltd,CRDO.US,New York,CRDO
+811,Custodian REIT PLC,CREI.UK,London,CREI.L
+812,CRH PLC,CRH.UK,London,CRH.L
+813,Chargeurs SA,CRI.FR,Paris,CRI.PA
+814,Creotech Instruments SA,CRI.PL,Warszawa,CRI.WA
+815,Carter's Inc,CRI.US,New York,CRI
+816,Curis Inc,CRIS.US,New York,CRIS
+817,Creepy Jar SA,CRJ.PL,Warszawa,CRJ.WA
+818,Charles River Laboratories International Inc,CRL.US,New York,CRL
+819,Grupa Kapitalowa PZ Cormay SA,CRM.PL,Warszawa,CRM.WA
+820,salesforce.com Inc,CRM.US,New York,CRM
+821,Cerence Inc,CRNC.US,New York,CRNC
+822,Cronos Group Inc,CRON.US,New York,CRON
+823,Crocs Inc,CROX.US,New York,CROX
+824,CRISPR Therapeutics AG,CRSP.US,New York,CRSP
+825,Corsair Gaming Inc,CRSR.US,New York,CRSR
+826,Crest Nicholson Holdings plc,CRST.UK,London,CRST.L
+827,Criteo SA - ADR,CRTO.US,New York,CRTO
+828,Cirrus Logic Inc,CRUS.US,New York,CRUS
+829,Crowdstrike Holdings Inc - class A,CRWD.US,New York,CRWD
+830,AXA SA,CS.FR,Paris,CS.PA
+831,Cisco Systems Inc,CSCO.US,New York,CSCO
+832,CoStar Group Inc,CSGP.US,New York,CSGP
+833,Civitas Social Housing PLC,CSH.UK,London,CSH.L
+834,Canadian Solar Inc,CSIQ.US,New York,CSIQ
+835,Carlisle Cos Inc,CSL.US,New York,CSL
+836,Castle Biosciences Inc,CSTL.US,New York,CSTL
+837,Capital Southwest Corp,CSWC.US,New York,CSWC
+838,CSX Corp,CSX.US,New York,CSX
+839,Cintas Corp,CTAS.US,New York,CTAS
+840,Coterra Energy Inc,CTRA.US,New York,CTRA
+841,CareTrust REIT Inc,CTRE.US,New York,CTRE
+842,Castor Maritime Inc,CTRM.US,New York,CTRM
+843,Cognizant Technology Solutions - class A,CTSH.US,New York,CTSH
+844,CTT-Correios de Portugal SA,CTT.PT,Lisbon,CTT.LS
+845,Corteva Inc,CTVA.US,New York,CTVA
+846,Captor Therapeutics SA,CTX.PL,Warszawa,CTX.WA
+847,CubeSmart,CUBE.US,New York,CUBE
+848,Curiositystream Inc. - class A,CURI.US,New York,CURI
+849,Currys PLC,CURY.UK,London,CURY.L
+850,Cousins Properties Inc,CUZ.US,New York,CUZ
+851,CureVac N.V.,CVAC.US,New York,CVAC
+852,CVC Capital Partners PLC,CVC.NL,Amsterdam,CVC.AS
+853,Cavco Industries Inc,CVCO.US,New York,CVCO
+854,Cenovus Energy Inc,CVE.US,New York,CVE
+855,CommVault Systems Inc,CVLT.US,New York,CVLT
+856,Carvana Co - class A,CVNA.US,New York,CVNA
+857,CVS Health Corp,CVS.US,New York,CVS
+858,Chevron Corp,CVX.US,New York,CVX
+859,Clearway Energy Inc - class C,CWEN.US,New York,CWEN
+860,Camping World Holdings Inc - class A,CWH.US,New York,CWH
+861,Cranswick PLC,CWK.UK,London,CWK.L
+862,Casella Waste Systems Inc - class A,CWST.US,New York,CWST
+863,CXApp Inc - class A,CXAI.US,New York,CXAI
+864,Sprinklr Inc - class A,CXM.US,New York,CXM
+865,CoreCivic Inc,CXW.US,New York,CXW
+866,Celyad SA,CYAD.BE,Brussels,CYAD.BR
+867,CyberArk Software Ltd,CYBR.US,New York,CYBR
+868,Community Health Systems Inc,CYH.US,New York,CYH
+869,Cytokinetics Inc,CYTK.US,New York,CYTK
+870,Ceska zbrojovka Partners SE,CZG.CZ,Prague,CZG.PR
+871,Caesars Entertainment Corp,CZR.US,New York,CZR
+872,Dominion Energy Inc,D.US,New York,D
+873,Danaos Corp,DAC.US,New York,DAC
+874,Dadelo SA,DADA.PL,Warszawa,DADA.WA
+875,Dada Nexus Ltd - ADR,DADA.US,New York,DADA
+876,Daimler AG,DAI.DE,Frankfurt,DAI.DE
+877,Delta Air Lines Inc,DAL.US,New York,DAL
+878,Danieli & C Officine Meccaniche SpA,DAN.IT,Milan,DAN.MI
+879,Dana Inc,DAN.US,New York,DAN
+880,Danske Bank A/S,DANSKE.DK,Copenhagen,DANSKE.CO
+881,Youdao Inc - ADR,DAO.US,New York,DAO
+882,Darling Ingredients Inc,DAR.US,New York,DAR
+883,Darktrace PLC,DARK.UK,London,DARK.L
+884,DoorDash Inc - class A,DASH.US,New York,DASH
+885,Datawalk SA,DAT.PL,Warszawa,DAT.WA
+886,Endava PLC - ADR,DAVA.US,New York,DAVA
+887,Dayforce Inc,DAY.US,New York,DAY
+888,Deutsche Boerse AG,DB1.DE,Frankfurt,DB1.DE
+889,Deutsche Bank AG,DB.US,New York,DB
+890,Firma Oponiarska Debica SA,DBC.PL,Warszawa,DBC.WA
+891,DB Energy SA,DBE.PL,Warszawa,DBE.WA
+892,Derichebourg SA,DBG.FR,Paris,DBG.PA
+893,Designer Brands Inc - class A,DBI.US,New York,DBI
+894,Deutsche Bank AG,DBK.DE,Frankfurt,DBK.DE
+895,DBV Technologies SA,DBV.FR,Paris,DBV.PA
+896,Dropbox INC. - class A,DBX.US,New York,DBX
+897,Dixons Carphone PLC,DC.UK,London,DC.L
+898,DCC PLC,DCC.UK,London,DCC.L
+899,Decora SA,DCR.PL,Warszawa,DCR.WA
+900,DuPont de Nemours Inc,DD.US,New York,DD
+901,3D Systems Corp,DDD.US,New York,DDD
+902,Draw Distance SA,DDI.PL,Warszawa,DDI.WA
+903,Datadog Inc - class A,DDOG.US,New York,DDOG
+904,Dillard's Inc - class A,DDS.US,New York,DDS
+905,Deere & Co,DE.US,New York,DE
+906,Easterly Government Properties Inc,DEA.US,New York,DEA
+907,Debenhams PLC,DEB.UK,London,DEB.L
+908,JCDecaux SA,DEC.FR,Paris,DEC.PA
+909,Deckers Outdoor Corp,DECK.US,New York,DECK
+910,Douglas Emmett Inc,DEI.US,New York,DEI
+911,Dekpol SA,DEK.PL,Warszawa,DEK.WA
+912,Delko SA,DEL.PL,Warszawa,DEL.WA
+913,Dell Technologies Inc,DELL.US,New York,DELL
+914,Demant A/S,DEMANT.DK,Copenhagen,DEMANT.CO
+915,Diageo PLC - ADR,DEO.US,New York,DEO
+916,Deutsche EuroShop AG,DEQ.DE,Frankfurt,DEQ.DE
+917,DEUTZ AG,DEZ.DE,Frankfurt,DEZ.DE
+918,Discover Financial Services,DFS.US,New York,DFS
+919,Vinci SA,DG.FR,Paris,DG.PA
+920,Dollar General Corp,DG.US,New York,DG
+921,DGA SA,DGA.PL,Warszawa,DGA.WA
+922,Drago Entertainment SA,DGE.PL,Warszawa,DGE.WA
+923,Diageo PLC,DGE.UK,London,DGE.L
+924,DG-Net SA,DGN.PL,Warszawa,DGN.WA
+925,Quest Diagnostics Inc,DGX.US,New York,DGX
+926,Diversified Healthcare Trust,DHC.US,New York,DHC
+927,Delivery Hero SE,DHER.DE,Frankfurt,DHER.DE
+928,DR Horton Inc,DHI.US,New York,DHI
+929,Deutsche Post AG,DHL.DE,Frankfurt,DHL.DE
+930,Danaher Corp,DHR.US,New York,DHR
+931,DHT Holdings Inc,DHT.US,New York,DHT
+932,Distribuidora Internacional de Alimentacion SA,DIA.ES,Madrid,DIA.MC
+933,DiaSorin SpA,DIA.IT,Milan,DIA.MI
+934,Digital Bros SpA,DIB.IT,Milan,DIB.MI
+935,DiDi Global Inc - class A,DIDI.US,New York,DIDI
+936,D'ieteren SA/NV,DIE.BE,Brussels,DIE.BR
+937,Digital Network SA,DIG.PL,Warszawa,DIG.WA
+938,Sartorius Stedim Biotech,DIM.FR,Paris,DIM.PA
+939,Dine Brands Global Inc,DIN.US,New York,DIN
+940,HF Sinclair Corp,DINO.US,New York,DINO
+941,Walt Disney Co,DIS.US,New York,DIS
+942,Discovery Communications Inc,DISCA.US,New York,DISCA
+943,Discovery Communications Inc,DISCK.US,New York,DISCK
+944,Delek US Holdings Inc,DK.US,New York,DK
+945,Draftkings Inc - class A,DKNG.US,New York,DKNG
+946,Dektra SA,DKR.PL,Warszawa,DKR.WA
+947,Dick's Sporting Goods Inc,DKS.US,New York,DKS
+948,Dolby Laboratories Inc - class A,DLB.US,New York,DLB
+949,Direct Line Insurance Group PLC,DLG.UK,London,DLG.L
+950,Derwent London PLC,DLN.UK,London,DLN.L
+951,Dlocal Ltd - class A,DLO.US,New York,DLO
+952,Digital Realty Trust Inc,DLR.US,New York,DLR
+953,Dollar Tree Inc,DLTR.US,New York,DLTR
+954,Deluxe Corp,DLX.US,New York,DLX
+955,Desktop Metal Inc - class A,DM.US,New York,DM
+956,Dr Miele Cosmed Group SA,DMG.PL,Warszawa,DMG.WA
+957,DermTech Inc,DMTK.US,New York,DMTK
+958,Ginkgo Bioworks Holdings Inc - class A,DNA.US,New York,DNA
+959,DNB ASA,DNB.NO,Oslo,DNB.OL
+960,Danimer Scientific Inc - class A,DNMR.US,New York,DNMR
+961,Denison Mines Corp,DNN.US,New York,DNN
+962,DNO ASA,DNO.NO,Oslo,DNO.OL
+963,NOW Inc,DNOW.US,New York,DNOW
+964,Dino Polska SA,DNP.PL,Warszawa,DNP.WA
+965,Krispy Kreme Inc,DNUT.US,New York,DNUT
+966,Healthpeak Properties Inc,DOC1.US,New York,DOC1
+967,DigitalOcean Holdings Inc,DOCN.US,New York,DOCN
+968,Doximity Inc - class A,DOCS.US,New York,DOCS
+969,DocuSign Inc - class A,DOCU.US,New York,DOCU
+970,Global Dominion Access SA,DOM.ES,Madrid,DOM.MC
+971,Dom Development SA,DOM.PL,Warszawa,DOM.WA
+972,Domino's Pizza Group PLC,DOM.UK,London,DOM.L
+973,Domo Inc - class B,DOMO.US,New York,DOMO
+974,Douglas AG,DOU.DE,Frankfurt,DOU.DE
+975,Dover Corp,DOV.US,New York,DOV
+976,Dow Inc,DOW.US,New York,DOW
+977,Amdocs Ltd,DOX.US,New York,DOX
+978,DouYu International Holdings Ltd - ADR,DOYU.US,New York,DOYU
+979,Dechra Pharmaceuticals PLC,DPH.UK,London,DPH.L
+980,Diamondpeak Holdings Corp - class A,DPHC.US,New York,DPHC
+981,Drozapol Profil SA,DPL.PL,Warszawa,DPL.WA
+982,Deutsche Post AG,DPW.DE,Frankfurt,DPW.DE
+983,Domino's Pizza Inc,DPZ.US,New York,DPZ
+984,Daqo New Energy Corp - ADR,DQ.US,New York,DQ
+985,Darden Restaurants Inc,DRI.US,New York,DRI
+986,Draegerwerk AG & Co KGaA - preference shares,DRW3.DE,Frankfurt,DRW3.DE
+987,Draegerwerk AG & Co KGaA,DRW8.DE,Frankfurt,DRW8.DE
+988,Drax Group PLC,DRX.UK,London,DRX.L
+989,Drive Shack Inc,DS.US,New York,DS
+990,Diversey Holdings Ltd,DSEY.US,New York,DSEY
+991,DSM-Firmenich AG,DSFIR.NL,Amsterdam,DSFIR.AS
+992,Descartes Systems Group Inc,DSGX.US,New York,DSGX
+993,Viant Technology Inc - class A,DSP.US,New York,DSP
+994,DSV A/S,DSV.DK,Copenhagen,DSV.CO
+995,Dassault Systemes SE,DSY.FR,Paris,DSY.PA
+996,Dynatrace Inc,DT.US,New York,DT
+997,Deutsche Telekom AG,DTE.DE,Frankfurt,DTE.DE
+998,DTE Energy Co,DTE.US,New York,DTE
+999,Daimler Truck Holding AG,DTG.DE,Frankfurt,DTG.DE
+1000,Duality SA,DUA.PL,Warszawa,DUA.WA
+1001,Duerr AG,DUE.DE,Frankfurt,DUE.DE
+1002,Duke Energy Corp,DUK.US,New York,DUK
+1003,Duolingo Inc - class A,DUOL.US,New York,DUOL
+1004,DoubleVerify Holdings Inc,DV.US,New York,DV
+1005,DaVita Inc,DVA.US,New York,DVA
+1006,Dynavax Technologies Corp,DVAX.US,New York,DVAX
+1007,Develia SA,DVL.PL,Warszawa,DVL.WA
+1008,Devon Energy Corp,DVN.US,New York,DVN
+1009,Dowlais Group Plc,DWL.UK,London,DWL.L
+1010,Deutsche Wohnen SE,DWNI.DE,Frankfurt,DWNI.DE
+1011,DWS Group GmbH & Co KgaA,DWS.DE,Frankfurt,DWS.DE
+1012,DXC Technology Co,DXC.US,New York,DXC
+1013,DexCom Inc,DXCM.US,New York,DXCM
+1014,Destiny Tech100 Inc,DXYZ.US,New York,DXYZ
+1015,Dycom Industries Inc,DY.US,New York,DY
+1016,Eni SpA - ADR,E.US,New York,E
+1017,Electronic Arts Inc,EA.US,New York,EA
+1018,GrafTech International Ltd,EAF.US,New York,EAF
+1019,Esotiq & Henderson SA,EAH.PL,Warszawa,EAH.WA
+1020,AmRest Holdings SE,EAT.PL,Warszawa,EAT.WA
+1021,Brinker International Inc,EAT.US,New York,EAT
+1022,Eventbrite Inc - class A,EB.US,New York,EB
+1023,eBay Inc,EBAY.US,New York,EBAY
+1024,Eastern Bankshares Inc,EBC.US,New York,EBC
+1025,Ebro Foods SA,EBRO.ES,Madrid,EBRO.MC
+1026,Emergent BioSolutions Inc,EBS.US,New York,EBS
+1027,Sedivio SA,EC2.PL,Warszawa,EC2.WA
+1028,Ecopetrol SA - ADR,EC.US,New York,EC
+1029,ECC Games SA,ECC.PL,Warszawa,ECC.WA
+1030,Echo Investment SA,ECH.PL,Warszawa,ECH.WA
+1031,Eurosnack SA,ECK.PL,Warszawa,ECK.WA
+1032,Ecolab Inc,ECL.US,New York,ECL
+1033,Electrocomponents PLC,ECM.UK,London,ECM.L
+1034,Eurocommercial Properties NV,ECMPA.NL,Amsterdam,ECMPA.AS
+1035,Ecnology Group SA,ECN.PL,Warszawa,ECN.WA
+1036,Ercros SA,ECR.ES,Madrid,ECR.MC
+1037,Encavis AG,ECV.DE,Frankfurt,ECV.DE
+1038,Consolidated Edison Inc,ED.US,New York,ED
+1039,Edenred,EDEN.FR,Paris,EDEN.PA
+1040,ED Invest SA,EDI.PL,Warszawa,EDI.WA
+1041,Editas Medicine Inc,EDIT.US,New York,EDIT
+1042,EDP - Energias de Portugal SA,EDP.PT,Lisbon,EDP.LS
+1043,EDP Renovaveis SA,EDPR.PT,Lisbon,EDPR.LS
+1044,eDreams ODIGEO SA,EDR.ES,Madrid,EDR.MC
+1045,Endeavor Group Holdings Inc - class A,EDR.US,New York,EDR
+1046,New Oriental Education & Technology Group Inc. - ADR,EDU.US,New York,EDU
+1047,Excelerate Energy Inc - class A,EE.US,New York,EE
+1048,Ekipa Holding SA,EEE.PL,Warszawa,EEE.WA
+1049,Euronet Worldwide Inc,EEFT.US,New York,EEFT
+1050,Eko Export SA,EEX.PL,Warszawa,EEX.WA
+1051,EFG International AG,EFGN.CH,Zurich,EFGN.SW
+1052,Equifax Inc,EFX.US,New York,EFX
+1053,Ekopol Gornoslaski Holding SA,EGH.PL,Warszawa,EGH.WA
+1054,8x8 Inc,EGHT.US,New York,EGHT
+1055,Mota-Engil SGPS SA,EGL.PT,Lisbon,EGL.LS
+1056,Eldorado Gold Corp,EGO.US,New York,EGO
+1057,Eastgroup Properties Inc,EGP.US,New York,EGP
+1058,Ehang Holdings Ltd - ADR,EH.US,New York,EH
+1059,EuroHold Bulgaria AD,EHG.PL,Warszawa,EHG.WA
+1060,eHealth Inc,EHTH.US,New York,EHTH
+1061,Edison International,EIX.US,New York,EIX
+1062,Elkop SE,EKP.PL,Warszawa,EKP.WA
+1063,Ekso Bionics Holdings Inc,EKSO.US,New York,EKSO
+1064,Elekta AB (publ) - class B,EKTAB1.SE,Stockholm,EKTAB1.ST
+1065,EssilorLuxottica,EL.FR,Paris,EL.PA
+1066,Estee Lauder Cos Inc - class A,EL.US,New York,EL
+1067,Elanco Animal Health Inc,ELAN.US,New York,ELAN
+1068,Elica SpA,ELC.IT,Milan,ELC.MI
+1069,Endesa SA,ELE.ES,Madrid,ELE.MC
+1070,elf Beauty Inc,ELF.US,New York,ELF
+1071,Elia System Operator SA/NV,ELI.BE,Brussels,ELI.BR
+1072,Elior Group SA,ELIOR.FR,Paris,ELIOR.PA
+1073,Elis SA,ELIS.FR,Paris,ELIS.PA
+1074,Elisa OYJ,ELISA.FI,Helsinki,ELISA.HE
+1075,Elkem ASA,ELK.NO,Oslo,ELK.OL
+1076,Elementis PLC,ELM.UK,London,ELM.L
+1077,Elmera Group ASA,ELMRA.NO,Oslo,ELMRA.OL
+1078,Elektrotim SA,ELT.PL,Warszawa,ELT.WA
+1079,Electrolux AB,ELUXB.SE,Stockholm,ELUXB.ST
+1080,Elevance Health Inc,ELV.US,New York,ELV
+1081,Callaway Golf Co,ELY.US,New York,ELY
+1082,Embracer Group AB - class B,EMBRACB.SE,Stockholm,EMBRACB.ST
+1083,EMCOR Group Inc,EME.US,New York,EME
+1084,Eastman Chemical Co,EMN.US,New York,EMN
+1085,Emplocity SA,EMP1.PL,Warszawa,EMP1.WA
+1086,Emerson Electric Co,EMR.US,New York,EMR
+1087,Bouygues SA,EN.FR,Paris,EN.PA
+1088,Enea SA,ENA.PL,Warszawa,ENA.WA
+1089,Enbridge Inc,ENB.US,New York,ENB
+1090,Ence Energia y Celulosa SA,ENC.ES,Madrid,ENC.MC
+1091,Enel SpA,ENEL.IT,Milan,ENEL.MI
+1092,Enagas SA,ENG.ES,Madrid,ENG.MC
+1093,Energa SA - class A,ENG.PL,Warszawa,ENG.WA
+1094,Engie SA,ENGI.FR,Paris,ENGI.PA
+1095,Eni SpA,ENI.IT,Milan,ENI.MI
+1096,Energoinstal SA,ENI.PL,Warszawa,ENI.WA
+1097,Enphase Energy Inc,ENPH.US,New York,ENPH
+1098,Siemens Energy AG,ENR.DE,Frankfurt,ENR.DE
+1099,EnerSys,ENS.US,New York,ENS
+1100,Ensign Group Inc,ENSG.US,New York,ENSG
+1101,Enter Air SA,ENT.PL,Warszawa,ENT.WA
+1102,Entain PLC,ENT.UK,London,ENT.L
+1103,Enanta Pharmaceuticals Inc,ENTA.US,New York,ENTA
+1104,Entegris Inc,ENTG.US,New York,ENTG
+1105,Enovix Corp,ENVX.US,New York,ENVX
+1106,Euronext NV,ENX.FR,Paris,ENX.PA
+1107,Faurecia SA,EO.FR,Paris,EO.PA
+1108,E.ON SE,EOAN.DE,Frankfurt,EOAN.DE
+1109,EOG Resources Inc,EOG.US,New York,EOG
+1110,Eolus Vind AB (publ) - class B,EOLUB.SE,Stockholm,EOLUB.ST
+1111,EPAM Systems Inc,EPAM.US,New York,EPAM
+1112,Edgewell Personal Care Co,EPC.US,New York,EPC
+1113,EPR Properties,EPR.US,New York,EPR
+1114,Essential Properties Realty Trust Inc,EPRT.US,New York,EPRT
+1115,AXA Equitable Holdings Inc,EQH.US,New York,EQH
+1116,Equinix Inc,EQIX.US,New York,EQIX
+1117,Equinor ASA,EQNR.NO,Oslo,EQNR.OL
+1118,Equinor ASA - ADR,EQNR.US,New York,EQNR
+1119,Equity Residential,EQR.US,New York,EQR
+1120,EQT Corp,EQT.US,New York,EQT
+1121,Equinox Gold Corp,EQX.US,New York,EQX
+1122,Eramet,ERA.FR,Paris,ERA.PA
+1123,Erato Energy SA,ERA.PL,Warszawa,ERA.WA
+1124,Erbud SA,ERB.PL,Warszawa,ERB.WA
+1125,Eurofins Scientific SE,ERF.FR,Paris,ERF.PA
+1126,Telefonaktiebolaget LM Ericsson - class B,ERIC.US,New York,ERIC
+1127,Telefonaktiebolaget LM Ericsson - class B,ERICB.SE,Stockholm,ERICB.ST
+1128,Energy Recovery Inc,ERII.US,New York,ERII
+1129,Embraer SA - ADR,ERJ.US,New York,ERJ
+1130,Eversource Energy,ES.US,New York,ES
+1131,Eddie Stobart Logistics PLC,ESL.UK,London,ESL.L
+1132,Essentra PLC,ESNT.UK,London,ESNT.L
+1133,Esperion Therapeutics Inc,ESPR.US,New York,ESPR
+1134,Empire State Realty Trust Inc - class A,ESRT.US,New York,ESRT
+1135,Essex Property Trust Inc,ESS.US,New York,ESS
+1136,Essity AB,ESSITYB.SE,Stockholm,ESSITYB.ST
+1137,Elastic NV,ESTC.US,New York,ESTC
+1138,Ensco PLC - class A,ESV.US,New York,ESV
+1139,Eurotech SpA,ETH.IT,Milan,ETH.MI
+1140,Eutelsat Communications SA,ETL.FR,Paris,ETL.PA
+1141,Eurotel SA,ETL.PL,Warszawa,ETL.WA
+1142,Eaton Corp PLC,ETN.US,New York,ETN
+1143,Entergy Corp,ETR.US,New York,ETR
+1144,Equitrans Midstream Corp,ETRN.US,New York,ETRN
+1145,Etsy Inc,ETSY.US,New York,ETSY
+1146,Europejskie Centrum Odszkodowan SA,EUC.PL,Warszawa,EUC.WA
+1147,Eurocash SA,EUR.PL,Warszawa,EUR.WA
+1148,Euronav NV,EURN.BE,Brussels,EURN.BR
+1149,Euronav NV,EURN.US,New York,EURN
+1150,EverQuote Inc - class A,EVER.US,New York,EVER
+1151,Evonik Industries AG,EVK.DE,Frankfurt,EVK.DE
+1152,Evolution AB,EVO.SE,Stockholm,EVO.ST
+1153,Evoke PLC,EVOK.UK,London,EVOK.L
+1154,Evraz PLC,EVR.UK,London,EVR.L
+1155,Evercore Inc - class A,EVR.US,New York,EVR
+1156,Evergy Inc,EVRG.US,New York,EVRG
+1157,Evotec AG,EVT.DE,Frankfurt,EVT.DE
+1158,Edwards Lifesciences Corp,EW.US,New York,EW
+1159,East West Bancorp Inc,EWBC.US,New York,EWBC
+1160,Exscientia PLC - ADR,EXAI.US,New York,EXAI
+1161,Exact Sciences Corp,EXAS.US,New York,EXAS
+1162,Excellence SA,EXC.PL,Warszawa,EXC.WA
+1163,Exelon Corp,EXC.US,New York,EXC
+1164,Exelixis Inc,EXEL.US,New York,EXEL
+1165,Expensify Inc - class A,EXFY.US,New York,EXFY
+1166,Endeavour Silver Corp,EXK.US,New York,EXK
+1167,EXOR NV,EXO.IT,Milan,EXO.MI
+1168,Eagle Materials Inc,EXP.US,New York,EXP
+1169,Expeditors International of Washington Inc,EXPD.US,New York,EXPD
+1170,Expedia Inc,EXPE.US,New York,EXPE
+1171,eXp World Holdings Inc,EXPI.US,New York,EXPI
+1172,Experian PLC,EXPN.UK,London,EXPN.L
+1173,Exponent Inc,EXPO.US,New York,EXPO
+1174,Express Inc,EXPR.US,New York,EXPR
+1175,Extra Space Storage Inc,EXR.US,New York,EXR
+1176,Extreme Networks Inc,EXTR.US,New York,EXTR
+1177,Grupo Ezentis SA,EZE.ES,Madrid,EZE.MC
+1178,easyJet PLC,EZJ.UK,London,EZJ.L
+1179,SFC Energy AG,F3C.DE,Frankfurt,F3C.DE
+1180,Farm 51 Group,F51.PL,Warszawa,F51.WA
+1181,Ford Motor Co,F.US,New York,F
+1182,Fabrity Holding SA,FAB.PL,Warszawa,FAB.WA
+1183,Facephi Biometria SA,FACE.ES,Madrid,FACE.MC
+1184,Faes Farma SA,FAE.ES,Madrid,FAE.MC
+1185,First American Financial Corp,FAF.US,New York,FAF
+1186,Diamondback Energy Inc,FANG.US,New York,FANG
+1187,FARO Technologies Inc,FARO.US,New York,FARO
+1188,Fastenal Co,FAST.US,New York,FAST
+1189,Fate Therapeutics Inc,FATE.US,New York,FATE
+1190,Facebook - class A,FB.US,New York,FB
+1191,Fortune Brands Home & Security Inc,FBHS.US,New York,FBHS
+1192,Fortune Brands Innovations Inc,FBIN.US,New York,FBIN
+1193,FinecoBank Banca Fineco SpA,FBK.IT,Milan,FBK.MI
+1194,First BanCorp,FBP.US,New York,FBP
+1195,Fomento de Construcciones y Contratas SA,FCC.ES,Madrid,FCC.MC
+1196,Fuelcell Energy Inc,FCEL.US,New York,FCEL
+1197,First Citizens BancShares Inc (Delaware) - class A,FCNCA.US,New York,FCNCA
+1198,Freeport-McMoRan Inc,FCX.US,New York,FCX
+1199,La Francaise des Jeux SAEM,FDJ.FR,Paris,FDJ.PA
+1200,Fluidra SA,FDR.ES,Madrid,FDR.MC
+1201,Fonciere Des Regions,FDR.FR,Paris,FDR.PA
+1202,FactSet Research Systems Inc,FDS.US,New York,FDS
+1203,FedEx Corp,FDX.US,New York,FDX
+1204,FirstEnergy Corp,FE.US,New York,FE
+1205,Feerum SA,FEE.PL,Warszawa,FEE.WA
+1206,Ferrovial SA,FER.ES,Madrid,FER.MC
+1207,Ferguson PLC,FERG.UK,London,FERG.L
+1208,Fevertree Drinks PLC,FEVR.UK,London,FEVR.L
+1209,Faraday Future Intelligent Electric Inc,FFIE.US,New York,FFIE
+1210,F5 Networks Inc,FFIV.US,New York,FFIV
+1211,Firstgroup PLC,FGP.UK,London,FGP.L
+1212,Eiffage SA,FGR.FR,Paris,FGR.PA
+1213,Federated Hermes Inc - class B,FHI.US,New York,FHI
+1214,First Horizon National Corp,FHN.US,New York,FHN
+1215,Fiserv Inc,FI.US,New York,FI
+1216,Fair Isaac Corp,FICO.US,New York,FICO
+1217,Fielmann AG,FIE.DE,Frankfurt,FIE.DE
+1218,Figene Capital SA,FIG.PL,Warszawa,FIG.WA
+1219,Figs Inc - class A,FIGS.US,New York,FIGS
+1220,Lisi SA,FII.FR,Paris,FII.PA
+1221,Fingerprint Cards AB - class B,FINGB.SE,Stockholm,FINGB.ST
+1222,FinVolution Group - class A,FINV.US,New York,FINV
+1223,Fidelity National Information Services Inc,FIS.US,New York,FIS
+1224,Fiserv Inc,FISV.US,New York,FISV
+1225,Fifth Third Bancorp,FITB.US,New York,FITB
+1226,X5 Retail Group NV - GDR,FIVE.UK,London,FIVE.L
+1227,Five Below Inc,FIVE.US,New York,FIVE
+1228,Five9 Inc,FIVN.US,New York,FIVN
+1229,Comfort Systems USA Inc,FIX.US,New York,FIX
+1230,Homology Medicines Inc,FIXX.US,New York,FIXX
+1231,National Beverage Corp,FIZZ.US,New York,FIZZ
+1232,Foot Locker Inc,FL.US,New York,FL
+1233,Flex Ltd,FLEX.US,New York,FLEX
+1234,Fulgent Genetics Inc,FLGT.US,New York,FLGT
+1235,Fluence Energy Inc - class A,FLNC.US,New York,FLNC
+1236,FLEX LNG Ltd,FLNG.US,New York,FLNG
+1237,Flowers Foods Inc,FLO.US,New York,FLO
+1238,Flow Traders,FLOW.NL,Amsterdam,FLOW.AS
+1239,Fluor Corp,FLR.US,New York,FLR
+1240,FLSmidth & Co A/S,FLS.DK,Copenhagen,FLS.CO
+1241,Flowserve Corp,FLS.US,New York,FLS
+1242,FleetCor Technologies Inc,FLT.US,New York,FLT
+1243,Flutter Entertainment PLC,FLTR.UK,London,FLTR.L
+1244,Flutter Entertainment PLC,FLUT.US,New York,FLUT
+1245,Flywire Corp,FLYW.US,New York,FLYW
+1246,FMC Corp,FMC.US,New York,FMC
+1247,Fresenius Medical Care AG & Co KGaA,FME.DE,Frankfurt,FME.DE
+1248,Famur SA,FMF.PL,Warszawa,FMF.WA
+1249,One SA,FMG.PL,Warszawa,FMG.WA
+1250,Fomento Economico Mexicano - ADR,FMX.US,New York,FMX
+1251,Fnac Darty SA,FNAC.FR,Paris,FNAC.PA
+1252,Floor & Decor Holdings Inc - class A,FND.US,New York,FND
+1253,Fidelity National Financial Inc,FNF.US,New York,FNF
+1254,Funko Inc - class A,FNKO.US,New York,FNKO
+1255,Franco-Nevada Corp,FNV.US,New York,FNV
+1256,Amicus Therapeutics Inc,FOLD.US,New York,FOLD
+1257,Fon SE,FON.PL,Warszawa,FON.WA
+1258,Forever Entertainment SA,FOR.PL,Warszawa,FOR.WA
+1259,Fortum OYJ,FORTUM.FI,Helsinki,FORTUM.HE
+1260,Fossil Group Inc,FOSL.US,New York,FOSL
+1261,Shift4 Payments Inc - class A,FOUR.US,New York,FOUR
+1262,Fox Corp - class B,FOX.US,New York,FOX
+1263,Fox Corp - class A,FOXA.US,New York,FOXA
+1264,Fox Factory Holding Corp,FOXF.US,New York,FOXF
+1265,TOTAL SA,FP.FR,Paris,FP.PA
+1266,FUCHS PETROLUB SE - preference shares,FPE3.DE,Frankfurt,FPE3.DE
+1267,Farmland Partners Inc,FPI.US,New York,FPI
+1268,Valeo SA,FR.FR,Paris,FR.PA
+1269,Fraport AG Frankfurt Airport Services Worldwide,FRA.DE,Frankfurt,FRA.DE
+1270,Frasers Group PLC,FRAS.UK,London,FRAS.L
+1271,First Republic Bank,FRC.US,New York,FRC
+1272,Fresenius SE & Co KGaA,FRE.DE,Frankfurt,FRE.DE
+1273,Fresnillo PLC,FRES.UK,London,FRES.L
+1274,Frontline Ltd,FRO.NO,Oslo,FRO.OL
+1275,Ferro SA,FRO.PL,Warszawa,FRO.WA
+1276,JFrog Ltd,FROG.US,New York,FROG
+1277,Freshpet Inc,FRPT.US,New York,FRPT
+1278,Freshworks Inc - class A,FRSH.US,New York,FRSH
+1279,Foresight Autonomous Holdings Ltd - ADR,FRSX.US,New York,FRSX
+1280,Federal Realty Investment Trust,FRT.US,New York,FRT
+1281,Forvia SE,FRVIA.FR,Paris,FRVIA.PA
+1282,Frozen Way SA,FRW.PL,Warszawa,FRW.WA
+1283,Fabryki Sprzetu i Narzedzi Gorniczych Grupa Kapitalowa Fasing SA,FSG.PL,Warszawa,FSG.WA
+1284,FS KKR Capital Corp,FSK.US,New York,FSK
+1285,First Solar Inc,FSLR.US,New York,FSLR
+1286,Fastly Inc - class A,FSLY.US,New York,FSLY
+1287,Fortuna Silver Mines Inc,FSM.US,New York,FSM
+1288,Fisker Inc - class A CFD,FSR.US,New York,FSR
+1289,Farfetch Ltd - class A,FTCH.US,New York,FTCH
+1290,Fabryki Mebli Forte SA,FTE.PL,Warszawa,FTE.WA
+1291,TechnipFMC PLC,FTI.US,New York,FTI
+1292,flatexDEGIRO AG,FTK.DE,Frankfurt,FTK.DE
+1293,Fortinet Inc,FTNT.US,New York,FTNT
+1294,Fortis Inc,FTS.US,New York,FTS
+1295,Fortive Corp,FTV.US,New York,FTV
+1296,Fubotv Inc,FUBO.US,New York,FUBO
+1297,Fugro NV - class C,FUR.NL,Amsterdam,FUR.AS
+1298,Futu Holdings Ltd - ADR,FUTU.US,New York,FUTU
+1299,Arcimoto Inc,FUV.US,New York,FUV
+1300,Fiverr International Ltd,FVRR.US,New York,FVRR
+1301,Liberty Media Corp,FWONA.US,New York,FWONA
+1302,Ferrexpo PLC,FXPO.UK,London,FXPO.L
+1303,GEA Group AG,G1A.DE,Frankfurt,G1A.DE
+1304,Scout24 SE,G24.DE,Frankfurt,G24.DE
+1305,Assicurazioni Generali SpA,G.IT,Milan,G.MI
+1306,Genpact Ltd,G.US,New York,G
+1307,Gaia Inc - class A,GAIA.US,New York,GAIA
+1308,Gladstone Investment Corp,GAIN.US,New York,GAIN
+1309,Galp Energia SGPS SA,GALP.PT,Lisbon,GALP.LS
+1310,Gan Ltd,GAN.US,New York,GAN
+1311,Gain Therapeutics Inc,GANX.US,New York,GANX
+1312,Naturgy Energy Group SA,GAS.ES,Madrid,GAS.MC
+1313,Games Workshop Group PLC,GAW.UK,London,GAW.L
+1314,Gazprom Neft' PAO - ADR,GAZ.UK,London,GAZ.L
+1315,Bilfinger SE,GBF.DE,Frankfurt,GBF.DE
+1316,GetBack S.A.,GBK.PL,Warszawa,GBK.WA
+1317,Groupe Bruxelles Lambert SA,GBLB.BE,Brussels,GBLB.BR
+1318,Groclin SA,GCN.PL,Warszawa,GCN.WA
+1319,Grupo Catalana Occidente SA,GCO.ES,Madrid,GCO.MC
+1320,GigaCloud Technology Inc - class A,GCT.US,New York,GCT
+1321,General Dynamics Corp,GD.US,New York,GD
+1322,GoDaddy Inc - class A,GDDY.US,New York,GDDY
+1323,Golden Entertainment Inc,GDEN.US,New York,GDEN
+1324,Goodrx Holdings Inc - class A,GDRX.US,New York,GDRX
+1325,General Electric Co,GE.US,New York,GE
+1326,Grenevia SA,GEA.PL,Warszawa,GEA.WA
+1327,Geberit AG,GEBN.CH,Zurich,GEBN.SW
+1328,GE Healthcare Technologies Inc,GEHC.US,New York,GEHC
+1329,Genmab A/S,GEN.DK,Copenhagen,GEN.CO
+1330,Genuit Group PLC,GEN.UK,London,GEN.L
+1331,Gen Digital Inc,GEN.US,New York,GEN
+1332,GEO Group Inc/The,GEO.US,New York,GEO
+1333,Geron Corp,GERN.US,New York,GERN
+1334,Guess? Inc,GES.US,New York,GES
+1335,Gestamp Automocion SA,GEST.ES,Madrid,GEST.MC
+1336,Getlink SE,GET.FR,Paris,GET.PA
+1337,Getinge AB,GETIB.SE,Stockholm,GETIB.ST
+1338,Ge Vernova Inc,GEV.US,New York,GEV
+1339,Gevo Inc,GEVO.US,New York,GEVO
+1340,Gecina SA,GFC.FR,Paris,GFC.PA
+1341,Gold Fields Ltd - ADR,GFI.US,New York,GFI
+1342,Galliford Try PLC,GFRD.UK,London,GFRD.L
+1343,Globalfoundries Inc,GFS.US,New York,GFS
+1344,GFT Technologies SE,GFT.DE,Frankfurt,GFT.DE
+1345,Gerdau SA - ADR,GGB.US,New York,GGB
+1346,Graco Inc,GGG.US,New York,GGG
+1347,Guardant Health Inc,GH.US,New York,GH
+1348,Graham Holdings Co - class B,GHC.US,New York,GHC
+1349,CGI Inc,GIB.US,New York,GIB
+1350,Gaming Factory SA,GIF.PL,Warszawa,GIF.WA
+1351,Gi Group Poland SA,GIG.PL,Warszawa,GIG.WA
+1352,G-III Apparel Group Ltd,GIII.US,New York,GIII
+1353,DMG Mori AG,GIL.DE,Frankfurt,GIL.DE
+1354,Gilead Sciences Inc,GILD.US,New York,GILD
+1355,Gilat Satellite Networks Ltd,GILT.US,New York,GILT
+1356,General Mills Inc,GIS.US,New York,GIS
+1357,Givaudan SA,GIVN.CH,Zurich,GIVN.SW
+1358,Gjensidige Forsikring ASA,GJF.NO,Oslo,GJF.OL
+1359,Grupa Kapitalowa Immobile SA,GKI.PL,Warszawa,GKI.WA
+1360,GK Software SE,GKS.DE,Frankfurt,GKS.DE
+1361,Globe Life Inc,GL.US,New York,GL
+1362,Global-E Online Ltd,GLBE.US,New York,GLBE
+1363,Global Cosmed SA,GLC.PL,Warszawa,GLC.WA
+1364,Societe Generale SA,GLE.FR,Paris,GLE.PA
+1365,Glencore PLC,GLEN.UK,London,GLEN.L
+1366,Golar LNG Ltd,GLNG.US,New York,GLNG
+1367,Globant SA,GLOB.US,New York,GLOB
+1368,Galapagos NV,GLPG.NL,Amsterdam,GLPG.AS
+1369,Gaming and Leisure Properties Inc,GLPI.US,New York,GLPI
+1370,Greenwich Lifesciences Inc,GLSI.US,New York,GLSI
+1371,Corning Inc,GLW.US,New York,GLW
+1372,General Motors Co,GM.US,New York,GM
+1373,Genmab A/S,GMAB.DK,Copenhagen,GMAB.CO
+1374,Genmab A/S - ADR,GMAB.US,New York,GMAB
+1375,Esports Entertainment Group Inc,GMBL.US,New York,GMBL
+1376,GameStop Corp - class A,GME.US,New York,GME
+1377,Globus Medical Inc - class A,GMED.US,New York,GMED
+1378,Genomtec SA,GMT.PL,Warszawa,GMT.WA
+1379,Gamivo SA,GMV.PL,Warszawa,GMV.WA
+1380,Grupa Modne Zakupy SA,GMZ.PL,Warszawa,GMZ.WA
+1381,GN Store Nord A/S,GN.DK,Copenhagen,GN.CO
+1382,Greencore Group PLC,GNC.UK,London,GNC.L
+1383,Genfit,GNFT.FR,Paris,GNFT.PA
+1384,Genco Shipping & Trading Ltd,GNK.US,New York,GNK
+1385,Global Net Lease Inc,GNL.US,New York,GNL
+1386,Generac Holdings Inc,GNRC.US,New York,GNRC
+1387,Gentex Corp,GNTX.US,New York,GNTX
+1388,Genius Brands International Inc,GNUS.US,New York,GNUS
+1389,Gobarto SA,GOB.PL,Warszawa,GOB.WA
+1390,Canoo Inc - class A,GOEV.US,New York,GOEV
+1391,Golden Ocean Group Ltd,GOGL.NO,Oslo,GOGL.OL
+1392,Gogo Inc,GOGO.US,New York,GOGO
+1393,Gol Linhas Aereas Inteligentes SA - ADR,GOL.US,New York,GOL
+1394,Barrick Gold Corp,GOLD.US,New York,GOLD
+1395,Alphabet Inc Class A,GOOG.US,New York,GOOG
+1396,Alphabet Inc - class C,GOOGC.US,New York,GOOGC
+1397,Alphabet Inc - class A,GOOGL.US,New York,GOOGL
+1398,Games Operators SA,GOP.PL,Warszawa,GOP.WA
+1399,GSX Techedu Inc - class A,GOTU.US,New York,GOTU
+1400,Govena Lighting SA,GOV.PL,Warszawa,GOV.WA
+1401,Genuine Parts Co,GPC.US,New York,GPC
+1402,Great Portland Estates PLC,GPE.UK,London,GPE.L
+1403,Advanced Graphene Products SA,GPH.PL,Warszawa,GPH.WA
+1404,Global Payments Inc,GPN.US,New York,GPN
+1405,Great Portland Estates PLC,GPOR.UK,London,GPOR.L
+1406,Grupa Pracuj SA,GPP.PL,Warszawa,GPP.WA
+1407,GoPro Inc - class A,GPRO.US,New York,GPRO
+1408,Gap Inc,GPS.US,New York,GPS
+1409,Warsaw Stock Exchange,GPW.PL,Warszawa,GPW.WA
+1410,Grab Holdings Ltd - class A,GRAB.US,New York,GRAB
+1411,Grupa Recykl SA,GRC.PL,Warszawa,GRC.WA
+1412,Grenergy Renovables,GRE.ES,Madrid,GRE.MC
+1413,Grifols SA,GRF.ES,Madrid,GRF.MC
+1414,Greggs PLC,GRG.UK,London,GRG.L
+1415,Grainger PLC,GRI.UK,London,GRI.L
+1416,Garmin Ltd,GRMN.US,New York,GRMN
+1417,Grodno SA,GRN.PL,Warszawa,GRN.WA
+1418,Granges AB,GRNG.SE,Stockholm,GRNG.ST
+1419,Groupon Inc,GRPN.US,New York,GRPN
+1420,GrowGeneration Corp,GRWG.US,New York,GRWG
+1421,GreenX Metals Ltd,GRX.PL,Warszawa,GRX.WA
+1422,Goldman Sachs Group Inc,GS.US,New York,GS
+1423,Goldman Sachs BDC Inc,GSBD.US,New York,GSBD
+1424,Grieg Seafood ASA,GSF.NO,Oslo,GSF.OL
+1425,Grupo Empresarial San Jose SA,GSJ.ES,Madrid,GSJ.MC
+1426,GlaxoSmithKline PLC,GSK.UK,London,GSK.L
+1427,GSK plc - ADR,GSK.US,New York,GSK
+1428,Ferroglobe PLC,GSM.US,New York,GSM
+1429,Goodyear Tire & Rubber Co,GT.US,New York,GT
+1430,Globe Trade Centre SA,GTC.PL,Warszawa,GTC.WA
+1431,Gates Industrial Corp PLC,GTES.US,New York,GTES
+1432,Gitlab Inc - class A,GTLB.US,New York,GTLB
+1433,Chart Industries Inc,GTLS.US,New York,GTLS
+1434,Getin Holding SA,GTN.PL,Warszawa,GTN.WA
+1435,Gray Television Inc,GTN.US,New York,GTN
+1436,Geotrans SA,GTS.PL,Warszawa,GTS.WA
+1437,Gaztransport Et Technigaz SA,GTT.FR,Paris,GTT.PA
+1438,Garrett Motion Inc,GTX.US,New York,GTX
+1439,Greenvolt Energias Renovaveis SA,GVOLT.PT,Lisbon,GVOLT.LS
+1440,Guidewire Software Inc,GWRE.US,New York,GWRE
+1441,WW Grainger Inc,GWW.US,New York,GWW
+1442,Genxone SA,GX1.PL,Warszawa,GX1.WA
+1443,Gerresheimer AG,GXI.DE,Frankfurt,GXI.DE
+1444,GXO Logistics Inc,GXO.US,New York,GXO
+1445,Grand City Properties SA,GYC.DE,Frankfurt,GYC.DE
+1446,Hyatt Hotels Corp - class A,H.US,New York,H
+1447,Haemonetics Corp,HAE.US,New York,HAE
+1448,Hanmi Financial Corp,HAFC.US,New York,HAFC
+1449,Hafnia Ltd,HAFNI.NO,Oslo,HAFNI.OL
+1450,Hensoldt AG,HAG.DE,Frankfurt,HAG.DE
+1451,Hain Celestial Group Inc,HAIN.US,New York,HAIN
+1452,Halliburton Co,HAL.US,New York,HAL
+1453,Halozyme Therapeutics Inc,HALO.US,New York,HALO
+1454,Harvia Oyj,HARVIA.FI,Helsinki,HARVIA.HE
+1455,Hays PLC,HAS.UK,London,HAS.L
+1456,Hasbro Inc,HAS.US,New York,HAS
+1457,Hannon Armstrong Sustainable Infrastructure Capital Inc,HASI.US,New York,HASI
+1458,Huntington Bancshares Inc,HBAN.US,New York,HBAN
+1459,Hanesbrands Inc,HBI.US,New York,HBI
+1460,Harbour Energy PLC,HBR.UK,London,HBR.L
+1461,HCA Healthcare Inc,HCA.US,New York,HCA
+1462,Hennessy Capital Acquisition Corp IV - class A,HCAC.US,New York,HCAC
+1463,Health Catalyst Inc,HCAT.US,New York,HCAT
+1464,Warrior Met Coal Inc,HCC.US,New York,HCC
+1465,Home Depot Inc,HD.US,New York,HD
+1466,HDFC Bank Ltd - ADR,HDB.US,New York,HDB
+1467,Heidelberger Druckmaschinen AG,HDD.DE,Frankfurt,HDD.DE
+1468,Hunter Douglas NV,HDG.NL,Amsterdam,HDG.AS
+1469,Przedsiebiorstwo Hydrauliki Silowej Hydrotor SA,HDR.PL,Warszawa,HDR.WA
+1470,Hawaiian Electric Industries Inc,HE.US,New York,HE
+1471,Turtle Beach Corp,HEAR.US,New York,HEAR
+1472,HeidelbergCement AG,HEI.DE,Frankfurt,HEI.DE
+1473,HEICO Corp,HEI.US,New York,HEI
+1474,Heineken NV,HEIA.NL,Amsterdam,HEIA.AS
+1475,Heijmans NV,HEIJM.NL,Amsterdam,HEIJM.AS
+1476,Heineken Holding NV,HEIO.NL,Amsterdam,HEIO.AS
+1477,Helio SA,HEL.PL,Warszawa,HEL.WA
+1478,Helen of Troy Ltd,HELE.US,New York,HELE
+1479,Henkel AG - preference shares,HEN3.DE,Frankfurt,HEN3.DE
+1480,Hess Corp,HES.US,New York,HES
+1481,Hexagon AB,HEXAB.SE,Stockholm,HEXAB.ST
+1482,HollyFrontier Corp,HFC.US,New York,HFC
+1483,Halfords Group PLC,HFD.UK,London,HFD.L
+1484,HelloFresh SE,HFG.DE,Frankfurt,HFG.DE
+1485,Howard Hughes Corp,HHC.US,New York,HHC
+1486,Hon Hai Precision Industry Co Ltd - GDR,HHPD.UK,London,HHPD.L
+1487,Hartford Financial Services Group Inc,HIG.US,New York,HIG
+1488,Huntington Ingalls Industries Inc,HII.US,New York,HII
+1489,Hikma Pharmaceuticals PLC,HIK.UK,London,HIK.L
+1490,Hims & Hers Health Inc - class A,HIMS.US,New York,HIMS
+1491,Himax Technologies Inc - ADR,HIMX.US,New York,HIMX
+1492,HIVE Blockchain Technologies Ltd,HIVE.US,New York,HIVE
+1493,Highwoods Properties Inc,HIW.US,New York,HIW
+1494,AMTD Digital Inc - class A,HKD.US,New York,HKD
+1495,Hargreaves Lansdown PLC,HL.UK,London,HL.L
+1496,Hecla Mining Co,HL.US,New York,HL
+1497,Hapag Lloyd AG,HLAG.DE,Frankfurt,HLAG.DE
+1498,Herbalife Nutrition Ltd,HLF.US,New York,HLF
+1499,Houlihan Lokey Inc - class A,HLI.US,New York,HLI
+1500,Halma PLC,HLMA.UK,London,HLMA.L
+1501,HALEON PLC,HLN.UK,London,HLN.L
+1502,Hamilton Lane Inc - class A,HLNE.US,New York,HLNE
+1503,Hilton Worldwide Holdings Inc,HLT.US,New York,HLT
+1504,H Lundbeck A/S - class B,HLUNB.DK,Copenhagen,HLUNB.CO
+1505,Helix Energy Solutions Group Inc,HLX.US,New York,HLX
+1506,Hennes & Mauritz AB,HMB.SE,Stockholm,HMB.ST
+1507,Honda Motor Co Ltd - ADR,HMC.US,New York,HMC
+1508,HM Inwest SA,HMI.PL,Warszawa,HMI.WA
+1509,Hemp & Health SA,HMP.PL,Warszawa,HMP.WA
+1510,Hammerson PLC,HMSO.UK,London,HMSO.L
+1511,Harmony Gold Mining Company Ltd - ADR,HMY.US,New York,HMY
+1512,Hannover Rueck SE,HNR.DE,Frankfurt,HNR.DE
+1513,Honest Company Inc,HNST.US,New York,HNST
+1514,Thales SA,HO.FR,Paris,HO.PA
+1515,Hochschild Mining PLC,HOC.UK,London,HOC.L
+1516,Hoist Finance AB (publ),HOFI.SE,Stockholm,HOFI.ST
+1517,Harley-Davidson Inc,HOG.US,New York,HOG
+1518,Holcim AG,HOLN.CH,Zurich,HOLN.SW
+1519,MicroCloud Hologram Inc,HOLO.US,New York,HOLO
+1520,Hologic Inc,HOLX.US,New York,HOLX
+1521,Neinor Homes SA,HOME.ES,Madrid,HOME.MC
+1522,Honeywell International Inc,HON.US,New York,HON
+1523,Robinhood Markets Inc - class A,HOOD.US,New York,HOOD
+1524,Hortico SA,HOR.PL,Warszawa,HOR.WA
+1525,HOCHTIEF AG,HOT.DE,Frankfurt,HOT.DE
+1526,Anywhere Real Estate Inc,HOUS.US,New York,HOUS
+1527,Helmerich & Payne Inc,HP.US,New York,HP
+1528,Hipower Energy SA,HPE.PL,Warszawa,HPE.WA
+1529,Hewlett Packard Enterprise Co,HPE.US,New York,HPE
+1530,Hipromine SA,HPM.PL,Warszawa,HPM.WA
+1531,Hudson Pacific Properties Inc,HPP.US,New York,HPP
+1532,HP Inc,HPQ.US,New York,HPQ
+1533,HealthEquity Inc,HQY.US,New York,HQY
+1534,Healthcare Realty Trust Inc - class A,HR.US,New York,HR
+1535,H&R Block Inc,HRB.US,New York,HRB
+1536,Hormel Foods Corp,HRL.US,New York,HRL
+1537,Harmony Biosciences Holdings Inc,HRMY.US,New York,HRMY
+1538,Harper Hygienics SA,HRP.PL,Warszawa,HRP.WA
+1539,7C Solarparken AG,HRPK.DE,Frankfurt,HRPK.DE
+1540,Herkules SA,HRS.PL,Warszawa,HRS.WA
+1541,Horizon Technology Finance Corp,HRZN.US,New York,HRZN
+1542,HSBC Holdings PLC,HSBA.UK,London,HSBA.L
+1543,Henry Schein Inc,HSIC.US,New York,HSIC
+1544,Host Hotels & Resorts Inc,HST.US,New York,HST
+1545,Hiscox Ltd,HSX.UK,London,HSX.L
+1546,Hershey Co,HSY.US,New York,HSY
+1547,Healthcare Trust Of America Inc - class A,HTA.US,New York,HTA
+1548,Hunting PLC,HTG.UK,London,HTG.L
+1549,Hercules Capital Inc,HTGC.US,New York,HTGC
+1550,Hexatronic Group AB,HTRO.SE,Stockholm,HTRO.ST
+1551,Helios Towers PLC,HTWS.UK,London,HTWS.L
+1552,Hertz Global Holdings Inc,HTZ1.US,New York,HTZ1
+1553,Hub.Tech SA,HUB.PL,Warszawa,HUB.WA
+1554,Hubbell Inc - class B,HUBB.US,New York,HUBB
+1555,HubSpot Inc,HUBS.US,New York,HUBS
+1556,Huuuge Inc,HUG.PL,Warszawa,HUG.WA
+1557,Huhtamaki OYJ,HUH1V.FI,Helsinki,HUH1V.HE
+1558,Humana Inc,HUM.US,New York,HUM
+1559,Humacyte Inc,HUMA.US,New York,HUMA
+1560,Huntsman Corp,HUN.US,New York,HUN
+1561,Husqvarna AB - class B,HUSQB.SE,Stockholm,HUSQB.ST
+1562,Hut 8 Mining Corp,HUT.US,New York,HUT
+1563,HUYA Inc - ADR,HUYA.US,New York,HUYA
+1564,Haverty Furniture Cos Inc,HVT.US,New York,HVT
+1565,Howden Joinery Group PLC,HWDN.UK,London,HWDN.L
+1566,Howmet Aerospace Inc,HWM.US,New York,HWM
+1567,Hexcel Corp,HXL.US,New York,HXL
+1568,Hyliion Holdings Corp. - class A,HYLN.US,New York,HYLN
+1569,Hycroft Mining Holding Corporation - class A,HYMC.US,New York,HYMC
+1570,Hypoport SE,HYQ.DE,Frankfurt,HYQ.DE
+1571,Hyundai Motor Co - GDP,HYUD.DE,Frankfurt,HYUD.DE
+1572,Hyundai Motor Co - GDP,HYUD.UK,London,HYUD.L
+1573,Hyzon Motors Inc - class A,HYZN.US,New York,HYZN
+1574,Horizon Therapeutics PLC,HZNP.US,New York,HZNP
+1575,InterActiveCorp,IAC.US,New York,IAC
+1576,International Consolidated Airlines Group SA,IAG.ES,Madrid,IAG.MC
+1577,International Consolidated Airlines Group SA,IAG.UK,London,IAG.L
+1578,Iamgold Corp,IAG.US,New York,IAG
+1579,Integral Ad Science Holding Corp,IAS.US,New York,IAS
+1580,Ion Beam Applications SA,IBAB.BE,Brussels,IBAB.BR
+1581,Iberdrola SA,IBE1.ES,Madrid,IBE1.MC
+1582,Interactive Brokers Group Inc - class A,IBKR.US,New York,IBKR
+1583,International Business Machines Corp,IBM.US,New York,IBM
+1584,ICICI Bank Ltd - ADR,IBN.US,New York,IBN
+1585,Wise Finance SA,IBS.PL,Warszawa,IBS.WA
+1586,Ibersol SGPS SA,IBS.PT,Lisbon,IBS.LS
+1587,Ibotta Inc - class A,IBTA.US,New York,IBTA
+1588,ICA Gruppen AB,ICA.SE,Stockholm,ICA.ST
+1589,ICADE,ICAD.FR,Paris,ICAD.PA
+1590,Medinice SA,ICE.PL,Warszawa,ICE.WA
+1591,Intercontinental Exchange Inc,ICE.US,New York,ICE
+1592,Intermediate Capital Group PLC,ICG.UK,London,ICG.L
+1593,ICL Group Ltd,ICL.US,New York,ICL
+1594,Intermediate Capital Group PLC,ICP.UK,London,ICP.L
+1595,Intercept Pharmaceuticals Inc,ICPT.US,New York,ICPT
+1596,ICU Medical Inc,ICUI.US,New York,ICUI
+1597,IDACORP Inc,IDA.US,New York,IDA
+1598,InterDigital Inc,IDCC.US,New York,IDCC
+1599,Ideanomics Inc,IDEX.US,New York,IDEX
+1600,Indra Sistemas SA,IDR.ES,Madrid,IDR.MC
+1601,International Distributions Services PLC,IDS.UK,London,IDS.L
+1602,IDEXX Laboratories Inc,IDXX.US,New York,IDXX
+1603,Ivanhoe Electric Inc,IE.US,New York,IE
+1604,IDEX Corp,IEX.US,New York,IEX
+1605,International Flavors & Fragrances Inc,IFF.US,New York,IFF
+1606,IFirma SA,IFI.PL,Warszawa,IFI.WA
+1607,Infineon Technologies AG,IFX.DE,Frankfurt,IFX.DE
+1608,Italgas SpA,IG.IT,Milan,IG.MI
+1609,IG Group Holdings PLC,IGG.UK,London,IGG.L
+1610,IGM Biosciences Inc,IGMS.US,New York,IGMS
+1611,Inno-Gene SA,IGN.PL,Warszawa,IGN.WA
+1612,Igoria Trade SA,IGT.PL,Warszawa,IGT.WA
+1613,International Game Technology PLC,IGT.US,New York,IGT
+1614,InterContinental Hotels Group PLC,IHG.UK,London,IHG.L
+1615,3i Group PLC,III.UK,London,III.L
+1616,Innovative Industrial Properties Inc,IIPR.US,New York,IIPR
+1617,Illumina Inc,ILMN.US,New York,ILMN
+1618,Industrial Logistics Properties Trust,ILPT.US,New York,ILPT
+1619,Imperial Brands PLC,IMB.UK,London,IMB.L
+1620,Industrial Milk Co,IMC.PL,Warszawa,IMC.WA
+1621,IMCD NV,IMCD.NL,Amsterdam,IMCD.AS
+1622,IMI PLC,IMI.UK,London,IMI.L
+1623,Immersion Corp,IMMR.US,New York,IMMR
+1624,Immunicum AB,IMMU.SE,Stockholm,IMMU.ST
+1625,Imunon Inc,IMNN.US,New York,IMNN
+1626,IMS SA,IMS.PL,Warszawa,IMS.WA
+1627,Immunovant Inc,IMVT.US,New York,IMVT
+1628,INC SA,INC.PL,Warszawa,INC.WA
+1629,Inchcape PLC,INCH.UK,London,INCH.L
+1630,Incyte Corp,INCY.US,New York,INCY
+1631,indie Semiconductor Inc - class A,INDI.US,New York,INDI
+1632,Indutrade AB,INDT.SE,Stockholm,INDT.ST
+1633,Indivior PLC,INDV.UK,London,INDV.L
+1634,Informa PLC,INF.UK,London,INF.L
+1635,Informatica Inc - class A,INFA.US,New York,INFA
+1636,Infinera Corp,INFN.US,New York,INFN
+1637,Infosys Ltd - ADR,INFY.US,New York,INFY
+1638,ING Bank Slaski SA,ING.PL,Warszawa,ING.WA
+1639,ING Groep NV - ADR,ING.US,New York,ING
+1640,ING Groep NV,INGA.NL,Amsterdam,INGA.AS
+1641,Ingredion Inc,INGR.US,New York,INGR
+1642,Instal Krakow SA,INK.PL,Warszawa,INK.WA
+1643,Introl SA,INL.PL,Warszawa,INL.WA
+1644,Inventionmed SA,INM.PL,Warszawa,INM.WA
+1645,Inmode Ltd,INMD.US,New York,INMD
+1646,Inovio Pharmaceuticals Inc,INO.US,New York,INO
+1647,Inpro SA,INP.PL,Warszawa,INP.WA
+1648,Inpost SA,INPST.NL,Amsterdam,INPST.AS
+1649,Indos SA,INS.PL,Warszawa,INS.WA
+1650,Inseego Corp,INSG.US,New York,INSG
+1651,Insmed Inc,INSM.US,New York,INSM
+1652,Inspire Medical Systems Inc,INSP.US,New York,INSP
+1653,International Seaways Inc,INSW.US,New York,INSW
+1654,Internity SA,INT.PL,Warszawa,INT.WA
+1655,World Fuel Services Corp,INT.US,New York,INT
+1656,Intapp Inc,INTA.US,New York,INTA
+1657,Intel Corp,INTC.US,New York,INTC
+1658,Intrum AB,INTRUM.SE,Stockholm,INTRUM.ST
+1659,Intu Properties PLC,INTU.UK,London,INTU.L
+1660,Intuit Inc,INTU.US,New York,INTU
+1661,Investor AB,INVEB.SE,Stockholm,INVEB.ST
+1662,Invitation Homes Inc,INVH.US,New York,INVH
+1663,Infrastrutture Wireless Italiane SpA,INW.IT,Milan,INW.MI
+1664,IONQ Inc,IONQ.US,New York,IONQ
+1665,Ionis Pharmaceuticals Inc,IONS.US,New York,IONS
+1666,Samsara Inc - class A,IOT.US,New York,IOT
+1667,Iovance Biotherapeutics Inc,IOVA.US,New York,IOVA
+1668,International Paper Co,IP.US,New York,IP
+1669,International Petroleum Corp,IPCO.SE,Stockholm,IPCO.ST
+1670,Ipopema Securities SA,IPE.PL,Warszawa,IPE.WA
+1671,International Personal Finance PLC,IPF.UK,London,IPF.L
+1672,Interpublic Group of Cos Inc,IPG.US,New York,IPG
+1673,IPG Photonics Corp,IPGP.US,New York,IPGP
+1674,Innate Pharma SA,IPH.FR,Paris,IPH.PA
+1675,Ipsen SA,IPN.FR,Paris,IPN.PA
+1676,Intersport Polska SA,IPO.PL,Warszawa,IPO.WA
+1677,Social Capital Hedosophia Holdings II Corp - class A,IPOB.US,New York,IPOB
+1678,IPSOS,IPS.FR,Paris,IPS.PA
+1679,iQIYI Inc - ADR,IQ.US,New York,IQ
+1680,IQVIA Holdings Inc,IQV.US,New York,IQV
+1681,Ingersoll-Rand PLC,IR.US,New York,IR
+1682,iRobot Corp,IRBT.US,New York,IRBT
+1683,Iridium Communications Inc,IRDM.US,New York,IRDM
+1684,Iris Energy Ltd,IREN.US,New York,IREN
+1685,Inter RAO Lietuva AB,IRL.PL,Warszawa,IRL.WA
+1686,Iron Mountain Inc,IRM.US,New York,IRM
+1687,Independence Realty Trust Inc,IRT.US,New York,IRT
+1688,iRhythm Technologies Inc,IRTC.US,New York,IRTC
+1689,Intesa Sanpaolo SpA,ISP.IT,Milan,ISP.MI
+1690,Intuitive Surgical Inc,ISRG.US,New York,ISRG
+1691,ISS A/S,ISS.DK,Copenhagen,ISS.CO
+1692,Infoscan SA,IST.PL,Warszawa,IST.WA
+1693,Gartner Inc,IT.US,New York,IT
+1694,Interbud Lublin SA,ITB.PL,Warszawa,ITB.WA
+1695,Intra-Cellular Therapies Inc,ITCI.US,New York,ITCI
+1696,ITM Power PLC,ITM.UK,London,ITM.L
+1697,Interparfums SA,ITP.FR,Paris,ITP.PA
+1698,Itron Inc,ITRI.US,New York,ITRI
+1699,Intertek Group PLC,ITRK.UK,London,ITRK.L
+1700,Iterum Therapeutics PLC,ITRM.US,New York,ITRM
+1701,Itau Unibanco Holding SA - ADR,ITUB.US,New York,ITUB
+1702,ITV PLC,ITV.UK,London,ITV.L
+1703,Illinois Tool Works Inc,ITW.US,New York,ITW
+1704,Industria de Diseno Textil SA,ITX.ES,Madrid,ITX.MC
+1705,Iveco Group NV,IVG.IT,Milan,IVG.MI
+1706,Incuvo SA,IVO.PL,Warszawa,IVO.WA
+1707,Invesco Mortgage Capital Inc,IVR.US,New York,IVR
+1708,Invesco Ltd,IVZ.US,New York,IVZ
+1709,IWG Plc,IWG.UK,London,IWG.L
+1710,IZOBlok SA,IZB.PL,Warszawa,IZB.WA
+1711,Izolacja Jarocin SA,IZO.PL,Warszawa,IZO.WA
+1712,Izostal SA,IZS.PL,Warszawa,IZS.WA
+1713,Jacobs Engineering Group Inc,J.US,New York,J
+1714,Jack in the Box Inc,JACK.US,New York,JACK
+1715,Jaguar Health Inc,JAGX.US,New York,JAGX
+1716,Jamf Holding Corp.,JAMF.US,New York,JAMF
+1717,Jazz Pharmaceuticals PLC,JAZZ.US,New York,JAZZ
+1718,JB Hunt Transport Services Inc,JBHT.US,New York,JBHT
+1719,Jabil Inc,JBL.US,New York,JBL
+1720,JetBlue Airways Corp,JBLU.US,New York,JBLU
+1721,Johnson Controls International plc,JCI.US,New York,JCI
+1722,Jacquet Metal Service SA,JCQ.FR,Paris,JCQ.PA
+1723,JD Sports Fashion PLC,JD.UK,London,JD.L
+1724,JD.com Inc. - ADR,JD.US,New York,JD
+1725,Jefferies Financial Group Inc,JEF.US,New York,JEF
+1726,Jenoptik AG,JEN.DE,Frankfurt,JEN.DE
+1727,Jujubee SA,JJB.PL,Warszawa,JJB.WA
+1728,Jack Henry & Associates Inc,JKHY.US,New York,JKHY
+1729,JinkoSolar Holding Co Ltd - ADR,JKS.US,New York,JKS
+1730,Jones Lang LaSalle Inc,JLL.US,New York,JLL
+1731,Johnson Matthey PLC,JMAT.UK,London,JMAT.L
+1732,Jumia Technologies AG - ADR,JMIA.US,New York,JMIA
+1733,Jeronimo Martins SGPS SA,JMT.PT,Lisbon,JMT.LS
+1734,Johnson & Johnson,JNJ.US,New York,JNJ
+1735,Juniper Networks Inc,JNPR.US,New York,JNPR
+1736,Joby Aviation Inc - class A,JOBY.US,New York,JOBY
+1737,JPMorgan Chase & Co,JPM.US,New York,JPM
+1738,JRC Group SA,JRC.PL,Warszawa,JRC.WA
+1739,JR Holding Alternatywna Spolka Inwestycyjna SA,JRH.PL,Warszawa,JRH.WA
+1740,JOST Werke AG,JST.DE,Frankfurt,JST.DE
+1741,Jastrzebska Spolka Weglowa SA,JSW.PL,Warszawa,JSW.WA
+1742,Jungheinrich AG Preference Shares - preference shares,JUN3.DE,Frankfurt,JUN3.DE
+1743,Jupiter Fund Management PLC,JUP.UK,London,JUP.L
+1744,Juventus Football Club SpA,JUVE.IT,Milan,JUVE.MI
+1745,Nordstrom Inc,JWN.US,New York,JWN
+1746,JWW Invest SA,JWW.PL,Warszawa,JWW.WA
+1747,Jackson Financial Inc - class A,JXN.US,New York,JXN
+1748,Jyske Bank A/S,JYSK.DK,Copenhagen,JYSK.CO
+1749,K2 Holding SA,K2H.PL,Warszawa,K2H.WA
+1750,K2 Internet SA,K2I.PL,Warszawa,K2I.WA
+1751,Kellogg Co,K.US,New York,K
+1752,Kaiser Aluminum Corp,KALU.US,New York,KALU
+1753,NAK Kazatomprom AO - GDP,KAP.UK,London,KAP.L
+1754,KB Financial Group Inc - ADR,KB.US,New York,KB
+1755,KBC Group NV,KBC.BE,Brussels,KBC.BR
+1756,KB Home,KBH.US,New York,KBH
+1757,KBJ SA,KBJ.PL,Warszawa,KBJ.WA
+1758,KBR Inc,KBR.US,New York,KBR
+1759,Klabater SA,KBT.PL,Warszawa,KBT.WA
+1760,Knorr Bremse AG,KBX.DE,Frankfurt,KBX.DE
+1761,Kingsoft Cloud Holdings Ltd - ADR,KC.US,New York,KC
+1762,Krakchemia SA,KCH.PL,Warszawa,KCH.WA
+1763,KCI SA,KCI.PL,Warszawa,KCI.WA
+1764,Kloeckner & Co SE - preference shares,KCO.DE,Frankfurt,KCO.DE
+1765,Konecranes OYJ - class A,KCR.FI,Helsinki,KCR.HE
+1766,Kyndryl Holdings Inc,KD.US,New York,KD
+1767,Keurig Dr Pepper Inc,KDP.US,New York,KDP
+1768,Kemira Oyj,KEMIRA.FI,Helsinki,KEMIRA.HE
+1769,Kempower Oyj,KEMPOWR.FI,Helsinki,KEMPOWR.HE
+1770,Kering SA,KER.FR,Paris,KER.PA
+1771,Kernel Holding SA,KER.PL,Warszawa,KER.WA
+1772,Kesko OYJ,KESKOB.FI,Helsinki,KESKOB.HE
+1773,Kirby Corp,KEX.US,New York,KEX
+1774,KeyCorp,KEY.US,New York,KEY
+1775,Keysight Technologies Inc,KEYS.US,New York,KEYS
+1776,Korn Ferry,KFY.US,New York,KFY
+1777,Kinross Gold Corp,KGC.US,New York,KGC
+1778,Kingfisher PLC,KGF.UK,London,KGF.L
+1779,KGHM Polska Miedz SA,KGH.PL,Warszawa,KGH.WA
+1780,KGL SA,KGL.PL,Warszawa,KGL.WA
+1781,Zespol Elektrocieplowni Wroclawskich Kogeneracja SA,KGN.PL,Warszawa,KGN.WA
+1782,Kingspan Group PLC,KGP.UK,London,KGP.L
+1783,KION Group AG,KGX.DE,Frankfurt,KGX.DE
+1784,Kraft Heinz Co,KHC.US,New York,KHC
+1785,Kid ASA,KID.NO,Oslo,KID.OL
+1786,Kier Group PLC,KIE.UK,London,KIE.L
+1787,Kimco Realty Corp,KIM.US,New York,KIM
+1788,Kinnevik AB,KINVB.SE,Stockholm,KINVB.ST
+1789,KKR & Co LP,KKR.US,New York,KKR
+1790,KLA-Tencor Corp,KLAC.US,New York,KLAC
+1791,Grupa Klepsydra SA,KLE.PL,Warszawa,KLE.WA
+1792,Kellogg Company,KLG.US,New York,KLG
+1793,Kaltura Inc,KLTR.US,New York,KLTR
+1794,Kimberly-Clark Corp,KMB.US,New York,KMB
+1795,Kinder Morgan Inc,KMI.US,New York,KMI
+1796,Kenmare Resources PLC,KMR.UK,London,KMR.L
+1797,Kennametal Inc,KMT.US,New York,KMT
+1798,CarMax Inc,KMX.US,New York,KMX
+1799,Kandi Technologies Group Inc,KNDI.US,New York,KNDI
+1800,Kone OYJ - class B,KNEBV.FI,Helsinki,KNEBV.HE
+1801,Kainos Group PLC,KNOS.UK,London,KNOS.L
+1802,Kinsale Capital Group Inc,KNSL.US,New York,KNSL
+1803,Knight-Swift Transportation Holdings Inc - class A,KNX.US,New York,KNX
+1804,Coca-Cola Co,KO.US,New York,KO
+1805,Kongsberg Automotive ASA,KOA.NO,Oslo,KOA.OL
+1806,Kodiak Sciences Inc,KOD.US,New York,KOD
+1807,Eastman Kodak Co,KODK.US,New York,KODK
+1808,Kaufman & Broad SA,KOF.FR,Paris,KOF.PA
+1809,Kofola CeskoSlovensko AS,KOFOL.CZ,Prague,KOFOL.PR
+1810,Kongsberg Gruppen ASA,KOG.NO,Oslo,KOG.OL
+1811,Kojamo Oyj,KOJAMO.FI,Helsinki,KOJAMO.HE
+1812,Komputronik SA,KOM.PL,Warszawa,KOM.WA
+1813,Komercni banka as,KOMB.CZ,Prague,KOMB.PR
+1814,Korbank SA,KOR.PL,Warszawa,KOR.WA
+1815,Korian SA,KORI.FR,Paris,KORI.PA
+1816,Kosmos Energy Ltd,KOS.US,New York,KOS
+1817,Koss Corp,KOSS.US,New York,KOSS
+1818,Koszalinskie Przedsiebiorstwo Przemyslu Drzewnego SA,KPD.PL,Warszawa,KPD.WA
+1819,Kino Polska TV SA,KPL.PL,Warszawa,KPL.WA
+1820,Koninklijke KPN NV,KPN.NL,Amsterdam,KPN.AS
+1821,Karyopharm Therapeutics Inc,KPTI.US,New York,KPTI
+1822,Kopex SA,KPX.PL,Warszawa,KPX.WA
+1823,Kroger Co,KR.US,New York,KR
+1824,Kilroy Realty Corp,KRC.US,New York,KRC
+1825,Kredyt Inkaso SA,KRI.PL,Warszawa,KRI.WA
+1826,Krka dd Novo Mesto,KRK.PL,Warszawa,KRK.WA
+1827,Krones AG,KRN.DE,Frankfurt,KRN.DE
+1828,KRUK SA,KRU.PL,Warszawa,KRU.WA
+1829,KSG Agro SA,KSG.PL,Warszawa,KSG.WA
+1830,Kaspi.kz AO - GDP,KSPI.UK,London,KSPI.L
+1831,Kaspi.kz AO - ADR,KSPI.US,New York,KSPI
+1832,Kohl's Corp,KSS.US,New York,KSS
+1833,Kratos Defense and Security Solutions Inc,KTOS.US,New York,KTOS
+1834,Grupa Kety SA,KTY.PL,Warszawa,KTY.WA
+1835,Krynica Vitamin SA,KVT.PL,Warszawa,KVT.WA
+1836,Kenvue Inc,KVUE.US,New York,KVUE
+1837,Klaviyo Inc,KVYO.US,New York,KVYO
+1838,Loews Corp,L.US,New York,L
+1839,Labo Print SA,LAB.PL,Warszawa,LAB.WA
+1840,Lithium Americas Corp,LAC.US,New York,LAC
+1841,Lithia Motors Inc - class A,LAD.US,New York,LAD
+1842,Ladder Capital Corp - class A,LADR.US,New York,LADR
+1843,Lagercrantz Group AB - class B,LAGRB.SE,Stockholm,LAGRB.ST
+1844,Lamar Advertising Co - class A,LAMR.US,New York,LAMR
+1845,Land Securities Group PLC,LAND.UK,London,LAND.L
+1846,nLIGHT Inc,LASR.US,New York,LASR
+1847,Latecoere SACA,LAT.FR,Paris,LAT.PA
+1848,Luminar Technologies Inc - class A,LAZR.US,New York,LAZR
+1849,L Brands Inc,LB.US,New York,LB
+1850,Libet SA,LBT.PL,Warszawa,LBT.WA
+1851,Lubawa SA,LBW.PL,Warszawa,LBW.WA
+1852,LendingClub Corp,LC.US,New York,LC
+1853,LC Corp SA,LCC.PL,Warszawa,LCC.WA
+1854,Lucid Group Inc,LCID.US,New York,LCID
+1855,LCI Industries,LCII.US,New York,LCII
+1856,Labocanna SA,LCN.PL,Warszawa,LCN.WA
+1857,Linea Directa Aseguradora SA,LDA.ES,Madrid,LDA.MC
+1858,Leonardo SpA,LDO.IT,Milan,LDO.MI
+1859,Leidos Holdings Inc,LDOS.US,New York,LDOS
+1860,Lear Corp,LEA.US,New York,LEA
+1861,Lincoln Electric Holdings Inc,LECO.US,New York,LECO
+1862,LEG Immobilien AG,LEG.DE,Frankfurt,LEG.DE
+1863,Legimi SA,LEG.PL,Warszawa,LEG.WA
+1864,Leggett & Platt Inc,LEG.US,New York,LEG
+1865,Lena Lighting SA,LEN.PL,Warszawa,LEN.WA
+1866,Lennar Corp,LEN.US,New York,LEN
+1867,Less SA,LES.PL,Warszawa,LES.WA
+1868,Letus Capital SA,LET.PL,Warszawa,LET.WA
+1869,Centrus Energy Corp - class A,LEU.US,New York,LEU
+1870,Levi Strauss & Co - class A,LEVI.US,New York,LEVI
+1871,LifeMD Inc,LFMD.US,New York,LFMD
+1872,Legal & General Group PLC,LGEN.UK,London,LGEN.L
+1873,LGI Homes Inc,LGIH.US,New York,LGIH
+1874,Ligand Pharmaceuticals Inc,LGND.US,New York,LGND
+1875,Lingotes Especiales SA CFD,LGT.ES,Madrid,LGT.MC
+1876,Laboratory Corp of America Holdings,LH.US,New York,LH
+1877,Deutsche Lufthansa AG,LHA.DE,Frankfurt,LHA.DE
+1878,LafargeHolcim Ltd,LHN.CH,Zurich,LHN.SW
+1879,L3Harris Technologies Inc,LHX.US,New York,LHX
+1880,Klepierre SA,LI.FR,Paris,LI.PA
+1881,LI Auto Inc - ADR,LI.US,New York,LI
+1882,Li-Cycle Holdings Corp,LICY.US,New York,LICY
+1883,Lifco AB (publ) - class B,LIFCOB.SE,Stockholm,LIFCOB.ST
+1884,Signify NV,LIGHT.NL,Amsterdam,LIGHT.AS
+1885,Lennox International Inc,LII.US,New York,LII
+1886,Linde PLC,LIN.US,New York,LIN
+1887,Link Mobility Group Holding ASA,LINK.NO,Oslo,LINK.OL
+1888,Liontrust Asset Management PLC,LIO.UK,London,LIO.L
+1889,Lumentum Holdings Inc,LITE.US,New York,LITE
+1890,LivaNova PLC,LIVN.US,New York,LIVN
+1891,Luckin Coffee Inc - ADR,LK.US,New York,LK
+1892,Luokung Technology Corp,LKCO.US,New York,LKCO
+1893,Lokum Deweloper SA,LKD.PL,Warszawa,LKD.WA
+1894,LUKOIL PJSC - ADR,LKOD.UK,London,LKOD.L
+1895,LKQ Corp,LKQ.US,New York,LKQ
+1896,Lloyds Banking Group PLC,LLOY.UK,London,LLOY.L
+1897,Eli Lilly & Co,LLY.US,New York,LLY
+1898,Liberty Media Corp,LLYVK.US,New York,LLYVK
+1899,Live Motion Games SA,LMG.PL,Warszawa,LMG.WA
+1900,Lemonade Inc,LMND.US,New York,LMND
+1901,LondonMetric Property PLC,LMP.UK,London,LMP.L
+1902,Lockheed Martin Corp,LMT.US,New York,LMT
+1903,LNA Sante SA,LNA.FR,Paris,LNA.PA
+1904,Lincoln National Corp,LNC.US,New York,LNC
+1905,Cheniere Energy Inc,LNG.US,New York,LNG
+1906,Alliant Energy Corp,LNT.US,New York,LNT
+1907,Lantheus Holdings Inc,LNTH.US,New York,LNTH
+1908,Light & Wonder Inc,LNW.US,New York,LNW
+1909,Live Oak Bancshares Inc,LOB.US,New York,LOB
+1910,Solocal Group,LOCAL.FR,Paris,LOCAL.PA
+1911,Cia de Distribucion Integral Logista Holdings SA,LOG.ES,Madrid,LOG.MC
+1912,Logitech International SA,LOGI.US,New York,LOGI
+1913,Lonza Group AG,LONN.CH,Zurich,LONN.SW
+1914,Grand Canyon Education Inc,LOPE.US,New York,LOPE
+1915,Carlotz Inc - class A,LOTZ.US,New York,LOTZ
+1916,Lovesac Co,LOVE.US,New York,LOVE
+1917,Lowe's Cos Inc,LOW.US,New York,LOW
+1918,Dorian LPG Ltd,LPG.US,New York,LPG
+1919,Laredo Petroleum Inc,LPI.US,New York,LPI
+1920,LPL Financial Holdings Inc,LPLA.US,New York,LPLA
+1921,LPP SA,LPP.PL,Warszawa,LPP.WA
+1922,LivePerson Inc,LPSN.US,New York,LPSN
+1923,Louisiana-Pacific Corp,LPX.US,New York,LPX
+1924,Legrand SA,LR.FR,Paris,LR.PA
+1925,Lam Research Corp,LRCX.US,New York,LRCX
+1926,Lar Espana Real Estate Socimi,LRE.ES,Madrid,LRE.MC
+1927,Lancashire Holdings Ltd,LRE.UK,London,LRE.L
+1928,Logan Ridge Finance Corp,LRFC.US,New York,LRFC
+1929,Larq SA,LRQ.PL,Warszawa,LRQ.WA
+1930,Lattice Semiconductor Corp,LSCC.US,New York,LSCC
+1931,London Stock Exchange Group PLC,LSE.UK,London,LSE.L
+1932,London Stock Exchange Group PLC,LSEG.UK,London,LSEG.L
+1933,Leroy Seafood Group ASA,LSG.NO,Oslo,LSG.OL
+1934,LSI Software SA,LSI.PL,Warszawa,LSI.WA
+1935,One More Level SA,LSR.PL,Warszawa,LSR.WA
+1936,Landstar System Inc,LSTR.US,New York,LSTR
+1937,LTC Properties Inc,LTC.US,New York,LTC
+1938,Livent Corp,LTHM.US,New York,LTHM
+1939,Longterm Games SA,LTM.PL,Warszawa,LTM.WA
+1940,Grupa Lotos SA,LTS.PL,Warszawa,LTS.WA
+1941,Lentex SA,LTX.PL,Warszawa,LTX.WA
+1942,Lululemon Athletica Inc,LULU.US,New York,LULU
+1943,Lundin Mining Corp,LUMI.SE,Stockholm,LUMI.ST
+1944,Centurylink Inc,LUMN.US,New York,LUMN
+1945,H Lundbeck A/S,LUN.DK,Copenhagen,LUN.CO
+1946,Luna Innovations Inc,LUNA.US,New York,LUNA
+1947,Lundin Energy AB,LUNE.SE,Stockholm,LUNE.ST
+1948,Intuitive Machines Inc - class A,LUNR.US,New York,LUNR
+1949,Luon SA,LUO.PL,Warszawa,LUO.WA
+1950,Southwest Airlines Co,LUV.US,New York,LUV
+1951,LiveChat Software SA,LVC.PL,Warszawa,LVC.WA
+1952,Las Vegas Sands Corp,LVS.US,New York,LVS
+1953,Lamb Weston Holdings Inc,LW.US,New York,LW
+1954,Lubelski Wegiel Bogdanka SA,LWB.PL,Warszawa,LWB.WA
+1955,Lexington Realty Trust,LXP.US,New York,LXP
+1956,LANXESS AG,LXS.DE,Frankfurt,LXS.DE
+1957,LyondellBasell Industries NV,LYB.US,New York,LYB
+1958,Lyft Inc - class A,LYFT.US,New York,LYFT
+1959,Live Nation Entertainment Inc,LYV.US,New York,LYV
+1960,Mynaric AG,M0Y.DE,Frankfurt,M0Y.DE
+1961,Mynaric AG,M0YN.DE,Frankfurt,M0YN.DE
+1962,Macy's Inc,M.US,New York,M
+1963,Mastercard Inc - class A,MA.US,New York,MA
+1964,Mid-America Apartment Communities Inc,MAA.US,New York,MAA
+1965,Mabion SA,MAB.PL,Warszawa,MAB.WA
+1966,Macerich Co,MAC.US,New York,MAC
+1967,AP Moeller - Maersk A/S - class A,MAERSKA.DK,Copenhagen,MAERSKA.CO
+1968,AP Moeller - Maersk A/S - class B,MAERSKB.DK,Copenhagen,MAERSKB.CO
+1969,MAG Silver Corp,MAG.US,New York,MAG
+1970,Mail.Ru Group Ltd - GDR,MAIL.UK,London,MAIL.L
+1971,Main Street Capital Corp,MAIN.US,New York,MAIN
+1972,Makarony Polskie SA,MAK.PL,Warszawa,MAK.WA
+1973,ManpowerGroup Inc,MAN.US,New York,MAN
+1974,Manhattan Associates Inc,MANH.US,New York,MANH
+1975,Manchester United PLC - class A,MANU.US,New York,MANU
+1976,Mapfre SA,MAP.ES,Madrid,MAP.MC
+1977,WM Technology Inc - class A,MAPS.US,New York,MAPS
+1978,Marriott International Inc,MAR.US,New York,MAR
+1979,Marathon Digital Holdings Inc,MARA.US,New York,MARA
+1980,Remark Holdings Inc,MARK.US,New York,MARK
+1981,Marston's PLC,MARS.UK,London,MARS.L
+1982,Masco Corp,MAS.US,New York,MAS
+1983,Masimo Corp,MASI.US,New York,MASI
+1984,Mattel Inc,MAT.US,New York,MAT
+1985,Mativ Holdings Inc,MATV.US,New York,MATV
+1986,Matson Inc,MATX.US,New York,MATX
+1987,Maxeon Solar Technologies Ltd,MAXN.US,New York,MAXN
+1988,Mediobanca Banca di Credito Fi,MB.IT,Milan,MB.MI
+1989,MBB SE,MBB.DE,Frankfurt,MBB.DE
+1990,MBF Group SA,MBF.PL,Warszawa,MBF.WA
+1991,Mercedes-Benz Group AG,MBG.DE,Frankfurt,MBG.DE
+1992,Mustang Bio Inc,MBIO.US,New York,MBIO
+1993,mBank SA,MBK.PL,Warszawa,MBK.WA
+1994,Mobileye Global Inc - class A,MBLY.US,New York,MBLY
+1995,Mo-Bruk SA,MBR.PL,Warszawa,MBR.WA
+1996,Moleculin Biotech Inc,MBRX.US,New York,MBRX
+1997,Mobil'nye Telesistemy PAO - ADR,MBT.US,New York,MBT
+1998,Malibu Boats Inc - class A,MBUU.US,New York,MBUU
+1999,LVMH Moet Hennessy Louis Vuitton SE,MC.FR,Paris,MC.PA
+2000,McDonald's Corp,MCD.US,New York,MCD
+2001,Mobico Group PLC,MCG.UK,London,MCG.L
+2002,Microchip Technology Inc,MCHP.US,New York,MCHP
+2003,MCI Capital SA,MCI.PL,Warszawa,MCI.WA
+2004,McKesson Corp,MCK.US,New York,MCK
+2005,Moody's Corp,MCO.US,New York,MCO
+2006,Medicover AB - class B,MCOVB.SE,Stockholm,MCOVB.ST
+2007,Mcphy Energy SA,MCPHY.FR,Paris,MCPHY.PA
+2008,Mercor SA,MCR.PL,Warszawa,MCR.WA
+2009,Seres Therapeutics Inc,MCRB.US,New York,MCRB
+2010,Micro Focus International PLC,MCRO.UK,London,MCRO.L
+2011,MEDNAX Inc,MD.US,New York,MD
+2012,Medapp SA,MDA.PL,Warszawa,MDA.WA
+2013,MongoDB Inc - class A,MDB.US,New York,MDB
+2014,Duro Felguera SA,MDF.ES,Madrid,MDF.MC
+2015,Medicalgorithmics SA,MDG.PL,Warszawa,MDG.WA
+2016,MDI Energia SA,MDI.PL,Warszawa,MDI.WA
+2017,Mondelez International Inc - class A,MDLZ.US,New York,MDLZ
+2018,Maisons du Monde SA,MDM.FR,Paris,MDM.PA
+2019,Medcamp SA,MDP.PL,Warszawa,MDP.WA
+2020,Allscripts Healthcare Solutions Inc,MDRX.US,New York,MDRX
+2021,Medtronic PLC,MDT.US,New York,MDT
+2022,MDU Resources Group Inc,MDU.US,New York,MDU
+2023,Medifast Inc,MED.US,New York,MED
+2024,Medpace Holdings Inc,MEDP.US,New York,MEDP
+2025,ME Group International PLC,MEGP.UK,London,MEGP.L
+2026,Merit SA,MEI.PL,Warszawa,MEI.WA
+2027,Mekonomen AB,MEKO.SE,Stockholm,MEKO.ST
+2028,Melia Hotels International SA,MEL.ES,Madrid,MEL.MC
+2029,Melexis NV,MELE.BE,Brussels,MELE.BR
+2030,MercadoLibre Inc,MELI.US,New York,MELI
+2031,Methanex Corp,MEOH.US,New York,MEOH
+2032,Mercialys SA,MERY.FR,Paris,MERY.PA
+2033,Mesa Air Group Inc,MESA.US,New York,MESA
+2034,MetLife Inc,MET.US,New York,MET
+2035,Meta Platforms Inc - class A,META.US,New York,META
+2036,Metsa Board OYJ,METSB.FI,Helsinki,METSB.HE
+2037,Metso Oyj,METSO.FI,Helsinki,METSO.HE
+2038,Mex Polska SA,MEX.PL,Warszawa,MEX.WA
+2039,Wendel SA,MF.FR,Paris,MF.PA
+2040,Manulife Financial Corp,MFC.US,New York,MFC
+2041,MFE-MEDIAFOREUROPE NV,MFEB.IT,Milan,MFEB.MI
+2042,MFO SA,MFO.PL,Warszawa,MFO.WA
+2043,Magna International Inc,MGA.US,New York,MGA
+2044,Morgan Advanced Materials PLC,MGAM.UK,London,MGAM.L
+2045,MGM Resorts International,MGM.US,New York,MGM
+2046,Magnite Inc,MGNI.US,New York,MGNI
+2047,MacroGenics Inc,MGNX.US,New York,MGNX
+2048,Mangata Holding SA,MGT.PL,Warszawa,MGT.WA
+2049,Magnolia Oil & Gas Corp - class A,MGY.US,New York,MGY
+2050,Mohawk Industries Inc,MHK.US,New York,MHK
+2051,Middleby Corp,MIDD.US,New York,MIDD
+2052,Bank Millennium SA,MIL.PL,Warszawa,MIL.WA
+2053,Mips AB,MIPS.SE,Stockholm,MIPS.ST
+2054,Miraculum SA,MIR.PL,Warszawa,MIR.WA
+2055,McCormick & Co Inc,MKC.US,New York,MKC
+2056,Markel Corp,MKL.US,New York,MKL
+2057,Marks & Spencer Group PLC,MKS.UK,London,MKS.L
+2058,MKS Instruments Inc,MKSI.US,New York,MKSI
+2059,MarketAxess Holdings Inc,MKTX.US,New York,MKTX
+2060,Cie Generale des Etablissements Michelin SCA,ML.FR,Paris,ML.PA
+2061,MoneyLion Inc - class A,ML.US,New York,ML
+2062,Melco Resorts & Entertainment Ltd - ADR,MLCO.US,New York,MLCO
+2063,MLP Group SA,MLG.PL,Warszawa,MLG.WA
+2064,MicroAlgo Inc,MLGO.US,New York,MLGO
+2065,Herman Miller Inc,MLHR.US,New York,MLHR
+2066,Mueller Industries Inc,MLI.US,New York,MLI
+2067,Milkiland Public Company Ltd,MLK.PL,Warszawa,MLK.WA
+2068,MillerKnoll Inc,MLKN.US,New York,MLKN
+2069,Milisystem SA,MLM.PL,Warszawa,MLM.WA
+2070,Martin Marietta Materials Inc,MLM.US,New York,MLM
+2071,ML System SA,MLS.PL,Warszawa,MLS.WA
+2072,Meta Materials Inc,MMAT.US,New York,MMAT
+2073,Lagardere SCA,MMB.FR,Paris,MMB.PA
+2074,Marsh & McLennan Cos Inc,MMC.US,New York,MMC
+2075,3M Co,MMM.US,New York,MMM
+2076,Madmind Studio SA,MMS.PL,Warszawa,MMS.WA
+2077,MAXIMUS Inc,MMS.US,New York,MMS
+2078,Metropole Television SA,MMT.FR,Paris,MMT.PA
+2079,MakeMyTrip Ltd,MMYT.US,New York,MMYT
+2080,Mennica Polska SA,MNC.PL,Warszawa,MNC.WA
+2081,Mondi PLC,MNDI.UK,London,MNDI.L
+2082,Monday.Com Ltd,MNDY.US,New York,MNDY
+2083,M&G PLC,MNG.UK,London,MNG.L
+2084,Mind Medicine (MindMed) Inc,MNMD.US,New York,MNMD
+2085,MMC Norilsk Nickel PJSC - ADR,MNOD.UK,London,MNOD.L
+2086,Mennica Skarbowa SA,MNS.PL,Warszawa,MNS.WA
+2087,MINISO Group Holding Ltd - ADR,MNSO.US,New York,MNSO
+2088,Monster Beverage Corp,MNST.US,New York,MNST
+2089,Momentus Inc - class A,MNTS.US,New York,MNTS
+2090,Altria Group Inc,MO.US,New York,MO
+2091,Molecure SA,MOC.PL,Warszawa,MOC.WA
+2092,Metso Outotec Corp,MOCORP.FI,Helsinki,MOCORP.HE
+2093,Modine Manufacturing Co,MOD.US,New York,MOD
+2094,Topgolf Callaway Brands Corp,MODG.US,New York,MODG
+2095,Molina Healthcare Inc,MOH.US,New York,MOH
+2096,MOL Magyar Olajes Gazipari Nyrt,MOL.PL,Warszawa,MOL.WA
+2097,Momo Inc - ADR,MOMO.US,New York,MOMO
+2098,Monnari Trade SA,MON.PL,Warszawa,MON.WA
+2099,Moncler SpA,MONC.IT,Milan,MONC.MI
+2100,Moneta Money Bank AS,MONET.CZ,Prague,MONET.PR
+2101,Moneysupermarket.com Group PLC,MONY.UK,London,MONY.L
+2102,Morningstar Inc,MORN.US,New York,MORN
+2103,Mosaic Co,MOS.US,New York,MOS
+2104,Movie Games SA,MOV.PL,Warszawa,MOV.WA
+2105,Mowi ASA,MOWI.NO,Oslo,MOWI.OL
+2106,Mp Materials Corp - class A,MP.US,New York,MP
+2107,Marathon Petroleum Corp,MPC.US,New York,MPC
+2108,MPC Container Ships ASA,MPCC.NO,Oslo,MPCC.OL
+2109,Medical Properties Trust Inc,MPW.US,New York,MPW
+2110,Monolithic Power Systems Inc,MPWR.US,New York,MPWR
+2111,mPay SA,MPY.PL,Warszawa,MPY.WA
+2112,Marqeta Inc - class A,MQ.US,New York,MQ
+2113,Mirbud SA,MRB.PL,Warszawa,MRB.WA
+2114,Mercator Medical SA,MRC.PL,Warszawa,MRC.WA
+2115,Merck KGaA,MRK.DE,Frankfurt,MRK.DE
+2116,Merck & Co Inc,MRK.US,New York,MRK
+2117,Merlin Properties Socimi SA,MRL.ES,Madrid,MRL.MC
+2118,Mersen SA,MRN.FR,Paris,MRN.PA
+2119,Moderna Inc,MRNA.US,New York,MRNA
+2120,Melrose Industries PLC,MRO.UK,London,MRO.L
+2121,Marathon Oil Corp,MRO.US,New York,MRO
+2122,Maravai LifeSciences Holdings Inc - class A,MRVI.US,New York,MRVI
+2123,Marvell Technology Group Ltd,MRVL.US,New York,MRVL
+2124,Mediaset SpA,MS.IT,Milan,MS.MI
+2125,Morgan Stanley,MS.US,New York,MS
+2126,MSCI Inc - class A,MSCI.US,New York,MSCI
+2127,Microsoft Corp,MSF.DE,Frankfurt,MSF.DE
+2128,Microsoft Corp,MSFT.US,New York,MSFT
+2129,Motorola Solutions Inc,MSI.US,New York,MSI
+2130,MSC Industrial Direct Co Inc - class A,MSM.US,New York,MSM
+2131,Mostostal Plock SA,MSP.PL,Warszawa,MSP.WA
+2132,MicroStrategy Inc - class A,MSTR.US,New York,MSTR
+2133,Mostostal Warszawa SA,MSW.PL,Warszawa,MSW.WA
+2134,Mostostal Zabrze SA,MSZ.PL,Warszawa,MSZ.WA
+2135,ArcelorMittal,MT.NL,Amsterdam,MT.AS
+2136,ArcelorMittal SA - ADR,MT.US,New York,MT
+2137,M&T Bank Corp,MTB.US,New York,MTB
+2138,Match Group Inc,MTCH.US,New York,MTCH
+2139,Matador Resources Co,MTDR.US,New York,MTDR
+2140,Minutor Energia SA,MTE.PL,Warszawa,MTE.WA
+2141,MGIC Investment Corp,MTG.US,New York,MTG
+2142,Meritage Homes Corp,MTH.US,New York,MTH
+2143,Vail Resorts Inc,MTN.US,New York,MTN
+2144,Mitie Group PLC,MTO.UK,London,MTO.L
+2145,ArcelorMittal,MTS.ES,Madrid,MTS.MC
+2146,Matterport Inc - class A,MTTR.US,New York,MTTR
+2147,MTU Aero Engines AG,MTX.DE,Frankfurt,MTX.DE
+2148,MasTec Inc,MTZ.US,New York,MTZ
+2149,Micron Technology Inc,MU.US,New York,MU
+2150,Mullen Automotive Inc,MULN.US,New York,MULN
+2151,Murapol S.A.,MUR.PL,Warszawa,MUR.WA
+2152,Murphy Oil Corp,MUR.US,New York,MUR
+2153,Murphy USA Inc,MUSA.US,New York,MUSA
+2154,Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen,MUV2.DE,Frankfurt,MUV2.DE
+2155,McEwen Mining Inc,MUX.US,New York,MUX
+2156,Metrovacesa SA,MVC.ES,Madrid,MVC.MC
+2157,MicroVision Inc,MVIS.US,New York,MVIS
+2158,Marvipol Development SA,MVP.PL,Warszawa,MVP.WA
+2159,Movie Games VR SA,MVR.PL,Warszawa,MVR.WA
+2160,Microvast Holdings Inc,MVST.US,New York,MVST
+2161,MW Trade SA,MWT.PL,Warszawa,MWT.WA
+2162,MagnaChip Semiconductor Corp,MX.US,New York,MX
+2163,Maxcom SA,MXC.PL,Warszawa,MXC.WA
+2164,Maxlinear Inc,MXL.US,New York,MXL
+2165,Muza SA,MZA.PL,Warszawa,MZA.WA
+2166,Nagarro SE,NA9.DE,Frankfurt,NA9.DE
+2167,Nanobiotix,NANO.FR,Paris,NANO.PA
+2168,Inari Medical Inc,NARI.US,New York,NARI
+2169,Norwegian Air Shuttle ASA,NAS.NO,Oslo,NAS.OL
+2170,Nordic American Tanker Ltd,NAT.US,New York,NAT
+2171,Navient Corp,NAVI.US,New York,NAVI
+2172,Navya SA,NAVYA.FR,Paris,NAVYA.PA
+2173,New Age Beverages Corp,NBEV.US,New York,NBEV
+2174,Neurocrine Biosciences Inc,NBIX.US,New York,NBIX
+2175,Nabors Industries Ltd,NBR.US,New York,NBR
+2176,Noctiluca SA,NCL.PL,Warszawa,NCL.WA
+2177,Norwegian Cruise Line Holdings Ltd,NCLH.US,New York,NCLH
+2178,Ncino Inc,NCNO.US,New York,NCNO
+2179,NCR Corp,NCR.US,New York,NCR
+2180,Aurubis AG,NDA.DE,Frankfurt,NDA.DE
+2181,Nordea Bank AB,NDA.DK,Copenhagen,NDA.CO
+2182,Nordea Bank Abp,NDA.FI,Helsinki,NDA.HE
+2183,Nordea Bank AB,NDA.SE,Stockholm,NDA.ST
+2184,Nasdaq Inc,NDAQ.US,New York,NDAQ
+2185,Nordson Corp,NDSN.US,New York,NDSN
+2186,Nordex SE,NDX1.DE,Frankfurt,NDX1.DE
+2187,NextEra Energy Inc,NEE.US,New York,NEE
+2188,Newegg Commerce Inc,NEGG.US,New York,NEGG
+2189,NEL ASA - class A,NEL.NO,Oslo,NEL.OL
+2190,Nemetschek SE,NEM.DE,Frankfurt,NEM.DE
+2191,Newmont Mining Corp,NEM.US,New York,NEM
+2192,Neopost SA,NEO.FR,Paris,NEO.PA
+2193,Neogenomics Inc,NEO.US,New York,NEO
+2194,Neoen SA,NEOEN.FR,Paris,NEOEN.PA
+2195,Neptune Wellness Solutions Inc,NEPT.US,New York,NEPT
+2196,Nestle SA,NESN.CH,Zurich,NESN.SW
+2197,Neste Oyj,NESTE.FI,Helsinki,NESTE.HE
+2198,Cloudflare Inc - class A,NET.US,New York,NET
+2199,Eneti Inc,NETI.US,New York,NETI
+2200,Neuca SA,NEU.PL,Warszawa,NEU.WA
+2201,NewMarket Corp,NEU.US,New York,NEU
+2202,Nexans SA,NEX.FR,Paris,NEX.PA
+2203,National Express Group PLC,NEX.UK,London,NEX.L
+2204,Nexi SpA,NEXI.IT,Milan,NEXI.MI
+2205,Neximmune Inc,NEXI.US,New York,NEXI
+2206,New Fortress Energy Inc - class A,NFE.US,New York,NFE
+2207,National Fuel Gas Co,NFG.US,New York,NFG
+2208,Netflix Inc,NFLX.US,New York,NFLX
+2209,National Grid PLC,NG.UK,London,NG.L
+2210,New Gold Inc,NGD.US,New York,NGD
+2211,No Gravity Games SA,NGG.PL,Warszawa,NGG.WA
+2212,National Grid PLC - ADR,NGG.US,New York,NGG
+2213,NH Hotel Group SA,NHH.ES,Madrid,NHH.MC
+2214,National Health Investors Inc,NHI.US,New York,NHI
+2215,Norsk Hydro ASA,NHY.NO,Oslo,NHY.OL
+2216,NiSource Inc,NI.US,New York,NI
+2217,Nibe Industrier AB - class B,NIBEB.SE,Stockholm,NIBEB.ST
+2218,Nice Ltd - ADR,NICE.US,New York,NICE
+2219,NIO Inc - ADR,NIO.US,New York,NIO
+2220,NIU Technologies - ADR,NIU.US,New York,NIU
+2221,New Jersey Resources Corp,NJR.US,New York,NJR
+2222,Imerys SA,NK.FR,Paris,NK.PA
+2223,NIKE Inc,NKE.US,New York,NKE
+2224,Nikola Corporation,NKLA.US,New York,NKLA
+2225,Nektar Therapeutics - class A,NKTR.US,New York,NKTR
+2226,Novolipetsk Steel PJSC - GDR,NLMK.UK,London,NLMK.L
+2227,NortonLifeLock Inc,NLOK.US,New York,NLOK
+2228,Annaly Capital Management Inc,NLY.US,New York,NLY
+2229,NMC Health PLC,NMC.UK,London,NMC.L
+2230,Nomura Holdings Inc - ADR,NMR.US,New York,NMR
+2231,Nanorepro AG,NN6.DE,Frankfurt,NN6.DE
+2232,NN Group NV,NN.NL,Amsterdam,NN.AS
+2233,Nano Dimension Ltd - ADR,NNDM.US,New York,NNDM
+2234,Nanogroup SA,NNG.PL,Warszawa,NNG.WA
+2235,National Retail Properties Inc,NNN.US,New York,NNN
+2236,Nano-X Imaging Ltd,NNOX.US,New York,NNOX
+2237,Noobz From Poland SA,NOB.PL,Warszawa,NOB.WA
+2238,Northrop Grumman Corp,NOC.US,New York,NOC
+2239,Nordic Semiconductor ASA,NOD.NO,Oslo,NOD.OL
+2240,Norma Group SE,NOEJ.DE,Frankfurt,NOEJ.DE
+2241,Nokia Oyj - ADR,NOK.US,New York,NOK
+2242,Nokia OYJ,NOKIA.FI,Helsinki,NOKIA.HE
+2243,Nokia OYJ,NOKIASEK.SE,Stockholm,NOKIASEK.ST
+2244,Nolato AB - class B,NOLAB.SE,Stockholm,NOLAB.ST
+2245,NOS SGPS SA,NOS.PT,Lisbon,NOS.LS
+2246,Novina SA,NOV.PL,Warszawa,NOV.WA
+2247,National Oilwell Varco Inc,NOV.US,New York,NOV
+2248,Sunnova Energy International Inc,NOVA.US,New York,NOVA
+2249,Novartis AG,NOVN.CH,Zurich,NOVN.SW
+2250,Novo Nordisk A/S,NOVOB.DK,Copenhagen,NOVOB.CO
+2251,ServiceNow Inc,NOW.US,New York,NOW
+2252,NerdWallet Inc - class A,NRDS.US,New York,NRDS
+2253,NRG Energy Inc,NRG.US,New York,NRG
+2254,Nurix Therapeutics Inc,NRIX.US,New York,NRIX
+2255,New Residential Investment Corp,NRZ.US,New York,NRZ
+2256,National Storage Affiliates Trust,NSA.US,New York,NSA
+2257,Norfolk Southern Corp,NSC.US,New York,NSC
+2258,NAPCO Security Technologies Inc,NSSC.US,New York,NSSC
+2259,NanoString Technologies Inc,NSTG.US,New York,NSTG
+2260,NetApp Inc,NTAP.US,New York,NTAP
+2261,NetScout Systems Inc,NTCT.US,New York,NTCT
+2262,NetEase Inc - ADR,NTES.US,New York,NTES
+2263,Naturgy Energy Group SA,NTGY.ES,Madrid,NTGY.MC
+2264,Intellia Therapeutics Inc,NTLA.US,New York,NTLA
+2265,Nutanix Inc - class A,NTNX.US,New York,NTNX
+2266,Nutrien Ltd,NTR.US,New York,NTR
+2267,Natera Inc,NTRA.US,New York,NTRA
+2268,Northern Trust Corp,NTRS.US,New York,NTRS
+2269,NTT System SA,NTT.PL,Warszawa,NTT.WA
+2270,Nu Holdings Ltd - class A,NU.US,New York,NU
+2271,Nucor Corp,NUE.US,New York,NUE
+2272,PA Nova SA,NVA.PL,Warszawa,NVA.WA
+2273,Novavax Inc,NVAX.US,New York,NVAX
+2274,Novocure Ltd,NVCR.US,New York,NVCR
+2275,NVIDIA Corp,NVD.DE,Frankfurt,NVD.DE
+2276,NVIDIA Corp,NVDA.US,New York,NVDA
+2277,Nuvei Corp,NVEI.US,New York,NVEI
+2278,Novavis Group SA,NVG.PL,Warszawa,NVG.WA
+2279,Navigator Co SA/The,NVG.PT,Lisbon,NVG.LS
+2280,Novo Nordisk A/S - ADR,NVO.US,New York,NVO
+2281,NVR Inc,NVR.US,New York,NVR
+2282,Novartis AG - ADR,NVS.US,New York,NVS
+2283,Envista Holdings Corp,NVST.US,New York,NVST
+2284,Novita SA,NVT.PL,Warszawa,NVT.WA
+2285,Novatek OAO - GDR,NVTK.UK,London,NVTK.L
+2286,Navitas Semiconductor Corp,NVTS.US,New York,NVTS
+2287,Novavis SA,NVV.PL,Warszawa,NVV.WA
+2288,NWAI Dom Maklerski SA,NWA.PL,Warszawa,NWA.WA
+2289,Northwest Bancshares Inc,NWBI.US,New York,NWBI
+2290,NEWAG SA,NWG.PL,Warszawa,NWG.WA
+2291,Natwest Group PLC,NWG.UK,London,NWG.L
+2292,Newell Brands Inc,NWL.US,New York,NWL
+2293,Northwest Natural Holding Co,NWN.US,New York,NWN
+2294,News Corp,NWS.US,New York,NWS
+2295,News Corp,NWSA.US,New York,NWSA
+2296,Nexgen Energy Ltd,NXE.US,New York,NXE
+2297,Nexity SA,NXI.FR,Paris,NXI.PA
+2298,NXP Semiconductors NV,NXPI.US,New York,NXPI
+2299,Nexstar Media Group Inc - class A,NXST.US,New York,NXST
+2300,Next PLC,NXT.UK,London,NXT.L
+2301,Nextracker Inc - class A,NXT.US,New York,NXT
+2302,New York Community Bancorp Inc,NYCB.US,New York,NYCB
+2303,Nyesa Valores Corporacion SA,NYE.ES,Madrid,NYE.MC
+2304,Nyfosa AB,NYF.SE,Stockholm,NYF.ST
+2305,New York Times Co - class C,NYT.US,New York,NYT
+2306,Novozymes A/S,NZYMB.DK,Copenhagen,NZYMB.CO
+2307,Telefonica Deutschland Holding AG,O2D.DE,Frankfurt,O2D.DE
+2308,Realty Income Corp,O.US,New York,O
+2309,OncoArendi Therapeutics SA,OAT.PL,Warszawa,OAT.WA
+2310,Blue Owl Capital Corp,OBDC.US,New York,OBDC
+2311,Orzel Bialy SA,OBL.PL,Warszawa,OBL.WA
+2312,Obseva SA,OBSV.US,New York,OBSV
+2313,Owens Corning,OC.US,New York,OC
+2314,Ocado Group PLC,OCDO.UK,London,OCDO.L
+2315,Ocugen Inc,OCGN.US,New York,OCGN
+2316,OCI NV,OCI.NL,Amsterdam,OCI.AS
+2317,Oaktree Specialty Lending Corp,OCSL.US,New York,OCSL
+2318,Oddity Tech Ltd - class A,ODD.US,New York,ODD
+2319,Old Dominion Freight Line Inc,ODFL.US,New York,ODFL
+2320,Odlewnie Polskie SA,ODL.PL,Warszawa,ODL.WA
+2321,Orion Engineered Carbons SA,OEC.US,New York,OEC
+2322,Orbital Energy Group Inc,OEG.US,New York,OEG
+2323,OC Oerlikon Corporation AG Pfaeffikon,OERL.CH,Zurich,OERL.SW
+2324,OEX SA,OEX.PL,Warszawa,OEX.WA
+2325,OrganiGram Holdings Inc,OGI.US,New York,OGI
+2326,Organon & Co,OGN.US,New York,OGN
+2327,Gazprom PAO - ADR,OGZD.UK,London,OGZD.L
+2328,Omega Healthcare Investors Inc,OHI.US,New York,OHI
+2329,Obrascon Huarte Lain SA,OHL.ES,Madrid,OHL.MC
+2330,Obrascon Huarte Lain SA,OHLA.ES,Madrid,OHLA.MC
+2331,Owens-Illinois Inc,OI.US,New York,OI
+2332,Orbital Infrastructure Group Inc,OIG.US,New York,OIG
+2333,Oceaneering International Inc,OII.US,New York,OII
+2334,Oil States International Inc,OIS.US,New York,OIS
+2335,ONEOK Inc,OKE.US,New York,OKE
+2336,Oklo Inc - class A,OKLO.US,New York,OKLO
+2337,Okta Inc - class A,OKTA.US,New York,OKTA
+2338,Deoleo SA,OLE.ES,Madrid,OLE.MC
+2339,Universal Display Corp,OLED.US,New York,OLED
+2340,Ollie's Bargain Outlet Holdings Inc,OLLI.US,New York,OLLI
+2341,Olema Pharmaceuticals Inc,OLMA.US,New York,OLMA
+2342,Olin Corp,OLN.US,New York,OLN
+2343,Olaplex Holdings Inc,OLPX.US,New York,OLPX
+2344,Olymp SA,OLY.PL,Warszawa,OLY.WA
+2345,Omnicom Group Inc,OMC.US,New York,OMC
+2346,Omnicell Inc,OMCL.US,New York,OMCL
+2347,OneMain Holdings Inc,OMF.US,New York,OMF
+2348,OMV AG,OMV.DE,Frankfurt,OMV.DE
+2349,ON Semiconductor Corp,ON.US,New York,ON
+2350,Onde SA,OND.PL,Warszawa,OND.WA
+2351,One Solution SA,ONE.PL,Warszawa,ONE.WA
+2352,Orion Office REIT Inc,ONL.US,New York,ONL
+2353,Onesano SA,ONO.PL,Warszawa,ONO.WA
+2354,On Holding AG - class A,ONON.US,New York,ONON
+2355,Ontex Group NV,ONTEX.BE,Brussels,ONTEX.BR
+2356,Onto Innovation Inc,ONTO.US,New York,ONTO
+2357,Onconova Therapeutics Inc,ONTX.US,New York,ONTX
+2358,Opendoor Technologies Inc - class A,OPEN.US,New York,OPEN
+2359,Office Properties Income Trust,OPI.US,New York,OPI
+2360,OPKO Health Inc,OPK.US,New York,OPK
+2361,Orange Polska SA,OPL.PL,Warszawa,OPL.WA
+2362,Opmobility SE,OPM.FR,Paris,OPM.PA
+2363,OPTeam SA,OPM.PL,Warszawa,OPM.WA
+2364,Oponeo.pl SA,OPN.PL,Warszawa,OPN.WA
+2365,Opera Ltd - ADR,OPRA.US,New York,OPRA
+2366,L'Oreal SA,OR.FR,Paris,OR.PA
+2367,Osisko Gold Royalties Ltd,OR.US,New York,OR
+2368,Orange SA,ORA.FR,Paris,ORA.PA
+2369,Ormat Technologies Inc,ORA.US,New York,ORA
+2370,Orchid Island Capital Inc,ORC.US,New York,ORC
+2371,Oracle Corp,ORCL.US,New York,ORCL
+2372,Old Republic International Corp,ORI.US,New York,ORI
+2373,Orkla ASA,ORK.NO,Oslo,ORK.OL
+2374,Orzel SA,ORL.PL,Warszawa,ORL.WA
+2375,O'Reilly Automotive Inc,ORLY.US,New York,ORLY
+2376,Orion Oyj,ORNBV.FI,Helsinki,ORNBV.HE
+2377,Orpea,ORP.FR,Paris,ORP.PA
+2378,Orron Energy AB,ORRON.SE,Stockholm,ORRON.ST
+2379,Orsted A/S,ORSTED.DK,Copenhagen,ORSTED.CO
+2380,Oryzon Genomics SA,ORY.ES,Madrid,ORY.MC
+2381,Oscar Health Inc - class A,OSCR.US,New York,OSCR
+2382,Oshkosh Corp,OSK.US,New York,OSK
+2383,OSRAM Licht AG,OSR.DE,Frankfurt,OSR.DE
+2384,Overstock.com Inc,OSTK.US,New York,OSTK
+2385,Open Text Corp,OTEX.US,New York,OTEX
+2386,Otis Worldwide Corp,OTIS.US,New York,OTIS
+2387,Oatly Group AB - ADR,OTLY.US,New York,OTLY
+2388,Zaklady Przemyslu Cukierniczego Otmuchow SA,OTM.PL,Warszawa,OTM.WA
+2389,OT Logistics SA,OTSL.PL,Warszawa,OTSL.WA
+2390,Otter Tail Corp,OTTR.US,New York,OTTR
+2391,Outokumpu OYJ,OUT1V.FI,Helsinki,OUT1V.HE
+2392,Outfront Media Inc,OUT.US,New York,OUT
+2393,Ovh Groupe SA,OVH.FR,Paris,OVH.PA
+2394,Ovid Works SA,OVI.PL,Warszawa,OVI.WA
+2395,Ovintiv Inc,OVV.US,New York,OVV
+2396,OX2 AB (publ),OX2.SE,Stockholm,OX2.ST
+2397,Oxford Lane Capital Corp,OXLC.US,New York,OXLC
+2398,Oxford Square Capital Corp,OXSQ.US,New York,OXSQ
+2399,Occidental Petroleum Corp,OXY.US,New York,OXY
+2400,Bank OZK,OZK.US,New York,OZK
+2401,Ozon Holdings PLC - ADR,OZON.US,New York,OZON
+2402,Play2Chill SA,P2C.PL,Warszawa,P2C.WA
+2403,Dr Ing hc F Porsche AG - preference shares,P911.DE,Frankfurt,P911.DE
+2404,Pan American Silver Corp,PAAS.US,New York,PAAS
+2405,Proacta SA,PAC.PL,Warszawa,PAC.WA
+2406,Grupo Aeroportuario del Pacifico SAB de CV - ADR,PAC.US,New York,PAC
+2407,Pacific Biosciences of California Inc,PACB.US,New York,PACB
+2408,Paragon Banking Group PLC,PAG.UK,London,PAG.L
+2409,Pagegroup PLC,PAGE.UK,London,PAGE.L
+2410,Pagseguro Digital Ltd - class A,PAGS.US,New York,PAGS
+2411,Porsche Automobil Holding SE - preference shares,PAH3.DE,Frankfurt,PAH3.DE
+2412,Pampa Energia SA - ADR,PAM.US,New York,PAM
+2413,Palo Alto Networks Inc,PANW.US,New York,PANW
+2414,Paramount Global - class B,PARA.US,New York,PARA
+2415,Passus SA,PAS.PL,Warszawa,PAS.WA
+2416,Patentus SA,PAT.PL,Warszawa,PAT.WA
+2417,Uipath Inc - class A,PATH.US,New York,PATH
+2418,PayPoint PLC,PAY.UK,London,PAY.L
+2419,Paycom Software Inc,PAYC.US,New York,PAYC
+2420,Payoneer Global Inc,PAYO.US,New York,PAYO
+2421,Paychex Inc,PAYX.US,New York,PAYX
+2422,Prosperity Bancshares Inc,PB.US,New York,PB
+2423,Pembina Pipeline Corp,PBA.US,New York,PBA
+2424,PBF Energy Inc - class A,PBF.US,New York,PBF
+2425,PBG SA,PBG.PL,Warszawa,PBG.WA
+2426,Pitney Bowes Inc,PBI.US,New York,PBI
+2427,Petroleo Brasileiro SA - ADR,PBR.US,New York,PBR
+2428,Petroleo Brasileiro SA Petrobras - ADR,PBRA.US,New York,PBRA
+2429,Prime Bit Games SA,PBT.PL,Warszawa,PBT.WA
+2430,Poznanska Korporacja Budowlana Pekabex SA,PBX.PL,Warszawa,PBX.WA
+2431,Puma Biotechnology Inc,PBYI.US,New York,PBYI
+2432,PACCAR Inc,PCAR.US,New York,PCAR
+2433,Grupa Azoty Zaklady Chemiczne Police SA,PCE.PL,Warszawa,PCE.WA
+2434,PowerCell Sweden AB,PCELL.SE,Stockholm,PCELL.ST
+2435,Pcf Group SA,PCF.PL,Warszawa,PCF.WA
+2436,PG&E Corp,PCG.US,New York,PCG
+2437,Potlatchdeltic Corp,PCH.US,New York,PCH
+2438,Pepco Group,PCO.PL,Warszawa,PCO.WA
+2439,Procore Technologies Inc,PCOR.US,New York,PCOR
+2440,PCC Rokita SA - class B,PCR.PL,Warszawa,PCR.WA
+2441,Paylocity Holding Corp,PCTY.US,New York,PCTY
+2442,PCC Exol SA,PCX.PL,Warszawa,PCX.WA
+2443,Pagerduty Inc,PD.US,New York,PD
+2444,Patterson Cos Inc,PDCO.US,New York,PDCO
+2445,Pinduoduo Inc - ADR,PDD.US,New York,PDD
+2446,Pyramid Games SA,PDG.PL,Warszawa,PDG.WA
+2447,Petra Diamonds Ltd,PDL.UK,London,PDL.L
+2448,Paradox Interactive AB (publ),PDX.SE,Stockholm,PDX.ST
+2449,Prairie Mining Ltd,PDZ.PL,Warszawa,PDZ.WA
+2450,Healthpeak Properties Inc,PEAK.US,New York,PEAK
+2451,Public Service Enterprise Group Inc,PEG.US,New York,PEG
+2452,Pegasystems Inc,PEGA.US,New York,PEGA
+2453,Photon Energy NV,PEN.PL,Warszawa,PEN.WA
+2454,Penumbra Inc,PEN.US,New York,PEN
+2455,Penn National Gaming Inc,PENN.US,New York,PENN
+2456,Bank Pekao SA,PEO.PL,Warszawa,PEO.WA
+2457,Polenergia SA,PEP.PL,Warszawa,PEP.WA
+2458,PepsiCo Inc,PEP.US,New York,PEP
+2459,Perion Network Ltd,PERI.US,New York,PERI
+2460,Pets at Home Group Plc,PETS.UK,London,PETS.L
+2461,Peugeot Invest SA,PEUG.FR,Paris,PEUG.PA
+2462,Petrofac Ltd,PFC.UK,London,PFC.L
+2463,Pfizer Inc,PFE.US,New York,PFE
+2464,Provident Financial PLC,PFG.UK,London,PFG.L
+2465,Principal Financial Group Inc,PFG.US,New York,PFG
+2466,Performance Food Group Co,PFGC.US,New York,PFGC
+2467,PennantPark Floating Rate Capital Ltd,PFLT.US,New York,PFLT
+2468,Provident Financial Services Inc,PFS.US,New York,PFS
+2469,PennyMac Financial Services Inc,PFSI.US,New York,PFSI
+2470,Procter & Gamble Co,PG.US,New York,PG
+2471,PGE Polska Grupa Energetyczna SA,PGE.PL,Warszawa,PGE.WA
+2472,Partners Group Holding AG,PGHN.CH,Zurich,PGHN.SW
+2473,Prosta Gielda SA,PGI.PL,Warszawa,PGI.WA
+2474,PMPG Polskie Media SA,PGM.PL,Warszawa,PGM.WA
+2475,Progyny Inc,PGNY.US,New York,PGNY
+2476,Progressive Corp,PGR.US,New York,PGR
+2477,PGF Polska Grupa Fotowoltaiczna SA,PGV.PL,Warszawa,PGV.WA
+2478,Pagaya Technologies Ltd - class A,PGY.US,New York,PGY
+2479,Parker-Hannifin Corp,PH.US,New York,PH
+2480,Koninklijke Philips NV - ADR,PHG.US,New York,PHG
+2481,Koninklijke Philips NV,PHIA.NL,Amsterdam,PHIA.AS
+2482,Pharma Mar SA,PHM.ES,Madrid,PHM.MC
+2483,PulteGroup Inc,PHM.US,New York,PHM
+2484,Polski Holding Nieruchomosci SA,PHN.PL,Warszawa,PHN.WA
+2485,Phoenix Group Holdings,PHNX.UK,London,PHNX.L
+2486,PhosAgro PJSC - GDR,PHOR.UK,London,PHOR.L
+2487,Primary Health Properties PLC,PHP.UK,London,PHP.L
+2488,Pharmena SA,PHR.PL,Warszawa,PHR.WA
+2489,Pharol SGPS SA,PHR.PT,Lisbon,PHR.LS
+2490,Phreesia Inc,PHR.US,New York,PHR
+2491,Phunware Inc,PHUN.US,New York,PHUN
+2492,Pivotal Investment Corporation II - class A,PIC.US,New York,PIC
+2493,Polaris Industries Inc,PII.US,New York,PII
+2494,Pinterest Inc - class A,PINS.US,New York,PINS
+2495,Pirelli & C SpA,PIRC.IT,Milan,PIRC.MI
+2496,Second Chamber SA,PIX.PL,Warszawa,PIX.WA
+2497,PJP Makrum SA,PJP.PL,Warszawa,PJP.WA
+2498,Park Hotels & Resorts Inc,PK.US,New York,PK
+2499,Packaging Corp of America,PKG.US,New York,PKG
+2500,PerkinElmer Inc,PKI.US,New York,PKI
+2501,Polski Koncern Naftowy ORLEN SA,PKN.PL,Warszawa,PKN.WA
+2502,Powszechna Kasa Oszczednosci Bank Polski SA,PKO.PL,Warszawa,PKO.WA
+2503,PKP Cargo SA,PKP.PL,Warszawa,PKP.WA
+2504,POSCO - ADR,PKX.US,New York,PKX
+2505,Planet Labs PBC - class A,PL.US,New York,PL
+2506,Photronics Inc,PLAB.US,New York,PLAB
+2507,Dave & Buster's Entertainment Inc,PLAY.US,New York,PLAY
+2508,Plby Group Inc,PLBY.US,New York,PLBY
+2509,Polarcus Ltd,PLCS.NO,Oslo,PLCS.OL
+2510,Prologis Inc,PLD.US,New York,PLD
+2511,Platige Image SA,PLI.PL,Warszawa,PLI.WA
+2512,Piedmont Lithium Ltd - ADR,PLL.US,New York,PLL
+2513,Polman SA,PLM.PL,Warszawa,PLM.WA
+2514,Planet Fitness Inc - class A,PLNT.US,New York,PLNT
+2515,Polypipe Group PLC,PLP.UK,London,PLP.L
+2516,Playtika Holding Corp,PLTK.US,New York,PLTK
+2517,Palantir Technologies Inc - class A,PLTR.US,New York,PLTR
+2518,Plug Power Inc,PLUG.US,New York,PLUG
+2519,Plus500 Ltd,PLUS.UK,London,PLUS.L
+2520,ePlus inc,PLUS.US,New York,PLUS
+2521,PlayWay SA,PLW.PL,Warszawa,PLW.WA
+2522,Pluxee NV,PLX.FR,Paris,PLX.PA
+2523,Plexus Corp,PLXS.US,New York,PLXS
+2524,Plaza Centers NV,PLZ.PL,Warszawa,PLZ.WA
+2525,Polyus PJSC - GDR,PLZL.UK,London,PLZL.L
+2526,Philip Morris International Inc,PM.US,New York,PM
+2527,Polska Grupa Militarna SA,PMG.PL,Warszawa,PMG.WA
+2528,Premier Oil PLC,PMO.UK,London,PMO.L
+2529,Pamapol SA,PMP.PL,Warszawa,PMP.WA
+2530,PennyMac Mortgage Investment Trust,PMT.US,New York,PMT
+2531,PNC Financial Services Group Inc,PNC.US,New York,PNC
+2532,Pandora A/S,PNDORA.DK,Copenhagen,PNDORA.CO
+2533,PNE AG,PNE3.DE,Frankfurt,PNE3.DE
+2534,PostNL NV,PNL.NL,Amsterdam,PNL.AS
+2535,Pennon Group PLC,PNN.UK,London,PNN.L
+2536,Pentair PLC,PNR.US,New York,PNR
+2537,PointPack.pl SA,PNT.PL,Warszawa,PNT.WA
+2538,Plantwear SA,PNW.PL,Warszawa,PNW.WA
+2539,Pinnacle West Capital Corp,PNW.US,New York,PNW
+2540,Insulet Corp,PODD.US,New York,PODD
+2541,Polymetal International PLC,POLY.UK,London,POLY.L
+2542,Cie Plastic Omnium SA,POM.FR,Paris,POM.PA
+2543,Ponsse Oyj,PON1V.FI,Helsinki,PON1V.HE
+2544,Pool Corp,POOL.US,New York,POOL
+2545,Post Holdings Inc,POST.US,New York,POST
+2546,Powell Industries Inc,POWL.US,New York,POWL
+2547,Pozbud T&R SA,POZ.PL,Warszawa,POZ.WA
+2548,Paddy Power Betfair PLC,PPB.UK,London,PPB.L
+2549,Pacific Premier Bancorp Inc,PPBI.US,New York,PPBI
+2550,PPG Industries Inc,PPG.US,New York,PPG
+2551,PPL Corp,PPL.US,New York,PPL
+2552,Przedsiebiorstwo Przemyslu Spozywczego PEPEES SA,PPS.PL,Warszawa,PPS.WA
+2553,Permian Resources Corp - class A,PR.US,New York,PR
+2554,Pensana PLC,PRE.UK,London,PRE.L
+2555,Perrigo Co PLC,PRGO.US,New York,PRGO
+2556,Primerica Inc,PRI.US,New York,PRI
+2557,Proto Labs Inc,PRLB.US,New York,PRLB
+2558,Prochem SA,PRM.PL,Warszawa,PRM.WA
+2559,APN Promise SA,PRO.PL,Warszawa,PRO.WA
+2560,Pros Holdings Inc,PRO.US,New York,PRO
+2561,Proximus SADP,PROX.BE,Brussels,PROX.BR
+2562,Promotora de Informaciones SA,PRS.ES,Madrid,PRS.MC
+2563,Lubelskie Zaklady Przemyslu Skorzanego SA,PRT.PL,Warszawa,PRT.WA
+2564,Carparts.Com Inc,PRTS.US,New York,PRTS
+2565,Prudential PLC,PRU.UK,London,PRU.L
+2566,Prudential Financial Inc,PRU.US,New York,PRU
+2567,Prosus NV,PRX.NL,Amsterdam,PRX.AS
+2568,Prysmian SpA,PRY.IT,Milan,PRY.MI
+2569,Public Storage,PSA.US,New York,PSA
+2570,Prospect Capital Corp,PSEC.US,New York,PSEC
+2571,Paysafe Ltd,PSFE.US,New York,PSFE
+2572,Prosegur Cia de Seguridad SA,PSG.ES,Madrid,PSG.MC
+2573,Pershing Square Holdings Ltd,PSH.NL,Amsterdam,PSH.AS
+2574,Polyslash SA,PSH.PL,Warszawa,PSH.WA
+2575,ProSiebenSat.1 Media SE,PSM.DE,Frankfurt,PSM.DE
+2576,Persimmon PLC,PSN.UK,London,PSN.L
+2577,Parsons Corp,PSN.US,New York,PSN
+2578,Personalis Inc,PSNL.US,New York,PSNL
+2579,Pearson PLC,PSON.UK,London,PSON.L
+2580,Poste Italiane SpA,PST.IT,Milan,PST.MI
+2581,Pure Storage Inc - class A,PSTG.US,New York,PSTG
+2582,Phillips 66,PSX.US,New York,PSX
+2583,PTC Inc,PTC.US,New York,PTC
+2584,PTC Therapeutics Inc,PTCT.US,New York,PTCT
+2585,Playtech Plc,PTEC.UK,London,PTEC.L
+2586,Patterson-UTI Energy Inc,PTEN.US,New York,PTEN
+2587,Poltreg SA,PTG.PL,Warszawa,PTG.WA
+2588,Protagonist Therapeutics Inc,PTGX.US,New York,PTGX
+2589,Primetech SA,PTH.PL,Warszawa,PTH.WA
+2590,Portillos Inc - class A,PTLO.US,New York,PTLO
+2591,Palatin Technologies Inc,PTN.US,New York,PTN
+2592,Peloton Interactive Inc - class A,PTON.US,New York,PTON
+2593,Polskie Towarzystwo Wspierania Przedsiebiorczosci SA,PTW.PL,Warszawa,PTW.WA
+2594,Publicis Groupe SA,PUB.FR,Paris,PUB.PA
+2595,PubMatic Inc - class A,PUBM.US,New York,PUBM
+2596,PUIG Brands SA,PUIG.ES,Madrid,PUIG.MC
+2597,Prudential PLC - ADR,PUK.US,New York,PUK
+2598,Puma SE,PUM.DE,Frankfurt,PUM.DE
+2599,Punkpirates SA,PUN.PL,Warszawa,PUN.WA
+2600,Pure Biologics SA,PUR.PL,Warszawa,PUR.WA
+2601,PVH Corp,PVH.US,New York,PVH
+2602,Power REIT,PW.US,New York,PW
+2603,Quanta Services Inc,PWR.US,New York,PWR
+2604,Polwax SA,PWX.PL,Warszawa,PWX.WA
+2605,Polimex-Mostostal SA,PXM.PL,Warszawa,PXM.WA
+2606,Pylon SA,PYL.PL,Warszawa,PYL.WA
+2607,PayPal Holdings Inc,PYPL.US,New York,PYPL
+2608,PZ Cussons PLC,PZC.UK,London,PZC.L
+2609,Powszechny Zaklad Ubezpieczen SA,PZU.PL,Warszawa,PZU.WA
+2610,Papa John's International Inc,PZZA.US,New York,PZZA
+2611,QUALCOMM Inc,QCOM.US,New York,QCOM
+2612,Qudian Inc - ADR,QD.US,New York,QD
+2613,Quidelortho Corp,QDEL.US,New York,QDEL
+2614,Quadient SAS,QDT.FR,Paris,QDT.PA
+2615,360 DigiTech Inc - ADR,QFIN.US,New York,QFIN
+2616,QIAGEN NV,QGEN.US,New York,QGEN
+2617,Qualys Inc,QLYS.US,New York,QLYS
+2618,QNA Technology SA,QNATECHN.PL,Warszawa,QNATECHN.WA
+2619,QinetiQ Group PLC,QQ.UK,London,QQ.L
+2620,Quercus TFI SA,QRS.PL,Warszawa,QRS.WA
+2621,Qurate Retail Inc,QRTEA.US,New York,QRTEA
+2622,Qorvo Inc,QRVO.US,New York,QRVO
+2623,Quantumscape Corp - class A,QS.US,New York,QS
+2624,Restaurant Brands International Inc,QSR.US,New York,QSR
+2625,Qt Group Oyj,QTCOM.FI,Helsinki,QTCOM.HE
+2626,Qutoutiao Inc - ADR,QTT.US,New York,QTT
+2627,Q32 Bio Inc,QTTB.US,New York,QTTB
+2628,Quad/Graphics Inc - class A,QUAD.US,New York,QUAD
+2629,QubicGames SA,QUB.PL,Warszawa,QUB.WA
+2630,R22 SA,R22.PL,Warszawa,R22.WA
+2631,Ryder System Inc,R.US,New York,R
+2632,Ferrari NV,RACE.IT,Milan,RACE.MI
+2633,Ferrari NV,RACE.US,New York,RACE
+2634,Raen SA,RAE.PL,Warszawa,RAE.WA
+2635,Rallye SA,RAL.FR,Paris,RAL.PA
+2636,Ramada Investimentos E Industria SA,RAM.PT,Lisbon,RAM.LS
+2637,Randstad Holding NV,RAND.NL,Amsterdam,RAND.AS
+2638,Ratos AB - class B,RATOB.SE,Stockholm,RATOB.ST
+2639,Reckitt Benckiser Group PLC,RB.UK,London,RB.L
+2640,Erste Group Bank AG,RBAG.CZ,Prague,RBAG.PR
+2641,Roblox Corp - class A,RBLX.US,New York,RBLX
+2642,Royal Unibrew A/S,RBREW.DK,Copenhagen,RBREW.CO
+2643,Rubrik Inc - class A,RBRK.US,New York,RBRK
+2644,Robinson Europe,RBS.PL,Warszawa,RBS.WA
+2645,Royal Bank of Scotland Group PLC,RBS.UK,London,RBS.L
+2646,Rainbow Tours SA,RBW.PL,Warszawa,RBW.WA
+2647,Rent-A-Center Inc,RCII.US,New York,RCII
+2648,Rocket Pharmaceuticals Inc,RCKT.US,New York,RCKT
+2649,Royal Caribbean Cruises Ltd,RCL.US,New York,RCL
+2650,Remy Cointreau SA,RCO.FR,Paris,RCO.PA
+2651,Arcus Biosciences Inc,RCUS.US,New York,RCUS
+2652,Redcare Pharmacy NV,RDC.DE,Frankfurt,RDC.DE
+2653,Reddit Inc - class A,RDDT.US,New York,RDDT
+2654,Redfin Corp,RDFN.US,New York,RDFN
+2655,Read Gene SA,RDG.PL,Warszawa,RDG.WA
+2656,Radian Group Inc,RDN.US,New York,RDN
+2657,Royal Dutch Shell PLC,RDSA.NL,Amsterdam,RDSA.AS
+2658,Royal Dutch Shell PLC,RDSA.UK,London,RDSA.L
+2659,Royal Dutch Shell PLC,RDSB.UK,London,RDSB.L
+2660,Radius Health Inc,RDUS.US,New York,RDUS
+2661,Redwire Corp,RDW.US,New York,RDW
+2662,Everest Re Group Ltd,RE.US,New York,RE
+2663,RealReal Inc,REAL.US,New York,REAL
+2664,Recordati SpA,REC.IT,Milan,REC.MI
+2665,REC Silicon ASA,REC.NO,Oslo,REC.OL
+2666,REC Silicon ASA,RECSI.NO,Oslo,RECSI.OL
+2667,Red Electrica Corporacion SA,RED.ES,Madrid,RED.MC
+2668,Redde Northgate PLC,REDD.UK,London,REDD.L
+2669,Red Electrica Corp SA,REE.ES,Madrid,REE.MC
+2670,Regency Centers Corp,REG.US,New York,REG
+2671,Regeneron Pharmaceuticals Inc,REGN.US,New York,REGN
+2672,Rekor Systems Inc,REKR.US,New York,REKR
+2673,RELX PLC,REL.UK,London,REL.L
+2674,Remitly Global Inc,RELY.US,New York,RELY
+2675,Renovaro Inc,RENB.US,New York,RENB
+2676,REN - Redes Energeticas Nacionais SGPS SA,RENE.PT,Lisbon,RENE.LS
+2677,Rent the Runway Inc - class A,RENT.US,New York,RENT
+2678,Repsol SA,REP1.ES,Madrid,REP1.MC
+2679,Resbud SE,RES.PL,Warszawa,RES.WA
+2680,Rexford Industrial Realty Inc,REXR.US,New York,REXR
+2681,Reply SpA,REY.IT,Milan,REY.MI
+2682,Resideo Technologies Inc,REZI.US,New York,REZI
+2683,Eurazeo SA,RF.FR,Paris,RF.PA
+2684,Regions Financial Corp,RF.US,New York,RF
+2685,Rafako SA,RFK.PL,Warszawa,RFK.WA
+2686,Reinsurance Group of America I - class A,RGA.US,New York,RGA
+2687,Repligen Corp,RGEN.US,New York,RGEN
+2688,Robs Group Logistics,RGL.PL,Warszawa,RGL.WA
+2689,Regional REIT Ltd,RGL.UK,London,RGL.L
+2690,Royal Gold Inc,RGLD.US,New York,RGLD
+2691,Regenxbio Inc,RGNX.US,New York,RGNX
+2692,Sturm Ruger & Company Inc,RGR.US,New York,RGR
+2693,Rigetti Computing Inc,RGTI.US,New York,RGTI
+2694,RH,RH.US,New York,RH
+2695,Robert Half International Inc,RHI.US,New York,RHI
+2696,RHI Magnesita NV,RHIM.UK,London,RHIM.L
+2697,Rheinmetall AG,RHM.DE,Frankfurt,RHM.DE
+2698,Ryman Hospitality Properties Inc,RHP.US,New York,RHP
+2699,Pernod Ricard SA,RI.FR,Paris,RI.PA
+2700,RCI Hospitality Holdings Inc,RICK.US,New York,RICK
+2701,Lordstown Motors Corp - class A,RIDE.US,New York,RIDE
+2702,Transocean Ltd,RIG.US,New York,RIG
+2703,Rigel Pharmaceuticals Inc,RIGL.US,New York,RIGL
+2704,Rio Tinto PLC,RIO1.DE,Frankfurt,RIO1.DE
+2705,Rio Tinto PLC,RIO.UK,London,RIO.L
+2706,Rio Tinto PLC - ADR,RIO.US,New York,RIO
+2707,Riot Blockchain Inc,RIOT.US,New York,RIOT
+2708,Rithm Capital Corp,RITM.US,New York,RITM
+2709,Rivian Automotive Inc - class A,RIVN.US,New York,RIVN
+2710,Laboratorio Reig Jofre SA,RJF.ES,Madrid,RJF.MC
+2711,Raymond James Financial Inc,RJF.US,New York,RJF
+2712,Rocket Lab USA Inc - class A,RKLB.US,New York,RKLB
+2713,Reckitt Benckiser Group PLC,RKT.UK,London,RKT.L
+2714,Rocket Companies Inc - class A,RKT.US,New York,RKT
+2715,Polo Ralph Lauren Corp - class A,RL.US,New York,RL
+2716,Relay Therapeutics Inc,RLAY.US,New York,RLAY
+2717,RELIEF THERAPEUTICS Holding SA,RLF.CH,Zurich,RLF.SW
+2718,Realogy Holdings Corp,RLGY.US,New York,RLGY
+2719,Rli Corp,RLI.US,New York,RLI
+2720,Relpol SA,RLP.PL,Warszawa,RLP.WA
+2721,Rambus Inc,RMBS.US,New York,RMBS
+2722,ResMed Inc,RMD.US,New York,RMD
+2723,Royal Mail PLC,RMG.UK,London,RMG.L
+2724,Remak Energomontaz SA,RMK.PL,Warszawa,RMK.WA
+2725,Hermes International,RMS.FR,Paris,RMS.PA
+2726,Rightmove PLC,RMV.UK,London,RMV.L
+2727,Cartesian Therapeutics Inc,RNAC.US,New York,RNAC
+2728,Render Cube SA,RND.PL,Warszawa,RND.WA
+2729,RingCentral Inc - class A,RNG.US,New York,RNG
+2730,Rank Progress SA,RNK.PL,Warszawa,RNK.WA
+2731,Renault SA,RNO.FR,Paris,RNO.PA
+2732,RenaissanceRe Holdings Ltd,RNR.US,New York,RNR
+2733,Rockwool International A/S,ROCKB.DK,Copenhagen,ROCKB.CO
+2734,Roche Holding AG,ROG.CH,Zurich,ROG.SW
+2735,Rogers Corp,ROG.US,New York,ROG
+2736,Rockwell Automation Inc,ROK.US,New York,ROK
+2737,Roku Inc - class A,ROKU.US,New York,ROKU
+2738,Rollins Inc,ROL.US,New York,ROL
+2739,Root Inc - class A,ROOT.US,New York,ROOT
+2740,Roper Technologies Inc,ROP.US,New York,ROP
+2741,Rotork PLC,ROR.UK,London,ROR.L
+2742,Rosneft OAO - GDR,ROSN.UK,London,ROSN.L
+2743,Ross Stores Inc,ROST.US,New York,ROST
+2744,Rothschild & Co,ROTH.FR,Paris,ROTH.PA
+2745,Laboratorios Farmaceuticos Rovi SA,ROVI.ES,Madrid,ROVI.MC
+2746,Zaklady Magnezytowe Ropczyce SA,RPC.PL,Warszawa,RPC.WA
+2747,Rapid7 Inc,RPD.US,New York,RPD
+2748,RPM International Inc,RPM.US,New York,RPM
+2749,Royalty Pharma PLC - class A,RPRX.US,New York,RPRX
+2750,Rolls-Royce Holdings PLC,RR.UK,London,RR.L
+2751,Range Resources Corp,RRC.US,New York,RRC
+2752,Red Rock Resorts Inc - class A,RRR.US,New York,RRR
+2753,RTL Group SA,RRTL.DE,Frankfurt,RRTL.DE
+2754,RS Group PLC,RS1.UK,London,RS1.L
+2755,Reliance Steel & Aluminum Co,RS.US,New York,RS
+2756,Republic Services Inc - class A,RSG.US,New York,RSG
+2757,Remor Solar Polska SA,RSP.PL,Warszawa,RSP.WA
+2758,Road Studio SA,RST.PL,Warszawa,RST.WA
+2759,Restaurant Group PLC,RTN.UK,London,RTN.L
+2760,Rentokil Initial PLC,RTO.UK,London,RTO.L
+2761,Raytheon Technologies Corp,RTX.US,New York,RTX
+2762,Rubis SCA,RUI.FR,Paris,RUI.PA
+2763,Rumble Inc - class A,RUM.US,New York,RUM
+2764,Sunrun Inc,RUN.US,New York,RUN
+2765,Revolve Group Inc - class A,RVLV.US,New York,RVLV
+2766,Revolution Medicines Inc,RVMD.US,New York,RVMD
+2767,Revvity Inc,RVTY.US,New York,RVTY
+2768,Ryvu Therapeutics SA,RVU.PL,Warszawa,RVU.WA
+2769,RWE AG,RWE.DE,Frankfurt,RWE.DE
+2770,Rawlplug SA,RWL.PL,Warszawa,RWL.WA
+2771,Recylex SA,RX.FR,Paris,RX.PA
+2772,Rexel SA,RXL.FR,Paris,RXL.PA
+2773,Recursion Pharmaceuticals Inc - class A,RXRX.US,New York,RXRX
+2774,Royal Bank of Canada,RY.US,New York,RY
+2775,Ryanair,RYA.UK,London,RYA.L
+2776,Ryanair Holdings PLC,RYAAY.US,New York,RYAAY
+2777,Rayonier Inc,RYN.US,New York,RYN
+2778,Solutions 30 SE,S30.FR,Paris,S30.PA
+2779,S4E SA,S4E.PL,Warszawa,S4E.WA
+2780,SMA Solar Technology AG,S92.DE,Frankfurt,S92.DE
+2781,SentinelOne Inc,S.US,New York,S
+2782,Saab AB - class B,SAABB.SE,Stockholm,SAABB.ST
+2783,Banco de Sabadell SA,SAB.ES,Madrid,SAB.MC
+2784,Sabre Corp,SABR.US,New York,SABR
+2785,Shop Apotheke Europe NV,SAE.DE,Frankfurt,SAE.DE
+2786,Safran SA,SAF.FR,Paris,SAF.PA
+2787,Saga PLC,SAGA.UK,London,SAGA.L
+2788,Sage Therapeutics Inc,SAGE.US,New York,SAGE
+2789,Saia Inc,SAIA.US,New York,SAIA
+2790,Salmar ASA,SALM.NO,Oslo,SALM.OL
+2791,Boston Beer Company Inc - class A,SAM.US,New York,SAM
+2792,Sampo Oyj - class A,SAMPO.FI,Helsinki,SAMPO.HE
+2793,Banco Santander SA,SAN1.ES,Madrid,SAN1.MC
+2794,Sanofi,SAN.FR,Paris,SAN.PA
+2795,Banco Santander SA (ADR),SAN.US,New York,SAN
+2796,Sandvik AB,SAND.SE,Stockholm,SAND.ST
+2797,SAP SE,SAP.DE,Frankfurt,SAP.DE
+2798,SAP SE - ADR,SAP.US,New York,SAP
+2799,EchoStar Corp - class A,SATS.US,New York,SATS
+2800,Cassava Sciences Inc,SAVA.US,New York,SAVA
+2801,Spirit Airlines Inc,SAVE.US,New York,SAVE
+2802,SBA Communications Corp - class A,SBAC.US,New York,SBAC
+2803,Samhallsbyggnadsbolaget I Norden AB - class B,SBBB.SE,Stockholm,SBBB.ST
+2804,Softblue SA,SBE.PL,Warszawa,SBE.WA
+2805,Switchback Energy Acquisition Corp - class A,SBE.US,New York,SBE
+2806,Sberbank of Russia PJSC - ADR,SBER.UK,London,SBER.L
+2807,Sinclair Broadcast Group Inc - class A,SBGI.US,New York,SBGI
+2808,Star Bulk Carriers Corp,SBLK.US,New York,SBLK
+2809,SBM Offshore NV,SBMO.NL,Amsterdam,SBMO.AS
+2810,Signature Bank,SBNY.US,New York,SBNY
+2811,Sabra Health Care REIT Inc,SBRA.US,New York,SBRA
+2812,J Sainsbury PLC,SBRY.UK,London,SBRY.L
+2813,STRATEC Biomedical AG,SBS.DE,Frankfurt,SBS.DE
+2814,Basic Sanitation Company of the State of Sao Paulo SABESP - ADR,SBS.US,New York,SBS
+2815,Sibanye Stillwater Ltd - ADR,SBSW.US,New York,SBSW
+2816,Starbucks Corp,SBUX.US,New York,SBUX
+2817,Svenska Cellulosa AB SCA - class B,SCAB.SE,Stockholm,SCAB.ST
+2818,Scatec ASA,SCATC.NO,Oslo,SCATC.OL
+2819,Southern Copper Corp,SCCO.US,New York,SCCO
+2820,Schibsted ASA,SCHA.NO,Oslo,SCHA.OL
+2821,Schibsted ASA - class B,SCHB.NO,Oslo,SCHB.OL
+2822,Charles Schwab Corp,SCHW.US,New York,SCHW
+2823,Service Corp International,SCI.US,New York,SCI
+2824,Swisscom AG,SCMN.CH,Zurich,SCMN.SW
+2825,Scope Fluidics SA,SCP.PL,Warszawa,SCP.WA
+2826,Sciplay Corp - class A,SCPL.US,New York,SCPL
+2827,SCOR SE,SCR.FR,Paris,SCR.PA
+2828,Scanway SA,SCW.PL,Warszawa,SCW.WA
+2829,Sacyr SA,SCYR.ES,Madrid,SCYR.MC
+2830,SunCar Technology Group Inc - class A,SDA.US,New York,SDA
+2831,SmileDirectClub Inc - class A,SDC.US,New York,SDC
+2832,K+S AG,SDF.DE,Frankfurt,SDF.DE
+2833,Sundragon SA,SDG.PL,Warszawa,SDG.WA
+2834,Schrodinger Inc,SDGR.US,New York,SDGR
+2835,Schroders PLC,SDR.UK,London,SDR.L
+2836,Seadrill Ltd,SDRL.US,New York,SDRL
+2837,Superdry PLC,SDRY.UK,London,SDRY.L
+2838,Sds Optic SA,SDS.PL,Warszawa,SDS.WA
+2839,Speedy Hire PLC,SDY.UK,London,SDY.L
+2840,Sandoz Group AG,SDZ.CH,Zurich,SDZ.SW
+2841,Sea Ltd - class A,SE1.US,New York,SE1
+2842,Skandinaviska Enskilda Banken AB,SEBA.SE,Stockholm,SEBA.ST
+2843,Securitas AB,SECUB.SE,Stockholm,SECUB.ST
+2844,SolarEdge Technologies Inc,SEDG.US,New York,SEDG
+2845,Sealed Air Corp,SEE.US,New York,SEE
+2846,SEI Investments Co,SEIC.US,New York,SEIC
+2847,Seko SA,SEK.PL,Warszawa,SEK.WA
+2848,Selena FM SA,SEL.PL,Warszawa,SEL.WA
+2849,Selecta Biosciences Inc,SELB.US,New York,SELB
+2850,Semapa-Sociedade de Investimento e Gestao,SEM.PT,Lisbon,SEM.LS
+2851,Serinus Energy PLC,SEN.PL,Warszawa,SEN.WA
+2852,Serve Robotics Inc,SERV.US,New York,SERV
+2853,Sescom SA,SES.PL,Warszawa,SES.WA
+2854,SES SA - class A,SESG.FR,Paris,SESG.PA
+2855,Sesen Bio Inc,SESN.US,New York,SESN
+2856,Setanta SA,SET.PL,Warszawa,SET.WA
+2857,Sevenet SA,SEV.PL,Warszawa,SEV.WA
+2858,Stillfront Group AB (publ),SF.SE,Stockholm,SF.ST
+2859,Stifel Financial Corp,SF.US,New York,SF
+2860,SFD SA,SFD.PL,Warszawa,SFD.WA
+2861,Salvatore Ferragamo SpA,SFER.IT,Milan,SFER.MI
+2862,Silvano Fashion Group AS,SFG.PL,Warszawa,SFG.WA
+2863,Stitch Fix Inc - class A,SFIX.US,New York,SFIX
+2864,Sprouts Farmers Market Inc,SFM.US,New York,SFM
+2865,Sfinks Polska SA,SFS.PL,Warszawa,SFS.WA
+2866,Sweetgreen Inc - class A,SG.US,New York,SG
+2867,Sage Group PLC,SGE.UK,London,SGE.L
+2868,Seattle Genetics Inc,SGEN.US,New York,SGEN
+2869,Smart Global Holdings Inc,SGH.US,New York,SGH
+2870,Sigma Lithium Corp,SGML.US,New York,SGML
+2871,Sangamo Therapeutics Inc,SGMO.US,New York,SGMO
+2872,Scientific Games Corp,SGMS.US,New York,SGMS
+2873,Sygnity SA,SGN.PL,Warszawa,SGN.WA
+2874,Cie de Saint-Gobain,SGO.FR,Paris,SGO.PA
+2875,Segro PLC,SGRO.UK,London,SGRO.L
+2876,Surgery Partners Inc,SGRY.US,New York,SGRY
+2877,SGS SA,SGSN.CH,Zurich,SGSN.SW
+2878,Schaeffler AG - preference shares,SHA.DE,Frankfurt,SHA.DE
+2879,Shake Shack Inc - class A,SHAK.US,New York,SHAK
+2880,Svenska Handelsbanken AB,SHBA.SE,Stockholm,SHBA.ST
+2881,Shaftesbury Capital PLC,SHC.UK,London,SHC.L
+2882,Shell PLC,SHEL.UK,London,SHEL.L
+2883,Shell PLC - ADR,SHEL.US,New York,SHEL
+2884,Shell PLC,SHELL.NL,Amsterdam,SHELL.AS
+2885,SIG PLC,SHI.UK,London,SHI.L
+2886,Siemens Healthineers AG,SHL.DE,Frankfurt,SHL.DE
+2887,Sears Holdings Corp,SHLD.US,New York,SHLD
+2888,Hylion Holdings Corp (HYLN),SHLL.US,New York,SHLL
+2889,Shoals Technologies Group Inc - class A,SHLS.US,New York,SHLS
+2890,Shoper SA,SHO.PL,Warszawa,SHO.WA
+2891,Shopify Inc. - class A,SHOP.US,New York,SHOP
+2892,Sherwin-Williams Co,SHW.US,New York,SHW
+2893,Silvergate Capital Corp - class A,SI.US,New York,SI
+2894,Companhia Siderurgica Nacional SA - ADR,SID.US,New York,SID
+2895,Siemens AG,SIE.DE,Frankfurt,SIE.DE
+2896,Signet Jewelers Ltd,SIG.US,New York,SIG
+2897,SIGA Technologies Inc,SIGA.US,New York,SIGA
+2898,SIG Combibloc Group AG,SIGN.CH,Zurich,SIGN.SW
+2899,Societe pour l'Informatique Industrielle,SII.FR,Paris,SII.PA
+2900,Sprott Inc,SII.US,New York,SII
+2901,Sika AG,SIK.CH,Zurich,SIK.SW
+2902,Simfabric SA,SIM.PL,Warszawa,SIM.WA
+2903,Silicon Motion Technology Corp - ADR - ADR,SIMO.US,New York,SIMO
+2904,Sinch AB (publ),SINCH.SE,Stockholm,SINCH.ST
+2905,Sirius XM Holdings Inc,SIRI.US,New York,SIRI
+2906,SiteOne Landscape Supply Inc,SITE.US,New York,SITE
+2907,SVB Financial Group,SIVB.US,New York,SIVB
+2908,Six Flags Entertainment Corp,SIX.US,New York,SIX
+2909,JM Smucker Co,SJM.US,New York,SJM
+2910,Shaw Communications Inc,SJR.US,New York,SJR
+2911,SEB SA,SK.FR,Paris,SK.PA
+2912,Sniezka SA,SKA.PL,Warszawa,SKA.WA
+2913,Skanska AB,SKAB.SE,Stockholm,SKAB.ST
+2914,Koenig & Bauer AG,SKB.DE,Frankfurt,SKB.DE
+2915,SKF AB,SKFB.SE,Stockholm,SKFB.ST
+2916,Smurfit Kappa Group PLC,SKG.UK,London,SKG.L
+2917,Skarbiec Holding SA,SKH.PL,Warszawa,SKH.WA
+2918,Beauty Health Co - class A,SKIN.US,New York,SKIN
+2919,Skillz Inc - class A,SKLZ.US,New York,SKLZ
+2920,Skotan SA,SKT.PL,Warszawa,SKT.WA
+2921,Tanger Factory Outlet Centers Inc,SKT.US,New York,SKT
+2922,Skechers USA Inc - class A,SKX.US,New York,SKX
+2923,Standard Life Aberdeen PLC,SLA.UK,London,SLA.L
+2924,Schlumberger Ltd,SLB.US,New York,SLB
+2925,Solid Biosciences Inc,SLDB.US,New York,SLDB
+2926,SL Green Realty Corp,SLG.US,New York,SLG
+2927,Swiss Life Holding AG,SLHN.CH,Zurich,SLHN.SW
+2928,SLM Corp,SLM.US,New York,SLM
+2929,Simulations Plus Inc,SLP.US,New York,SLP
+2930,Solaria Energia y Medio Ambiente SA,SLR.ES,Madrid,SLR.MC
+2931,Saule Technologies SA,SLT.PL,Warszawa,SLT.WA
+2932,Selvita SA,SLV.PL,Warszawa,SLV.WA
+2933,Sylvamo Corp,SLVM.US,New York,SLVM
+2934,SM Energy Co,SM.US,New York,SM
+2935,Smartsheet Inc - class A,SMAR.US,New York,SMAR
+2936,Super Micro Computer Inc,SMCI.US,New York,SMCI
+2937,SMCP SA,SMCP.FR,Paris,SMCP.PA
+2938,DS Smith PLC,SMDS.UK,London,SMDS.L
+2939,Sumitomo Mitsui Financial Group Inc - ADR,SMFG.US,New York,SMFG
+2940,Scotts Miracle-Gro Co,SMG.US,New York,SMG
+2941,SUESS MicroTec SE,SMHN.DE,Frankfurt,SMHN.DE
+2942,Smiths Group PLC,SMIN.UK,London,SMIN.L
+2943,Semler Scientific Inc,SMLR.US,New York,SMLR
+2944,Summit Therapeutics Inc,SMMT.US,New York,SMMT
+2945,Nuscale Power Corp - class A,SMR.US,New York,SMR
+2946,Samsung Electronics Co Ltd - GDR,SMSN.UK,London,SMSN.L
+2947,Semtech Corp,SMTC.US,New York,SMTC
+2948,WH Smith PLC,SMWH.UK,London,SMWH.L
+2949,Smith & Nephew PLC,SN.UK,London,SN.L
+2950,Snap-on Inc,SNA.US,New York,SNA
+2951,Snap Inc. - class A,SNAP.US,New York,SNAP
+2952,Sleep Number Corp,SNBR.US,New York,SNBR
+2953,Sundial Growers Inc,SNDL.US,New York,SNDL
+2954,Sony Corp - ADR,SNE.US,New York,SNE
+2955,Synerga.Fund SA,SNG.PL,Warszawa,SNG.WA
+2956,Senior Housing Properties Trust,SNH.US,New York,SNH
+2957,Sanok Rubber Co SA,SNK.PL,Warszawa,SNK.WA
+2958,Smith & Nephew PLC - ADR,SNN.US,New York,SNN
+2959,Snowflake Inc - class A,SNOW.US,New York,SNOW
+2960,Synopsys Inc,SNPS.US,New York,SNPS
+2961,Senior PLC,SNR.UK,London,SNR.L
+2962,Synektik SA,SNT.PL,Warszawa,SNT.WA
+2963,Synovus Financial Corp,SNV.US,New York,SNV
+2964,Sanwil Holding SA,SNW.PL,Warszawa,SNW.WA
+2965,Sunex SA,SNX.PL,Warszawa,SNX.WA
+2966,Sanofi SA - ADR,SNY.US,New York,SNY
+2967,Southern Co,SO.US,New York,SO
+2968,Sofina SA,SOF.BE,Brussels,SOF.BR
+2969,SoFi Technologies Inc,SOFI.US,New York,SOFI
+2970,SOITEC,SOI.FR,Paris,SOI.PA
+2971,Solaris Oilfield Infrastructure Inc - class A,SOI.US,New York,SOI
+2972,Sonka SA,SOK.PL,Warszawa,SOK.WA
+2973,Soltec Power Holdings SA,SOL.ES,Madrid,SOL.MC
+2974,ReneSola Ltd - ADR,SOL.US,New York,SOL
+2975,Solvay SA,SOLB.BE,Brussels,SOLB.BR
+2976,Electrameccanica Vehicles Corp,SOLO.US,New York,SOLO
+2977,Solventum Corp,SOLV.US,New York,SOLV
+2978,Sonel SA,SON.PL,Warszawa,SON.WA
+2979,Sonae SGPS SA,SON.PT,Lisbon,SON.LS
+2980,Sonoco Products Co,SON.US,New York,SON
+2981,Sonos Inc,SONO.US,New York,SONO
+2982,Sony Group Corp - ADR,SONY.US,New York,SONY
+2983,Sonova Holding AG,SOON.CH,Zurich,SOON.SW
+2984,Sopra Steria Group,SOP.FR,Paris,SOP.PA
+2985,Sos Ltd - class A,SOS.US,New York,SOS
+2986,SoundHound AI Inc - class A,SOUN.US,New York,SOUN
+2987,Fisker Inc (FSR),SPAQ.US,New York,SPAQ
+2988,Virgin Galactic Holdings Inc,SPCE.US,New York,SPCE
+2989,Simon Property Group Inc,SPG.US,New York,SPG
+2990,S&P Global Inc,SPGI.US,New York,SPGI
+2991,Sphere Entertainment Co - class A,SPHR.US,New York,SPHR
+2992,Spire Healthcare Group PLC,SPI.UK,London,SPI.L
+2993,SPI Energy Co Ltd,SPI.US,New York,SPI
+2994,SPIE SA,SPIE.FR,Paris,SPIE.PA
+2995,Spire Global Inc - class A,SPIR.US,New York,SPIR
+2996,Santander Bank Polska SA,SPL.PL,Warszawa,SPL.WA
+2997,Saipem SpA,SPM.IT,Milan,SPM.MI
+2998,Spotify Technology SA,SPOT.US,New York,SPOT
+2999,Spyrosoft SA,SPR.PL,Warszawa,SPR.WA
+3000,Spirit AeroSystems Holdings Inc - class A,SPR.US,New York,SPR
+3001,Spruce Power Holding Corp,SPRU.US,New York,SPRU
+3002,Swiss Prime Site AG,SPSN.CH,Zurich,SPSN.SW
+3003,Sprout Social Inc - class A,SPT.US,New York,SPT
+3004,SpartanNash Co,SPTN.US,New York,SPTN
+3005,SunPower Corp,SPWR.US,New York,SPWR
+3006,Spirax-Sarco Engineering PLC,SPX.UK,London,SPX.L
+3007,Square Inc - class A,SQ.US,New York,SQ
+3008,Sociedad Quimica y Minera de Chile S.A. - ADR,SQM.US,New York,SQM
+3009,Swissquote Group Holding SA,SQN.CH,Zurich,SQN.SW
+3010,Stable Road Acquisition Corp - class A,SRAC.US,New York,SRAC
+3011,Spirit Realty Capital Inc,SRC.US,New York,SRC
+3012,Stericycle Inc,SRCL.US,New York,SRCL
+3013,Sempra Energy,SRE.US,New York,SRE
+3014,Swiss Re AG,SREN.CH,Zurich,SREN.SW
+3015,Snam SpA,SRG.IT,Milan,SRG.MI
+3016,Seritage Growth Properties - class A,SRG.US,New York,SRG
+3017,Sorrento Therapeutics Inc,SRNE.US,New York,SRNE
+3018,Serco Group PLC,SRP.UK,London,SRP.L
+3019,Sarepta Therapeutics Inc,SRPT.US,New York,SRPT
+3020,Scholar Rock Holding Corp,SRRK.US,New York,SRRK
+3021,Sartorius AG,SRT.DE,Frankfurt,SRT.DE
+3022,SSAB AB - class A,SSABA.SE,Stockholm,SSABA.ST
+3023,Simpson Manufacturing Co Inc,SSD.US,New York,SSD
+3024,SSE PLC,SSE.UK,London,SSE.L
+3025,Sasol Ltd - ADR,SSL.US,New York,SSL
+3026,SS&C Technologies Holdings Inc,SSNC.US,New York,SSNC
+3027,Scatec Solar ASA,SSO.NO,Oslo,SSO.OL
+3028,SSP Group Plc,SSPG.UK,London,SSPG.L
+3029,SSR Mining Inc,SSRM.US,New York,SSRM
+3030,Shutterstock Inc,SSTK.US,New York,SSTK
+3031,Stratasys Ltd,SSYS.US,New York,SSYS
+3032,Steico SE,ST5.DE,Frankfurt,ST5.DE
+3033,Starward Industries SA,STA.PL,Warszawa,STA.WA
+3034,STAAR Surgical Co,STAA.US,New York,STAA
+3035,STAG Industrial Inc,STAG.US,New York,STAG
+3036,Standard Chartered PLC,STAN.UK,London,STAN.L
+3037,Storebrand ASA,STB.NO,Oslo,STB.OL
+3038,STERIS plc,STE.US,New York,STE
+3039,Stem Inc,STEM.US,New York,STEM
+3040,Stora Enso OYJ,STERV.FI,Helsinki,STERV.HE
+3041,Stalprofil SA,STF.PL,Warszawa,STF.WA
+3042,STS Holding SA,STH.PL,Warszawa,STH.WA
+3043,Star Holdings,STHO.US,New York,STHO
+3044,St James's Place PLC,STJ.UK,London,STJ.L
+3045,Statoil ASA,STL.NO,Oslo,STL.OL
+3046,Stellantis NV,STLA.IT,Milan,STLA.MI
+3047,Stellantis NV,STLAM.IT,Milan,STLAM.MI
+3048,Steel Dynamics Inc,STLD.US,New York,STLD
+3049,STMicroelectronics NV,STM.FR,Paris,STM.PA
+3050,STMicroelectronics NV,STM.IT,Milan,STM.MI
+3051,STMicroelectronics NV - ADR,STM.US,New York,STM
+3052,Straumann Holding AG,STMN.CH,Zurich,STMN.SW
+3053,StoneCo Ltd - class A,STNE.US,New York,STNE
+3054,Scorpio Tankers Inc,STNG.US,New York,STNG
+3055,Stoke Therapeutics Inc,STOK.US,New York,STOK
+3056,STORE Capital Corp,STOR.US,New York,STOR
+3057,Storskogen Group AB (publ),STORB.SE,Stockholm,STORB.ST
+3058,Stalprodukt SA,STP.PL,Warszawa,STP.WA
+3059,Sitio Royalties Corp - class A,STR1.US,New York,STR1
+3060,Sterling Infrastructure Inc,STRL.US,New York,STRL
+3061,Sutro Biopharma Inc,STRO.US,New York,STRO
+3062,Satis Group SA,STS.PL,Warszawa,STS.WA
+3063,State Street Corp,STT.US,New York,STT
+3064,Starwood Property Trust Inc,STWD.US,New York,STWD
+3065,Stalexport Autostrady SA,STX.PL,Warszawa,STX.WA
+3066,Seagate Technology PLC,STX.US,New York,STX
+3067,Constellation Brands Inc - class A,STZ.US,New York,STZ
+3068,Schneider Electric SE,SU.FR,Paris,SU.PA
+3069,Suncor Energy Inc,SU.US,New York,SU
+3070,Subsea 7 SA,SUBC.NO,Oslo,SUBC.OL
+3071,Sun Communities Inc,SUI.US,New York,SUI
+3072,Suntech SA,SUN.PL,Warszawa,SUN.WA
+3073,Sunworks Inc,SUNW.US,New York,SUNW
+3074,Superior Industries International Inc,SUP.US,New York,SUP
+3075,Service Properties Trust,SVC.US,New York,SVC
+3076,Synthaverse SA,SVE.PL,Warszawa,SVE.WA
+3077,Silvercorp Metals Inc,SVM.US,New York,SVM
+3078,Savills PLC,SVS.UK,London,SVS.L
+3079,Severstal PJSC - GDR,SVST.UK,London,SVST.L
+3080,Severn Trent PLC,SVT.UK,London,SVT.L
+3081,Sodexo SA,SW.FR,Paris,SW.PA
+3082,Smith & Wesson Brands Inc,SWBI.US,New York,SWBI
+3083,Swissmed Centrum Zdrowia SA,SWD.PL,Warszawa,SWD.WA
+3084,Swedbank AB,SWEDA.SE,Stockholm,SWEDA.ST
+3085,Seco/Warwick SA,SWG.PL,Warszawa,SWG.WA
+3086,SolarWinds Corp,SWI.US,New York,SWI
+3087,Sierra Wireless Inc,SWIR.US,New York,SWIR
+3088,Stanley Black & Decker Inc,SWK.US,New York,SWK
+3089,Skyworks Solutions Inc,SWKS.US,New York,SWKS
+3090,Software Mansion SA,SWM.PL,Warszawa,SWM.WA
+3091,Swedish Match AB,SWMA.SE,Stockholm,SWMA.ST
+3092,Softwareone Holding AG,SWON.CH,Zurich,SWON.SW
+3093,SpringWorks Therapeutics Inc,SWTX.US,New York,SWTX
+3094,Spectris PLC,SXS.UK,London,SXS.L
+3095,Symrise AG,SY1.DE,Frankfurt,SY1.DE
+3096,Synlab AG,SYAB.DE,Frankfurt,SYAB.DE
+3097,Sydbank A/S,SYDB.DK,Copenhagen,SYDB.CO
+3098,Synchrony Financial,SYF.US,New York,SYF
+3099,Stryker Corp,SYK.US,New York,SYK
+3100,Symbotic Inc - class A,SYM.US,New York,SYM
+3101,Synaptics Inc,SYNA.US,New York,SYNA
+3102,Sysco Corp,SYY.US,New York,SYY
+3103,Salzgitter AG,SZG.DE,Frankfurt,SZG.DE
+3104,Suedzucker AG,SZU.DE,Frankfurt,SZU.DE
+3105,AT&T Inc,T.US,New York,T
+3106,Philip Morris CR AS,TABAK.CZ,Prague,TABAK.PR
+3107,TAL Education Group - ADR,TAL.US,New York,TAL
+3108,Molson Coors Brewing Co - class B,TAP.US,New York,TAP
+3109,Tarczynski SA,TAR.PL,Warszawa,TAR.WA
+3110,Taskus Inc - class A,TASK.US,New York,TASK
+3111,Tate & Lyle PLC,TATE.UK,London,TATE.L
+3112,TBC Bank Group PLC,TBCG.UK,London,TBCG.L
+3113,T-BULL S.A.,TBL.PL,Warszawa,TBL.WA
+3114,Technicolor SA,TCH.FR,Paris,TCH.PA
+3115,Tactile Systems Technology Inc,TCMD.US,New York,TCMD
+3116,Trip.com Group Ltd - ADR,TCOM.US,New York,TCOM
+3117,BlackRock TCP Capital Corp,TCPC.US,New York,TCPC
+3118,TCS Group Holding PLC - GDP,TCS.UK,London,TCS.L
+3119,Toronto-Dominion Bank,TD.US,New York,TD
+3120,Teradata Corp,TDC.US,New York,TDC
+3121,TransDigm Group Inc,TDG.US,New York,TDG
+3122,Teladoc Inc,TDOC.US,New York,TDOC
+3123,Telephone & Data Systems Inc,TDS.US,New York,TDS
+3124,ThredUp Inc - class A,TDUP.US,New York,TDUP
+3125,Tobii Dynavox AB,TDVOX.SE,Stockholm,TDVOX.ST
+3126,Tidewater Inc,TDW.US,New York,TDW
+3127,Teledyne Technologies Inc,TDY.US,New York,TDY
+3128,Atlassian Corp PLC - class A,TEAM.US,New York,TEAM
+3129,Bio-Techne Corp,TECH.US,New York,TECH
+3130,Teck Resources Ltd - class B,TECK.US,New York,TECK
+3131,Telefonica SA,TEF1.ES,Madrid,TEF1.MC
+3132,Telefonica SA - ADR,TEF.US,New York,TEF
+3133,TAG Immobilien AG,TEG.DE,Frankfurt,TEG.DE
+3134,Tele2 AB,TEL2B.SE,Stockholm,TEL2B.ST
+3135,Telenor ASA,TEL.NO,Oslo,TEL.OL
+3136,TE Connectivity Ltd,TEL.US,New York,TEL
+3137,Telia Co AB,TELIA1.FI,Helsinki,TELIA1.HE
+3138,Telia Co AB,TELIA.SE,Stockholm,TELIA.ST
+3139,Temenos AG,TEMN.CH,Zurich,TEMN.SW
+3140,Tenaris SA,TEN.IT,Milan,TEN.MI
+3141,TEN Square Games SA,TEN.PL,Warszawa,TEN.WA
+3142,Teleperformance,TEP.FR,Paris,TEP.PA
+3143,Teradyne Inc,TER.US,New York,TER
+3144,Teva Pharmaceutical ADR - ADR,TEVA.US,New York,TEVA
+3145,Terex Corp,TEX.US,New York,TEX
+3146,TF Bank AB,TFBANK.SE,Stockholm,TFBANK.ST
+3147,Truist Financial Corp,TFC.US,New York,TFC
+3148,Television Francaise 1,TFI.FR,Paris,TFI.PA
+3149,TFI International Inc,TFII.US,New York,TFII
+3150,Teleflex Inc,TFX.US,New York,TFX
+3151,Triumph Group Inc,TGI.US,New York,TGI
+3152,Tecnoglass Inc,TGLS.US,New York,TGLS
+3153,TEGNA Inc,TGNA.US,New York,TGNA
+3154,TGS NOPEC Geophysical Co ASA,TGS.NO,Oslo,TGS.OL
+3155,Transportadora de Gas del Sur - ADR,TGS.US,New York,TGS
+3156,Target Corp,TGT.US,New York,TGT
+3157,TG Therapeutics Inc,TGTX.US,New York,TGTX
+3158,Technogym SpA,TGYM.IT,Milan,TGYM.MI
+3159,Tenet Healthcare Corp,THC.US,New York,THC
+3160,Tuscan Holdings Corp,THCB.US,New York,THCB
+3161,Dust SA,THD.PL,Warszawa,THD.WA
+3162,Tenderhut SA,THG.PL,Warszawa,THG.WA
+3163,Hanover Insurance Group Inc,THG.US,New York,THG
+3164,Thor Industries Inc,THO.US,New York,THO
+3165,Target Healthcare REIT PLC,THRL.UK,London,THRL.L
+3166,TreeHouse Foods Inc,THS.US,New York,THS
+3167,Thule Group AB,THULE.SE,Stockholm,THULE.ST
+3168,Tieto OYJ,TIE1V.FI,Helsinki,TIE1V.HE
+3169,UP Fintech Holding Ltd - class A,TIGR.US,New York,TIGR
+3170,Tim SA,TIM.PL,Warszawa,TIM.WA
+3171,Tamburi Investment Partners SpA,TIP.IT,Milan,TIP.MI
+3172,Tiscali SpA,TIS.IT,Milan,TIS.MI
+3173,Telecom Italia SpA,TIT.IT,Milan,TIT.MI
+3174,Telecom Italia SpA/Milano - savings share,TITR.IT,Milan,TITR.MI
+3175,TJX Cos Inc,TJX.US,New York,TJX
+3176,Teekay Corp,TK.US,New York,TK
+3177,thyssenkrupp AG,TKA.DE,Frankfurt,TKA.DE
+3178,TKO Group Holdings Inc - class A,TKO.US,New York,TKO
+3179,Timken Co,TKR.US,New York,TKR
+3180,Tarkett SA,TKTT.FR,Paris,TKTT.PA
+3181,Takeaway.com NV,TKWY.NL,Amsterdam,TKWY.AS
+3182,Przedsiebiorstwo Telekomunikacyjne Telgam SA,TLG.PL,Warszawa,TLG.WA
+3183,Talgo SA,TLGO.ES,Madrid,TLGO.MC
+3184,Telekomunikasi Indonesia Persero Tbk PT - ADR,TLK.US,New York,TLK
+3185,Tilray Inc,TLRY.US,New York,TLRY
+3186,Telos Corp,TLS.US,New York,TLS
+3187,Tullow Oil PLC,TLW.UK,London,TLW.L
+3188,Talanx AG,TLX.DE,Frankfurt,TLX.DE
+3189,Talex SA,TLX.PL,Warszawa,TLX.WA
+3190,Tillys Inc - class A,TLYS.US,New York,TLYS
+3191,Toyota Motor Corp - ADR,TM.US,New York,TM
+3192,Transmedics Group Inc,TMDX.US,New York,TMDX
+3193,Tencent Music Entertainment Group - ADR,TME.US,New York,TME
+3194,Thermo Fisher Scientific Inc,TMO.US,New York,TMO
+3195,T-Mobile US Inc,TMUS.US,New York,TMUS
+3196,TeamViewer AG,TMV.DE,Frankfurt,TMV.DE
+3197,Tandem Diabetes Care Inc,TNDM.US,New York,TNDM
+3198,Telenet Group Holding NV,TNET.BE,Brussels,TNET.BR
+3199,Transgene SA,TNG.FR,Paris,TNG.PA
+3200,Teekay Tankers Ltd - class A,TNK.US,New York,TNK
+3201,Travel + Leisure Co,TNL.US,New York,TNL
+3202,T&T Proenergy SA,TNT.PL,Warszawa,TNT.WA
+3203,Tonix Pharmaceuticals Holding Corp,TNXP.US,New York,TNXP
+3204,Toya SA,TOA.PL,Warszawa,TOA.WA
+3205,Toll Brothers Inc,TOL.US,New York,TOL
+3206,TomTom NV,TOM2.NL,Amsterdam,TOM2.AS
+3207,Tomra Systems ASA,TOM.NO,Oslo,TOM.OL
+3208,Torpol SA,TOR.PL,Warszawa,TOR.WA
+3209,Toast Inc - class A,TOST.US,New York,TOST
+3210,Total SE - ADR,TOT.US,New York,TOT
+3211,Tower Investments SA,TOW.PL,Warszawa,TOW.WA
+3212,Tauron Polska Energia SA,TPE.PL,Warszawa,TPE.WA
+3213,TPG Inc - class A,TPG.US,New York,TPG
+3214,Tri Pointe Homes Inc (Delaware),TPH.US,New York,TPH
+3215,Travis Perkins PLC,TPK.UK,London,TPK.L
+3216,Texas Pacific Land Trust,TPL.US,New York,TPL
+3217,Tapestry Inc,TPR.US,New York,TPR
+3218,Tempest Therapeutics Inc,TPST.US,New York,TPST
+3219,Tempur Sealy International Inc,TPX.US,New York,TPX
+3220,Torchlight Energy Resources Inc,TRCH.US,New York,TRCH
+3221,Tecnicas Reunidas SA,TRE.ES,Madrid,TRE.MC
+3222,LendingTree Inc,TREE.US,New York,TREE
+3223,Trex Co Inc,TREX.US,New York,TREX
+3224,Tubos Reunidos SA,TRG.ES,Madrid,TRG.MC
+3225,Targa Resources Corp,TRGP.US,New York,TRGP
+3226,Trigano SA,TRI.FR,Paris,TRI.PA
+3227,Thomson Reuters Corp,TRI.US,New York,TRI
+3228,TripAdvisor Inc,TRIP.US,New York,TRIP
+3229,Trakcja SA,TRK.PL,Warszawa,TRK.WA
+3230,Trimble Inc,TRMB.US,New York,TRMB
+3231,Torm PLC - class A,TRMDA.DK,Copenhagen,TRMDA.CO
+3232,Terna Rete Elettrica Nazionale,TRN.IT,Milan,TRN.MI
+3233,Trans Polonia SA,TRN.PL,Warszawa,TRN.WA
+3234,Trinity Industries Inc,TRN.US,New York,TRN
+3235,Terreno Realty Corp,TRNO.US,New York,TRNO
+3236,T Rowe Price Group Inc,TROW.US,New York,TROW
+3237,Tronox Holdings PLC,TROX.US,New York,TROX
+3238,TrustCo Bank Corp NY,TRST.US,New York,TRST
+3239,TransUnion,TRU.US,New York,TRU
+3240,Truecaller AB,TRUEB.SE,Stockholm,TRUEB.ST
+3241,Travelers Cos Inc,TRV.US,New York,TRV
+3242,Trivago NV - ADR,TRVG.US,New York,TRVG
+3243,Trevena Inc,TRVN.US,New York,TRVN
+3244,Tryg A/S,TRYG.DK,Copenhagen,TRYG.CO
+3245,Tenaris SA - ADR,TS.US,New York,TS
+3246,Tesco PLC,TSCO.UK,London,TSCO.L
+3247,Tractor Supply Co,TSCO.US,New York,TSCO
+3248,Trinseo SA,TSE.US,New York,TSE
+3249,Tesgas SA,TSG.PL,Warszawa,TSG.WA
+3250,Tessellis SpA,TSL.IT,Milan,TSL.MI
+3251,Tesla Inc,TSLA.DE,Frankfurt,TSLA.DE
+3252,Tesla Inc,TSLA.IT,Milan,TSLA.MI
+3253,Tesla Inc,TSLA.US,New York,TSLA
+3254,Taiwan Semiconductor Manufacuring Company Ltd - ADR,TSM.US,New York,TSM
+3255,Tyson Foods Inc - class A,TSN.US,New York,TSN
+3256,TuSimple Holdings Inc - class A,TSP.US,New York,TSP
+3257,Trane Technologies PLC,TT.US,New York,TT
+3258,Toro Co,TTC.US,New York,TTC
+3259,Tattooed Chef Inc - class A,TTCF.US,New York,TTCF
+3260,Trade Desk Inc - class A,TTD.US,New York,TTD
+3261,TotalEnergies SE,TTE.FR,Paris,TTE.PA
+3262,TotalEnergies SE - ADR,TTE.US,New York,TTE
+3263,Tetra Tech Inc,TTEK.US,New York,TTEK
+3264,Take-Two Interactive Software Inc,TTWO.US,New York,TTWO
+3265,Telus Corp,TU.US,New York,TU
+3266,Tubacex SA,TUB.ES,Madrid,TUB.MC
+3267,TUI AG,TUI.DE,Frankfurt,TUI.DE
+3268,TUI AG,TUI.UK,London,TUI.L
+3269,Tupperware Brands Corp,TUP.US,New York,TUP
+3270,Grupo Televisa SA - ADR,TV.US,New York,TV
+3271,Tradeweb Markets Inc - class A,TW.US,New York,TW
+3272,Twilio Inc - class A,TWLO.US,New York,TWLO
+3273,Two Harbors Investment Corp,TWO.US,New York,TWO
+3274,2U Inc,TWOU.US,New York,TWOU
+3275,Twist Bioscience Corp,TWST.US,New York,TWST
+3276,Ternium SA - ADR,TX.US,New York,TX
+3277,10X Genomics Inc,TXG.US,New York,TXG
+3278,Texas Instruments Inc,TXN.US,New York,TXN
+3279,Texas Roadhouse Inc,TXRH.US,New York,TXRH
+3280,Text SA,TXT.PL,Warszawa,TXT.WA
+3281,Textron Inc,TXT.US,New York,TXT
+3282,Tyler Technologies Inc,TYL.US,New York,TYL
+3283,Nokian Renkaat OYJ,TYRES.FI,Helsinki,TYRES.HE
+3284,Unity Software Inc,U.US,New York,U
+3285,Under Armour Inc Class C,UA.US,New York,UA
+3286,Under Armour Inc - class A,UAA.US,New York,UAA
+3287,United Continental Holdings Inc,UAL.US,New York,UAL
+3288,Uber Technologies Inc,UBER.US,New York,UBER
+3289,Ubisoft Entertainment SA,UBI.FR,Paris,UBI.PA
+3290,Urbas Grupo Financiero SA,UBS.ES,Madrid,UBS.MC
+3291,UBS Group AG,UBSG.CH,Zurich,UBSG.SW
+3292,UNITY Biotechnology Inc,UBX.US,New York,UBX
+3293,U Blox Holding AG,UBXN.CH,Zurich,UBXN.SW
+3294,UCB SA,UCB.BE,Brussels,UCB.BR
+3295,UniCredit SpA,UCG.IT,Milan,UCG.MI
+3296,CLOSE ONLY / UniCredit SpA,UCG.PL,Warszawa,UCG.WA
+3297,Udemy Inc,UDMY.US,New York,UDMY
+3298,UDR Inc,UDR.US,New York,UDR
+3299,Uranium Energy Corp,UEC.US,New York,UEC
+3300,Uf Games SA,UFG.PL,Warszawa,UFG.WA
+3301,Ufp Industries Inc,UFPI.US,New York,UFPI
+3302,UGI Corp,UGI.US,New York,UGI
+3303,Swatch Group AG,UHR.CH,Zurich,UHR.SW
+3304,Universal Health Services Inc,UHS.US,New York,UHS
+3305,Ubiquiti Inc,UI.US,New York,UI
+3306,Greencoat UK Wind PLC,UKW.UK,London,UKW.L
+3307,Unilever PLC - ADR,UL.US,New York,UL
+3308,Ultimate Games SA,ULG.PL,Warszawa,ULG.WA
+3309,Ulma Construccion Polska SA,ULM.PL,Warszawa,ULM.WA
+3310,Ulta Beauty Inc,ULTA.US,New York,ULTA
+3311,Unilever PLC,ULVR.UK,London,ULVR.L
+3312,United Microelectronics Corp - ADR,UMC.US,New York,UMC
+3313,Umicore SA,UMI.BE,Brussels,UMI.BR
+3314,Umpqua Holdings Corp,UMPQ.US,New York,UMPQ
+3315,Uniper SE,UN01.DE,Frankfurt,UN01.DE
+3316,Uniper SE,UN0.DE,Frankfurt,UN0.DE
+3317,Unilever NV,UNA.NL,Amsterdam,UNA.AS
+3318,United Natural Foods Inc,UNFI.US,New York,UNFI
+3319,UnitedHealth Group Inc,UNH.US,New York,UNH
+3320,Unicaja Banco SA,UNI.ES,Madrid,UNI.MC
+3321,Unipol Gruppo SpA,UNI.IT,Milan,UNI.MI
+3322,Unibep SA,UNI.PL,Warszawa,UNI.WA
+3323,Uniti Group Inc,UNIT.US,New York,UNIT
+3324,Unum Group,UNM.US,New York,UNM
+3325,Union Pacific Corp,UNP.US,New York,UNP
+3326,Unimot SA,UNT.PL,Warszawa,UNT.WA
+3327,Upbound Group Inc,UPBD.US,New York,UPBD
+3328,UPM-Kymmene OYJ,UPM.FI,Helsinki,UPM.HE
+3329,United Percel Service Inc - class B,UPS.US,New York,UPS
+3330,Upstart Holdings Inc,UPST.US,New York,UPST
+3331,Upwork Inc,UPWK.US,New York,UPWK
+3332,Urban Outfitters Inc,URBN.US,New York,URBN
+3333,United Rentals Inc,URI.US,New York,URI
+3334,Ursus SA,URS.PL,Warszawa,URS.WA
+3335,Urteste SA,URT.PL,Warszawa,URT.WA
+3336,Unibail-Rodamco-Westfield SE,URW.FR,Paris,URW.PA
+3337,Unibail-Rodamco SE & WFD Unibail-Rodamco NV,URW.NL,Amsterdam,URW.AS
+3338,US Bancorp,USB.US,New York,USB
+3339,US Foods Holding Corp,USFD.US,New York,USFD
+3340,USANA Health Sciences Inc,USNA.US,New York,USNA
+3341,United Internet AG,UTDI.DE,Frankfurt,UTDI.DE
+3342,UNITE Group PLC,UTG.UK,London,UTG.L
+3343,United Therapeutics Corp,UTHR.US,New York,UTHR
+3344,United Utilities Group PLC,UU.UK,London,UU.L
+3345,Energy Fuels Inc/Canada,UUUU.US,New York,UUUU
+3346,Universal Corp,UVV.US,New York,UVV
+3347,UWM Holdings Corp - class A,UWMC.US,New York,UWMC
+3348,Uxin Ltd - ADR,UXIN.US,New York,UXIN
+3349,Visa INC - class A,V.US,New York,V
+3350,Marriott Vacations Worldwide Corp,VAC.US,New York,VAC
+3351,Valaris Ltd,VAL1.US,New York,VAL1
+3352,Valaris plc - class A,VAL.US,New York,VAL
+3353,Vale SA - class B / ADR,VALE.US,New York,VALE
+3354,Valmet OYJ,VALMT.FI,Helsinki,VALMT.HE
+3355,Vanquis Banking Group PLC,VANQ.UK,London,VANQ.L
+3356,Vantiva SA,VANTI.FR,Paris,VANTI.PA
+3357,Varta AG,VAR1.DE,Frankfurt,VAR1.DE
+3358,Var Energi ASA,VAR.NO,Oslo,VAR.OL
+3359,VBI Vaccines Inc,VBIV.US,New York,VBIV
+3360,Verbio Vereinigte Bioenergie AG,VBK.DE,Frankfurt,VBK.DE
+3361,Visteon Corp,VC.US,New York,VC
+3362,Vicat SA,VCT.FR,Paris,VCT.PA
+3363,Victrex PLC,VCT.UK,London,VCT.L
+3364,Vanguard Developed Markets Index Fund (Dist USD) CFD,VEA.US,New York,VEA
+3365,Vee SA,VEE.PL,Warszawa,VEE.WA
+3366,Veeva Systems Inc - class A,VEEV.US,New York,VEEV
+3367,Vera Therapeutics Inc - class A,VERA.US,New York,VERA
+3368,Veritone Inc,VERI.US,New York,VERI
+3369,Verve Therapeutics Inc,VERV.US,New York,VERV
+3370,Vermilion Energy Inc,VET.US,New York,VET
+3371,VF Corp,VFC.US,New York,VFC
+3372,Village Farms International Inc,VFF.US,New York,VFF
+3373,VinFast Auto Ltd,VFS.US,New York,VFS
+3374,VG Acquisition Corp - class A,VGAC.US,New York,VGAC
+3375,Vigo System SA,VGO.PL,Warszawa,VGO.WA
+3376,ViacomCBS Inc - class B,VIAC.US,New York,VIAC
+3377,VICI Properties Inc,VICI.US,New York,VICI
+3378,Vicor Corp,VICR.US,New York,VICR
+3379,Vidrala SA,VID.ES,Madrid,VID.MC
+3380,Veolia Environnement SA,VIE.FR,Paris,VIE.PA
+3381,Vienna Insurance Group AG Wiener Versicherung Gruppe,VIG.CZ,Prague,VIG.PR
+3382,GPM Vindexus SA,VIN.PL,Warszawa,VIN.WA
+3383,Viomi Technology Co Ltd - ADR,VIOT.US,New York,VIOT
+3384,Vipshop Holdings Ltd - ADR,VIPS.US,New York,VIPS
+3385,Vir Biotechnology Inc,VIR.US,New York,VIR
+3386,Viridien SA,VIRI.FR,Paris,VIRI.PA
+3387,Virbac SA,VIRP.FR,Paris,VIRP.PA
+3388,Virtu Financial Inc - class A,VIRT.US,New York,VIRT
+3389,Viscofan SA,VIS.ES,Madrid,VIS.MC
+3390,Vitec Software Group AB (publ) - class B,VITB.SE,Stockholm,VITB.ST
+3391,Vital Farms Inc,VITL.US,New York,VITL
+3392,Vivendi SA,VIV.FR,Paris,VIV.PA
+3393,Telefonica Brasil - ADR,VIV.US,New York,VIV
+3394,Viveve Medical Inc,VIVE.US,New York,VIVE
+3395,Vallourec SA,VK.FR,Paris,VK.PA
+3396,Viking Therapeutics Inc,VKTX.US,New York,VKTX
+3397,Valneva SE,VLA.FR,Paris,VLA.PA
+3398,Valero Energy Corp,VLO.US,New York,VLO
+3399,Voolt SA,VLT.PL,Warszawa,VLT.WA
+3400,Vulcan Materials Co,VMC.US,New York,VMC
+3401,Vimeo Inc,VMEO.US,New York,VMEO
+3402,VMware Inc - class A,VMW.US,New York,VMW
+3403,Vonovia SE,VNA.DE,Frankfurt,VNA.DE
+3404,Vornado Realty Trust,VNO.US,New York,VNO
+3405,Venator Materials PLC,VNTR.US,New York,VNTR
+3406,Vodafone Group PLC,VOD.UK,London,VOD.L
+3407,Vodafone Group PLC - ADR,VOD.US,New York,VOD
+3408,Volvo Car AB - class B,VOLCARB.SE,Stockholm,VOLCARB.ST
+3409,Volati AB,VOLO.SE,Stockholm,VOLO.ST
+3410,Volvo AB,VOLVB.SE,Stockholm,VOLVB.ST
+3411,Vor Biopharma Inc,VOR.US,New York,VOR
+3412,Votum SA,VOT.PL,Warszawa,VOT.WA
+3413,Volkswagen AG- common shares,VOW1.DE,Frankfurt,VOW1.DE
+3414,Volkswagen AG - preference shares,VOW3.DE,Frankfurt,VOW3.DE
+3415,Voxel SA,VOX.PL,Warszawa,VOX.WA
+3416,Voya Financial Inc,VOYA.US,New York,VOYA
+3417,Vishay Precision Group Inc,VPG.US,New York,VPG
+3418,Koninklijke Vopak NV,VPK.NL,Amsterdam,VPK.AS
+3419,Viaplay Group AB (publ) - class B,VPLAYB.SE,Stockholm,VPLAYB.ST
+3420,Vercom SA,VRC.PL,Warszawa,VRC.WA
+3421,Veris Residential Inc,VRE.US,New York,VRE
+3422,VR Factory Games SA,VRF.PL,Warszawa,VRF.WA
+3423,VRG SA,VRG.PL,Warszawa,VRG.WA
+3424,Verallia SA,VRLA.FR,Paris,VRLA.PA
+3425,Vroom Inc,VRM.US,New York,VRM
+3426,Varonis Systems Inc,VRNS.US,New York,VRNS
+3427,Verisk Analytics Inc - class A,VRSK.US,New York,VRSK
+3428,VeriSign Inc,VRSN.US,New York,VRSN
+3429,Vertiv Holdings Co - class A,VRT.US,New York,VRT
+3430,Vertex Pharmaceuticals Inc,VRTX.US,New York,VRTX
+3431,ViaSat Inc,VSAT.US,New York,VSAT
+3432,Victoria's Secret & Co,VSCO.US,New York,VSCO
+3433,Vishay Intertechnology Inc,VSH.US,New York,VSH
+3434,Vistra Energy Corp,VST.US,New York,VST
+3435,Vista Outdoor Inc,VSTO.US,New York,VSTO
+3436,Vestis Corp,VSTS.US,New York,VSTS
+3437,VTB Bank PJSC - GDR,VTBR.UK,London,VTBR.L
+3438,Vistal Gdynia SA,VTL.PL,Warszawa,VTL.WA
+3439,Vital Energy Inc,VTLE.US,New York,VTLE
+3440,Ventas Inc,VTR.US,New York,VTR
+3441,Viatris Inc,VTRS.US,New York,VTRS
+3442,Vitesse Energy Inc,VTS.US,New York,VTS
+3443,Vistry Group PLC,VTY.UK,London,VTY.L
+3444,Ventyx Biosciences Inc,VTYX.US,New York,VTYX
+3445,Vuzix Corp,VUZI.US,New York,VUZI
+3446,Vivid Games SA,VVD.PL,Warszawa,VVD.WA
+3447,Varsav VR SA,VVR.PL,Warszawa,VVR.WA
+3448,Vestas Wind Systems A/S,VWS.DK,Copenhagen,VWS.CO
+3449,Vertex Pharmaceuticals Inc,VX1.DE,Frankfurt,VX1.DE
+3450,Vaxart Inc,VXRT.US,New York,VXRT
+3451,NCR Voyix Corp,VYX.US,New York,VYX
+3452,Verizon Communications Inc,VZ.US,New York,VZ
+3453,Vizio Holding Corp - class A,VZIO.US,New York,VZIO
+3454,Wayfair Inc - class A,W.US,New York,W
+3455,Wabtec Corp,WAB.US,New York,WAB
+3456,Siltronic AG,WAF.DE,Frankfurt,WAF.DE
+3457,Western Alliance Bancorp,WAL.US,New York,WAL
+3458,Wat SA,WAT.PL,Warszawa,WAT.WA
+3459,Waters Corp,WAT.US,New York,WAT
+3460,Weibo Corp. - ADR,WB.US,New York,WB
+3461,Walgreens Boots Alliance Inc,WBA.US,New York,WBA
+3462,Webuild SpA,WBD.IT,Milan,WBD.MI
+3463,Warner Bros Discovery Inc,WBD.US,New York,WBD
+3464,Wesco International Inc,WCC.US,New York,WCC
+3465,Wacker Chemie AG,WCH.DE,Frankfurt,WCH.DE
+3466,Waste Connections Inc,WCN.US,New York,WCN
+3467,Walker & Dunlop Inc,WD.US,New York,WD
+3468,Workday Inc - class A,WDAY.US,New York,WDAY
+3469,Western Digital Corp,WDC.US,New York,WDC
+3470,WD-40 Co,WDFC.US,New York,WDFC
+3471,William Demant Holding A/S,WDH.DK,Copenhagen,WDH.CO
+3472,Wirecard AG,WDI.DE,Frankfurt,WDI.DE
+3473,Warehouses De Pauw CVA,WDP.BE,Brussels,WDP.BR
+3474,WEC Energy Group Inc,WEC.US,New York,WEC
+3475,Weir Group PLC,WEIR.UK,London,WEIR.L
+3476,Welltower Inc,WELL.US,New York,WELL
+3477,Wendy's Co,WEN.US,New York,WEN
+3478,Werner Enterprises Inc,WERN.US,New York,WERN
+3479,WisdomTree Investments Inc,WETF.US,New York,WETF
+3480,WEX Inc,WEX.US,New York,WEX
+3481,Wells Fargo & Co,WFC.US,New York,WFC
+3482,West Fraser Timber Co Ltd,WFG.US,New York,WFG
+3483,Winnebago Industries Inc,WGO.US,New York,WGO
+3484,Warehouse REIT PLC,WHR.UK,London,WHR.L
+3485,Whirlpool Corp,WHR.US,New York,WHR
+3486,WiMi Hologram Cloud Inc - ADR,WIMI.US,New York,WIMI
+3487,Wingstop Inc,WING.US,New York,WING
+3488,Wise PLC - class A,WISE.UK,London,WISE.L
+3489,ContextLogic Inc - class A,WISH.US,New York,WISH
+3490,Wipro Ltd - ADR,WIT.US,New York,WIT
+3491,Wickes Group PLC,WIX.UK,London,WIX.L
+3492,Wix.com Ltd,WIX.US,New York,WIX
+3493,Wizz Air Holdings Plc,WIZZ.UK,London,WIZZ.L
+3494,World Kinect Corporation,WKC.US,New York,WKC
+3495,Workhorse Group Inc,WKHS.US,New York,WKHS
+3496,Wolters Kluwer NV,WKL.NL,Amsterdam,WKL.AS
+3497,Workspace Group PLC,WKP.UK,London,WKP.L
+3498,Westlake Chemical Corp,WLK.US,New York,WLK
+3499,Worldline SA/France,WLN.FR,Paris,WLN.PA
+3500,Wielton SA,WLT.PL,Warszawa,WLT.WA
+3501,Willis Towers Watson PLC,WLTW.US,New York,WLTW
+3502,Waste Management Inc,WM.US,New York,WM
+3503,Williams Cos Inc,WMB.US,New York,WMB
+3504,Warner Music Group Corp - class A,WMG.US,New York,WMG
+3505,Advanced Drainage Systems Inc,WMS.US,New York,WMS
+3506,Walmart Inc,WMT.US,New York,WMT
+3507,WNS (Holdings) Ltd - ADR,WNS.US,New York,WNS
+3508,Wojas SA,WOJ.PL,Warszawa,WOJ.WA
+3509,Wolfspeed Inc,WOLF.US,New York,WOLF
+3510,Petco Health and Wellness Company Inc - class A,WOOF.US,New York,WOOF
+3511,Watches of Switzerland Group PLC,WOSG.UK,London,WOSG.L
+3512,WP Carey Inc,WPC.US,New York,WPC
+3513,Foley Trasimene Acquisition Corp - class A,WPF.US,New York,WPF
+3514,Wirtualna Polska Holding SA,WPL.PL,Warszawa,WPL.WA
+3515,Wheaton Precious Metals Corp,WPM.US,New York,WPM
+3516,WPP PLC,WPP.UK,London,WPP.L
+3517,WoodpeckerCo SA,WPR.PL,Warszawa,WPR.WA
+3518,WAG Payment Solutions PLC,WPS.UK,London,WPS.L
+3519,Wrap Technologies Inc,WRAP.US,New York,WRAP
+3520,WR Berkley Corp,WRB.US,New York,WRB
+3521,WestRock Co,WRK.US,New York,WRK
+3522,Wierzyciel SA,WRL.PL,Warszawa,WRL.WA
+3523,Wartsila OYJ Abp,WRT1V.FI,Helsinki,WRT1V.HE
+3524,Worthington Steel Inc,WS.US,New York,WS
+3525,Work Service SA,WSE.PL,Warszawa,WSE.WA
+3526,Williams-Sonoma Inc,WSM.US,New York,WSM
+3527,Watsco Inc,WSO.US,New York,WSO
+3528,West Pharmaceutical Services Inc,WST.US,New York,WST
+3529,Vienna Insurance Group AG Wiener Versicherung Gruppe,WSV2.DE,Frankfurt,WSV2.DE
+3530,Wisdomtree Inc,WT.US,New York,WT
+3531,Whitbread PLC,WTB.UK,London,WTB.L
+3532,Wittchen SA,WTN.PL,Warszawa,WTN.WA
+3533,Essential Utilities Inc,WTR.US,New York,WTR
+3534,Essential Utilities Inc,WTRG.US,New York,WTRG
+3535,Waitr Holdings Inc,WTRH.US,New York,WTRH
+3536,Select Water Solutions Inc - class A,WTTR.US,New York,WTTR
+3537,Willis Towers Watson PLC,WTW.US,New York,WTW
+3538,Western Union Co,WU.US,New York,WU
+3539,Terawulf Inc,WULF.US,New York,WULF
+3540,WAVE Life Sciences Ltd,WVE.US,New York,WVE
+3541,Weight Watchers International Inc,WW.US,New York,WW
+3542,Woodward Inc,WWD.US,New York,WWD
+3543,Wawel SA,WWL.PL,Warszawa,WWL.WA
+3544,Westwater Resources Inc,WWR.US,New York,WWR
+3545,Warimpex Finanz und Beteiligungs AG,WXF.PL,Warszawa,WXF.WA
+3546,Weyerhaeuser Co,WY.US,New York,WY
+3547,Wyndham Destinations Inc,WYND.US,New York,WYND
+3548,Wynn Resorts Ltd,WYNN.US,New York,WYNN
+3549,United States Steel Corp,X.US,New York,X
+3550,Exantas Capital Corp - REIT,XAN.US,New York,XAN
+3551,XBS Pro Log SA,XBS.PL,Warszawa,XBS.WA
+3552,Mentzen SA.,XDD.PL,Warszawa,XDD.WA
+3553,Xcel Energy Inc,XEL.US,New York,XEL
+3554,Exela Technologies Inc,XELA.US,New York,XELA
+3555,X-Fab Silicon Foundries SE,XFAB.FR,Paris,XFAB.PA
+3556,XL Group Ltd,XL.US,New York,XL
+3557,Exxon Mobil Corp,XOM.US,New York,XOM
+3558,Xp Inc - class A,XP.US,New York,XP
+3559,Xpel Inc,XPEL.US,New York,XPEL
+3560,Xperi Holding Corp,XPER.US,New York,XPER
+3561,Xpeng Inc - ADR,XPEV.US,New York,XPEV
+3562,Xplus SA,XPL.PL,Warszawa,XPL.WA
+3563,XPO Logistics Inc,XPO.US,New York,XPO
+3564,DENTSPLY SIRONA Inc,XRAY.US,New York,XRAY
+3565,Xerox Corp,XRX.US,New York,XRX
+3566,XpresSpa Group Inc,XSPA.US,New York,XSPA
+3567,XTB SA,XTB.PL,Warszawa,XTB.WA
+3568,Xtpl SA,XTP.PL,Warszawa,XTP.WA
+3569,XWELL Inc,XWEL.US,New York,XWEL
+3570,Xylem Inc,XYL.US,New York,XYL
+3571,Ferretti SpA,YACHT.IT,Milan,YACHT.MI
+3572,Yalla Group Ltd - class A,YALA.US,New York,YALA
+3573,Yara International ASA,YAR.NO,Oslo,YAR.OL
+3574,cbdMD Inc,YCBD.US,New York,YCBD
+3575,Yelp Inc - class A,YELP.US,New York,YELP
+3576,Yext Inc,YEXT.US,New York,YEXT
+3577,111 Inc - ADR,YI.US,New York,YI
+3578,YIT OYJ,YIT.FI,Helsinki,YIT.HE
+3579,Yandex NV - class A,YNDX.US,New York,YNDX
+3580,Yolo SA,YOL.PL,Warszawa,YOL.WA
+3581,York Water Co,YORW.US,New York,YORW
+3582,Yoshi Innovation SA,YOS.PL,Warszawa,YOS.WA
+3583,YPF Sociedad Anonima - ADR,YPF.US,New York,YPF
+3584,17 Education & Technology Group Inc - ADR,YQ.US,New York,YQ
+3585,Yirendai Ltd - ADR,YRD.US,New York,YRD
+3586,Yarrl SA,YRL.PL,Warszawa,YRL.WA
+3587,Yatsen Holding Ltd - ADR,YSG.US,New York,YSG
+3588,Yum! Brands Inc,YUM.US,New York,YUM
+3589,Yum China Holdings Inc,YUMC.US,New York,YUMC
+3590,YY Inc. - ADR,YY.US,New York,YY
+3591,Zillow Group Inc - class C,Z.US,New York,Z
+3592,ZABKA GROUP,ZAB.PL,Warszawa,ZAB.WA
+3593,Zalando SE,ZAL.DE,Frankfurt,ZAL.DE
+3594,Grupa Azoty Zaklady Azotowe Pulawy SA,ZAP.PL,Warszawa,ZAP.WA
+3595,Zimmer Biomet Holdings Inc,ZBH.US,New York,ZBH
+3596,Zebra Technologies Corp,ZBRA.US,New York,ZBRA
+3597,Ziff Davis Inc,ZD.US,New York,ZD
+3598,Zeneris Projekty SA,ZEN.PL,Warszawa,ZEN.WA
+3599,Zespol Elektrowni Patnow Adamow Konin SA,ZEP.PL,Warszawa,ZEP.WA
+3600,Zillow Group Inc - class A,ZG.US,New York,ZG
+3601,ZoomInfo Technologies Inc - class A,ZI.US,New York,ZI
+3602,ZIGUP PLC,ZIG.UK,London,ZIG.L
+3603,ElringKlinger AG,ZIL2.DE,Frankfurt,ZIL2.DE
+3604,ZIM Integrated Shipping Services Ltd,ZIM.US,New York,ZIM
+3605,Zions Bancorporation,ZION.US,New York,ZION
+3606,Zoom Video Communications Inc - class A,ZM.US,New York,ZM
+3607,Zamet SA,ZMT.PL,Warszawa,ZMT.WA
+3608,Zapata Computing Holdings Inc,ZPTA.US,New York,ZPTA
+3609,Zaklad Budowy Maszyn Zremb Chojnice SA,ZRE.PL,Warszawa,ZRE.WA
+3610,Zortrax SA,ZRX.PL,Warszawa,ZRX.WA
+3611,Zscaler Inc,ZS.US,New York,ZS
+3612,ZTO Express Cayman Inc - ADR,ZTO.US,New York,ZTO
+3613,Zoetis Inc - class A,ZTS.US,New York,ZTS
+3614,ZUE SA,ZUE.PL,Warszawa,ZUE.WA
+3615,Zaklady Urzadzen Kotlowych Staporkow SA,ZUK.PL,Warszawa,ZUK.WA
+3616,Zuora Inc - class A,ZUO.US,New York,ZUO
+3617,Zurich Insurance Group AG,ZURN.CH,Zurich,ZURN.SW
+3618,Zignago Vetro SpA,ZV.IT,Milan,ZV.MI
+3619,Grupa Zywiec SA,ZWC.PL,Warszawa,ZWC.WA
+3620,Zynerba Pharmaceuticals Inc,ZYNE.US,New York,ZYNE
+3621,Zynex Inc,ZYXI.US,New York,ZYXI
