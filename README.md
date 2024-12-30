@@ -28,3 +28,8 @@ Es una herramienta ideal para aquellos que desean crear rápidamente aplicacione
     
 - Documentación: https://docs.streamlit.io/get-started
 
+## Este repositorio también requiere las siguientes librerías
+
+    ```bash
+    pip install pandas
+    ```
