@@ -19,10 +19,11 @@ st.json({"Nombre": "Pedro", "Edad": 51})
 codigo = """from math import pi"""
 st.code(codigo, language = "python")
 # Etiqueta de visualización de valores
-st.metric(label = "Velocidad del viento", value = "120m/s", delta = "1.4m/s")
+st.metric(label = "Velocidad del viento", 
+          value = "120m/s", delta = "1.4m/s")
 
 import pandas as pd
 # Visualización de un DataFrame
 tabla = pd.read_csv("Empresas.csv")
 tabla = tabla.drop("Unnamed: 0", axis=1)
-st.table(tabla)
+st.table(tabla.head(10))
