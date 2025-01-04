@@ -1,26 +1,29 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-# Titlest.title('Streamlit App With Layouts and Containers')
-# Using columns for input fields
+
+# Utiliza columnas para colocar los inputs
 # Title
-st.title('App Streamlit Con Layouts ni Containers')
+st.title('App Streamlit Con Layouts y Containers')
 col1, col2 = st.columns(2)
+
 with col1:
     user_input = st.text_input("Enter some text")
+
 with col2:
     number_input = st.number_input("Enter a number")
-# Button in its own container
-with st.container():
-    if st.button('Click Me'):
-        st.write('Button clicked!')
 
-# Plotting a simple line chart in an expander
-with st.expander("See Chart"):
-    data = pd.DataFrame(np.random.randn(20, 2),
-columns=['A', 'B'])
-st.line_chart(data)
-# Footer text in a container
+# Button in its own containerotón dentro de supropio contenedor
 with st.container():
-    st.write("Here's some organized text below the chart.")
+    if st.button('Púlsame'):
+        st.write('¡Botón pulsado!')
+
+# Dibujo de un gráfico en un "expander"
+with st.expander("Ver el gráfico"):
+    data = pd.DataFrame(np.random.randn(20, 2),
+        columns=['A', 'B'])
+    st.line_chart(data)
+
+# Texto del pie de página dentro de un contenedor
+with st.container():
+    st.write("Pie de página con un texto.")
