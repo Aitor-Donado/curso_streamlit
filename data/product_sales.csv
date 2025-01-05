@@ -1,0 +1,101 @@
+Category,Product,Product Name,Order Date,Price,User Age,Country,Discount,Quantity,User Gender,User ID,Rating,Return Customer,Sales Channel
+Fashion,Jeans,Jeans Standard,2023-12-17,144.76,32,Canada,0.37,9,Male,7912,1,True,Online
+Travel,Travel Pillow,Travel Pillow Pro,2023-10-23,23.0,30,Australia,0.32,9,Female,4611,4,False,Online
+Health & Wellness,Aromatherapy Diffuser,Aromatherapy Diffuser Standard,2023-11-30,217.08,35,Canada,0.11,6,Male,2519,4,True,In-Store
+Health & Wellness,Protein Powder,Protein Powder Pro,2023-06-14,405.49,64,Germany,0.27,7,Male,5803,5,False,Third-Party Reseller
+Travel,Travel Backpack,Travel Backpack Standard,2023-03-21,334.02,67,UK,0.49,4,Male,7227,3,False,Third-Party Reseller
+Health & Wellness,Protein Powder,Protein Powder Standard,2023-07-25,184.08,60,UK,0.35,2,Male,3803,5,True,Online
+Gadgets,Portable Speaker,Portable Speaker Deluxe,2024-02-26,323.6,53,Canada,0.34,1,Male,1525,3,False,In-Store
+Educational,Online Course,Online Course Pro,2024-02-07,361.78,31,Australia,0.25,8,Male,5339,2,True,Third-Party Reseller
+Home & Kitchen,Decorative Vase,Decorative Vase Deluxe,2023-12-19,296.45,55,Germany,0.18,3,Male,9085,1,True,Online
+Travel,Travel Backpack,Travel Backpack Standard,2024-01-05,343.44,56,USA,0.19,10,Female,9669,3,True,Third-Party Reseller
+Fashion,Jeans,Jeans Pro,2024-02-10,273.12,35,Australia,0.17,5,Female,3591,4,True,Third-Party Reseller
+Fashion,Handbag,Handbag Pro,2023-12-25,97.54,24,Australia,0.15,9,Male,4258,2,False,Online
+Home & Kitchen,Decorative Vase,Decorative Vase Standard,2023-10-22,168.84,19,USA,0.46,5,Male,1949,2,True,Online
+Fashion,Jacket,Jacket Standard,2023-12-24,271.03,26,Canada,0.33,9,Male,5342,5,False,Online
+Home & Kitchen,Bedding Set,Bedding Set Pro,2023-05-21,359.34,43,Australia,0.32,8,Male,8397,1,True,Online
+Educational,Educational Toy,Educational Toy Standard,2023-10-18,281.42,55,Canada,0.0,1,Male,2104,1,False,Online
+Home & Kitchen,Blender,Blender Deluxe,2023-11-18,247.85,52,Canada,0.36,10,Male,8744,2,False,In-Store
+Travel,Luggage,Luggage Standard,2023-11-15,221.22,45,Germany,0.23,1,Male,2612,1,False,Third-Party Reseller
+Books,Self-Help,Self-Help Standard,2023-06-08,103.88,52,Germany,0.07,3,Female,8579,2,True,In-Store
+Health & Wellness,Aromatherapy Diffuser,Aromatherapy Diffuser Pro,2023-04-11,34.79,52,USA,0.48,4,Male,7658,4,False,Online
+Health & Wellness,Skincare Product,Skincare Product Standard,2023-05-07,195.7,42,UK,0.46,8,Female,7930,5,False,Online
+Travel,World Map,World Map Standard,2023-03-26,293.8,52,USA,0.37,1,Male,8811,5,True,Online
+Home & Kitchen,Coffee Maker,Coffee Maker Standard,2023-03-30,301.57,61,Canada,0.2,10,Male,1651,5,True,In-Store
+Fashion,Sneakers,Sneakers Deluxe,2023-05-22,338.17,38,Canada,0.13,3,Male,5915,4,False,Online
+Educational,Science Kit,Science Kit Pro,2023-10-08,498.09,22,France,0.11,5,Male,6718,1,True,In-Store
+Books,Non-Fiction,Non-Fiction Deluxe,2024-01-21,276.18,37,France,0.49,9,Male,5905,1,True,In-Store
+Educational,Book,Book Pro,2023-10-05,86.17,36,France,0.11,6,Male,5325,5,False,In-Store
+Health & Wellness,Yoga Mat,Yoga Mat Standard,2023-11-05,217.55,35,USA,0.0,3,Male,5291,2,False,Third-Party Reseller
+Fashion,Sunglasses,Sunglasses Pro,2023-03-07,64.82,62,Canada,0.27,6,Male,3426,4,True,Online
+Books,Biography,Biography Standard,2024-02-16,185.33,61,Canada,0.33,6,Male,7658,5,True,Online
+Health & Wellness,Fitness Band,Fitness Band Standard,2024-02-09,212.02,29,Australia,0.46,7,Male,5065,3,True,Third-Party Reseller
+Educational,Science Kit,Science Kit Standard,2024-01-31,240.64,30,Germany,0.17,4,Male,1387,2,False,In-Store
+Books,Self-Help,Self-Help Standard,2023-12-29,146.77,59,France,0.2,9,Female,1452,1,False,Online
+Home & Kitchen,Smart Home Device,Smart Home Device Standard,2023-04-15,302.32,40,Australia,0.39,7,Male,9379,1,False,Third-Party Reseller
+Travel,World Map,World Map Standard,2023-12-04,223.67,51,France,0.34,4,Female,8066,1,False,Third-Party Reseller
+Books,Historical Fiction,Historical Fiction Standard,2023-12-08,451.02,50,UK,0.33,6,Female,5844,5,True,Online
+Gadgets,Portable Speaker,Portable Speaker Pro,2023-12-19,452.37,57,France,0.15,9,Male,5978,3,True,In-Store
+Health & Wellness,Haircare Kit,Haircare Kit Pro,2023-11-13,167.9,46,Germany,0.34,9,Female,3780,1,False,Third-Party Reseller
+Fashion,Sneakers,Sneakers Standard,2024-01-16,476.48,33,Australia,0.16,4,Male,1400,1,True,In-Store
+Home & Kitchen,Coffee Maker,Coffee Maker Deluxe,2023-08-12,444.21,54,Canada,0.36,7,Female,7547,2,True,Third-Party Reseller
+Fashion,T-shirt,T-shirt Standard,2023-12-31,218.32,29,Australia,0.26,1,Male,5082,1,False,Online
+Health & Wellness,Skincare Product,Skincare ProductPro,2023-09-26,494.07,56,UK,0.48,8,Male,9270,4,False,Online
+Fashion,Jacket,Jacket Deluxe,2023-06-12,378.37,58,UK,0.38,9,Female,4919,3,False,Online
+Fashion,Handbag,Handbag Standard,2023-06-17,174.57,52,USA,0.07,4,Female,3503,2,True,In-Store
+Gadgets,E-reader,E-reader Pro,2023-09-01,213.73,31,Germany,0.19,10,Female,1320,5,False,In-Store
+Educational,Educational Toy,Educational Toy Deluxe,2023-12-21,201.09,44,France,0.37,9,Female,4613,4,True,In-Store
+Gadgets,Fitness Tracker,Fitness Tracker Standard,2023-08-02,174.7,61,Germany,0.36,8,Male,9751,1,False,Third-Party Reseller
+Home & Kitchen,Bedding Set,Bedding Set Standard,2023-04-05,324.95,26,Germany,0.09,5,Female,6363,2,False,In-Store
+Books,Self-Help,Self-Help Deluxe,2023-06-20,378.48,44,UK,0.42,8,Male,9837,1,False,Online
+Fashion,Jeans,Jeans Pro,2023-03-19,379.57,33,Canada,0.42,10,Male,4908,2,False,Third-Party Reseller
+Educational,Math Workbook,Math Workbook Standard,2023-08-31,352.74,67,UK,0.08,10,Female,2876,2,False,Online
+Home & Kitchen,Coffee Maker,Coffee Maker Deluxe,2023-10-13,341.9,42,Germany,0.47,4,Male,4978,1,False,Third-Party Reseller
+Home & Kitchen,Coffee Maker,Coffee Maker Pro,2024-01-02,30.12,52,Germany,0.33,2,Female,6590,1,False,In-Store
+Educational,Science Kit,Science Kit Deluxe,2023-11-06,446.87,47,Australia,0.08,3,Female,9548,3,False,In-Store
+Gadgets,Tablet,Tablet Deluxe,2024-01-28,130.29,23,UK,0.44,4,Female,7209,3,True,In-Store
+Health & Wellness,Protein Powder,Protein Powder Standard,2023-09-09,113.94,69,UK,0.17,10,Female,5526,5,True,Third-Party Reseller
+Travel,Luggage,Luggage Standard,2023-12-08,209.15,53,Canada,0.35,8,Female,1282,1,False,Online
+Gadgets,Laptop,Laptop Deluxe,2023-11-17,294.96,48,France,0.27,7,Female,6419,3,False,In-Store
+Books,Biography,Biography Standard,2023-04-20,363.43,38,USA,0.37,3,Male,4545,4,False,Third-Party Reseller
+Home & Kitchen,Decorative Vase,Decorative Vase Pro,2023-06-22,490.45,30,UK,0.11,3,Female,1231,5,True,In-Store
+Educational,Book,Book Pro,2023-06-25,351.73,26,Australia,0.43,8,Male,1200,5,False,In-Store
+Gadgets,Fitness Tracker,Fitness Tracker Deluxe,2023-05-14,483.09,34,Germany,0.06,2,Female,9056,1,True,Online
+Travel,Portable Charger,Portable Charger Deluxe,2023-04-06,497.02,25,France,0.38,10,Female,4697,5,False,In-Store
+Gadgets,Tablet,Tablet Pro,2023-08-17,159.64,57,USA,0.3,2,Male,4457,3,True,Online
+Travel,Travel Pillow,Travel Pillow Pro,2023-04-02,86.7,44,Germany,0.34,8,Female,1534,2,False,Third-Party Reseller
+Books,Historical Fiction,Historical Fiction Deluxe,2023-03-31,346.82,34,Australia,0.29,4,Female,2880,5,True,Third-Party Reseller
+Travel,World Map,World Map Standard,2023-03-31,39.22,68,UK,0.3,10,Female,8195,1,False,Third-Party Reseller
+Books,Historical Fiction,Historical Fiction Deluxe,2023-06-17,255.23,49,Germany,0.04,1,Female,6280,5,False,Online
+Educational,Online Course,Online Course Pro,2024-01-22,431.65,55,USA,0.5,5,Female,1659,2,False,Third-Party Reseller
+Fashion,Jacket,Jacket Deluxe,2023-05-13,498.5,45,Australia,0.41,2,Female,6700,4,False,In-Store
+Fashion,Jeans,Jeans Standard,2023-07-10,211.71,49,UK,0.33,7,Female,1601,4,True,In-Store
+Books,Biography,Biography Standard,2023-12-29,208.05,50,USA,0.33,9,Female,7770,1,True,Third-Party Reseller
+Books,Science Fiction,Science Fiction Deluxe,2023-11-02,226.6,21,Canada,0.13,3,Female,8178,4,True,Online
+Fashion,Watch,Watch Pro,2023-05-04,162.27,18,France,0.2,4,Male,8560,1,True,In-Store
+Fashion,Handbag,Handbag Pro,2023-12-03,143.98,48,Germany,0.12,9,Male,7284,2,True,Online
+Books,Self-Help,Self-Help Deluxe,2023-07-14,467.78,50,UK,0.41,5,Female,5891,5,False,Online
+Gadgets,Fitness Tracker,Fitness Tracker Deluxe,2023-07-11,280.44,52,Germany,0.23,6,Male,4912,5,False,Online
+Health & Wellness,Aromatherapy Diffuser,Aromatherapy Diffuser Deluxe,2023-03-21,165.91,48,Australia,0.46,7,Female,3492,4,True,Online
+Home & Kitchen,Decorative Vase,Decorative Vase Deluxe,2024-02-04,59.18,46,USA,0.26,8,Male,3361,4,True,Online
+Gadgets,Tablet,Tablet Deluxe,2023-11-01,349.43,59,USA,0.43,9,Female,6188,4,True,Third-Party Reseller
+Educational,Online Course,Online Course Pro,2023-11-24,461.26,32,Australia,0.05,2,Male,2646,4,True,Third-Party Reseller
+Books,Fiction,Fiction Standard,2023-07-08,400.11,36,UK,0.19,3,Male,9702,4,True,Online
+Travel,Luggage,Luggage Pro,2024-02-05,197.45,61,Canada,0.25,10,Male,4804,4,False,In-Store
+Books,Historical Fiction,Historical Fiction Standard,2024-02-16,404.27,36,Australia,0.27,2,Female,6661,5,False,Third-Party Reseller
+Gadgets,Tablet,Tablet Deluxe,2024-01-26,158.04,42,Germany,0.05,7,Female,6881,5,False,Third-Party Reseller
+Books,Fiction,Fiction Pro,2023-08-04,144.5,54,Australia,0.39,1,Female,9138,3,True,Third-Party Reseller
+Health & Wellness,Protein Powder,Protein PowderStandard,2023-11-06,103.16,34,Australia,0.38,3,Female,2591,1,False,In-Store
+Educational,Math Workbook,Math Workbook Deluxe,2023-12-13,74.39,36,UK,0.37,3,Male,3165,5,False,Third-Party Reseller
+Home & Kitchen,Smart Home Device,Smart Home Device Standard,2023-06-11,457.88,48,UK,0.37,6,Male,8673,1,True,Online
+Health & Wellness,Vitamins,Vitamins Pro,2023-11-21,490.17,69,France,0.18,7,Male,5332,5,True,In-Store
+Books,Historical Fiction,Historical Fiction Pro,2023-11-20,138.46,42,Australia,0.47,2,Female,4830,4,True,Third-Party Reseller 
+Home & Kitchen,Smart Home Device,Smart Home Device Pro,2023-05-29,327.35,58,Germany,0.45,5,Female,7689,1,True,Online
+Educational,Educational Toy,Educational Toy Deluxe,2023-04-18,57.62,52,Canada,0.19,6,Female,9850,4,True,In-Store
+Fashion,Jeans,Jeans Deluxe,2023-10-29,209.98,35,USA,0.35,4,Female,8285,2,False,Online
+Fashion,Sneakers,Sneakers Pro,2024-02-17,489.14,40,USA,0.2,4,Male,8450,1,True,Third-PartyReseller
+Fashion,T-shirt,T-shirt Standard,2024-01-03,173.42,26,France,0.1,9,Male,4538,2,False,Online
+Health & Wellness,Haircare Kit,Haircare Kit Standard,2023-06-19,430.62,27,Canada,0.27,3,Male,1422,2,True,In-Store
+Health & Wellness,Aromatherapy Diffuser,Aromatherapy Diffuser Standard,2023-10-18,168.65,29,UK,0.03,7,Male,2862,1,False,In-Store
+Health & Wellness,Protein Powder,Protein Powder Pro,2023-10-20,63.44,50,Canada,0.47,1,Male,9543,3,False,Third-Party Reseller
+Educational,Book,Book Deluxe,2024-01-27,206.79,61,USA,0.25,8,Male,2323,3,True,Online
