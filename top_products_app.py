@@ -89,7 +89,9 @@ def calculate_purchase_frequency(sales_df):
     total_orders = sales_df.shape[0]
     unique_customers = sales_df['User ID'].nunique()
     purchase_frequency = total_orders / unique_customers
-    st.metric("Frecuencia de compra (pedidos por cliente)", f"{purchase_frequency:.2f}")
+    definicion = """Frecuencia de compra
+    (pedidos por cliente)"""
+    st.metric(definicion, f"{purchase_frequency:.2f}")
 
 def top_products_main():
     """
