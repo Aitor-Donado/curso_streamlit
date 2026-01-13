@@ -1,21 +1,22 @@
 import streamlit as st
 import pandas as pd
+
 data_df = pd.DataFrame(
     {"widgets": ["selectbox", 
                 "st.number_input", 
                 "st.text_area", 
                 "st.button"],
-    "widgets_func": ["Let's you select a value ", 
-                     "Let's you input a number", 
-                     "Let's you input text",
-                     "Let's you click submission"],
+    "widgets_func": ["Para seleccionar un valor", 
+                     "Para seleccionar un número", 
+                     "Para escribir texto",
+                     "Para ejecutar una acción"],
     "widget_rank": [9, 950, 3, 1],
     "favorite": [True, False, False, True],
     "category": [
         "Data Exploration",
         "Data Visualization",
         "LLM",
-        "Data Exploration"],
+        "Machine Learning"],
     })
 
 # En esta columna se valida el texto
@@ -41,7 +42,7 @@ columna_checkbox = st.column_config.CheckboxColumn("Tu favorito",
                         help="Elige tus favoritos",
                         default=False)
 
-opciones = ["Data_Exploration", "Data_Visualization", "LLM"]
+opciones = ["Data Exploration", "Data Visualization", "Machine Learning"]
 columna_selectbox = st.column_config.SelectboxColumn("Categoría del widget",
                         help="Categoría del widget",
                         width="medium",

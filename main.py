@@ -14,6 +14,10 @@ st.markdown("**Texto** en formato *Markdown*")
 st.caption("---")
 # Fórmulas latex https://katex.org/
 st.latex(r"e^2")
+st.latex(r"""% \f is defined as 1f(#2) using the macro
+\relax{x} = \int_{-\infty}^\infty
+    \hat\xi\,e^{2 \pi i \xi x}
+    \,d\xi""")
 # Objeto json formateado en la pantalla
 st.json({"Nombre": "Pedro", "Edad": 51})
 codigo = """from math import pi"""
