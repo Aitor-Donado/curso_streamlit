@@ -15,7 +15,7 @@ st.caption("---")
 # Fórmulas latex https://katex.org/
 st.latex(r"e^2")
 st.latex(r"""% \f is defined as 1f(#2) using the macro
-\relax{x} = \int_{-\infty}^\infty
+    \relax{x} = \int_{-\infty}^\infty
     \hat\xi\,e^{2 \pi i \xi x}
     \,d\xi""")
 # Objeto json formateado en la pantalla
