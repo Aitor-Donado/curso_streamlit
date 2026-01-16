@@ -1,6 +1,6 @@
 # 01 Introducción
 
-### ¿Qué es Streamlit y para qué se utiliza?
+## ¿Qué es Streamlit y para qué se utiliza?
 
 **Streamlit** es una librería de Python de código abierto que permite crear aplicaciones web interactivas y visualizaciones de datos de manera sencilla y rápida. Fue diseñada específicamente para facilitar a los científicos de datos, analistas y desarrolladores la construcción de herramientas interactivas sin necesidad de tener conocimientos avanzados de desarrollo web o de manejar tecnologías como HTML, CSS o JavaScript.
 
@@ -50,6 +50,7 @@ Con *Streamlit Magic*, no es necesario importar la biblioteca de Streamlit ni re
 El siguiente fragmento de código es para demostrar la función *Streamlit Magic.* Si lo introducimos en un archivo con extensión `.py` se podrá ejecutar con `streamlit run archivo.py` y obtener una web en el navegador:
 
 ```python
+# Archivo app_sin_import.py
 import pandas as pd
 
 "## Esto es un encabezado"
