@@ -20,19 +20,17 @@ with st.form("my_form"):
     st.write("Por favor, complete el formulario:")
     
     # Campos de entrada
-    input_name = st.text_input("Nombre", 
-                                value=st.session_state.form_data['name'],
-                                key='name')
-    input_age = st.number_input("Edad", min_value=0, 
+    st.session_state.name = st.text_input("Nombre", 
+                                value=st.session_state.form_data['name'])
+    st.session_state.age = st.number_input("Edad", min_value=0, 
                                 max_value=120, 
-                                value=st.session_state.form_data['age'],
-                                key='age')
-    input_email = st.text_input("Email", 
-                                value=st.session_state.form_data['email'],
-                                key='email')
+                                value=st.session_state.form_data['age'])
+    st.session_state.email = st.text_input("Email", 
+                                value=st.session_state.form_data['email'])
     
     # Botón de envío
-    submitted = st.form_submit_button("Enviar", on_click=handle_form_submit)
+    submitted = st.form_submit_button("Enviar", 
+                                      on_click=handle_form_submit)
 
 # Mostrar los datos del formulario guardados en el estado de sesión
 if any(st.session_state.form_data.values()):

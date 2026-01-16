@@ -1,6 +1,8 @@
 import streamlit as st
-# Creating a text input widget
-text = st.text_input(key="text_input", label = "Enter text")
-# Incorrect way: Attempting to modify the widget value after creation
-st.session_state.text_input = "New Value"
-# This will raise StreamlitAPIException
+
+# Crear un input de texto
+text = st.text_input(key="input_texto", label = "Introduzca un texto aquí")
+# Ya no se puede modificar el valor del widget después de su creación
+
+st.session_state.input_texto = "New Value"
+# Generará una excepción StreamlitAPIException

@@ -1,13 +1,13 @@
-# 04. Widgets de entrada. Selectores.
+# 04. Widgets de entrada. Selectores
 
 Veremos el uso de widgets básicos:  `st.checkbox()`, `st.radio()`, `st.selectbox()`, `st.multiselect()`, `st.slider()`,
 
 Nos detendremos especialmente en el primero, `st.checkbox()` para introducir el concepto de estado. Los demás, simplemente los enunciaremos.
 
-### 3.1. Checkbox
+## 3.1. Checkbox
 
 - Código
-    
+
     ```python
     # En el archivo selectores.py
     import streamlit as st
@@ -16,26 +16,25 @@ Nos detendremos especialmente en el primero, `st.checkbox()` para introducir el 
     # Primer checkbox
     state = st.checkbox("Soy un Checkbox", value=True)
     if state:
-    	st.write("¡Hola!, tienes seleccionado el checkbox")
+        st.write("¡Hola!, tienes seleccionado el checkbox")
     else:
-    	pass
-    	
-    #----------------------	
+        pass
+    
+    #----------------------
     # Segundo checkbox
     def ha_cambiado():
-    	"""
-    	Función que se ejecuta al cambiar el estado del segundo checkbox
-    	"""
-    	print("Ha cambiado el checkbox2")
-    	# Imprime el estado del checkbox llamado chequeador
-    	print(st.session_state.chequeador)
+        """
+        Función que se ejecuta al cambiar el estado del segundo checkbox
+        """
+        print("Ha cambiado el checkbox2")
+        # Imprime el estado del checkbox llamado chequeador
+        print(st.session_state.chequeador)
     
     state = st.checkbox("Checkbox2", 
-    					value=True, 
-    					on_change = ha_cambiado, 
-    					key = "chequeador")
+                        value=True, 
+                        on_change = ha_cambiado, 
+                        key = "chequeador")
     ```
-    
 
 Este código de Streamlit demuestra el uso de checkboxes y cómo reaccionar a sus cambios de estado.
 
@@ -49,19 +48,19 @@ import streamlit as st
 
 state = st.checkbox("Soy un Checkbox", value=True)
 if state:
-	st.write("¡Hola!, tienes seleccionado el checkbox")
+    st.write("¡Hola!, tienes seleccionado el checkbox")
 else:
-	pass
+    pass
 ```
 
 - `import streamlit as st`: Importa la librería Streamlit y la asigna el alias `st` para facilitar su uso.
 - `state = st.checkbox("Checkbox", value=True)`: Crea un checkbox en la aplicación.
-    - `"Checkbox"`: Es la etiqueta de texto que se muestra junto al checkbox.
-    - `value=True`: Establece el estado inicial del checkbox como marcado (checked).
-    - El valor del checkbox (True o False) se almacena en la variable `state`.
+  - `"Checkbox"`: Es la etiqueta de texto que se muestra junto al checkbox.
+  - `value=True`: Establece el estado inicial del checkbox como marcado (checked).
+  - El valor del checkbox (True o False) se almacena en la variable `state`.
 - `if state:`: Verifica el valor de la variable `state`.
-    - Si `state` es `True` (el checkbox está marcado), se ejecuta `st.write("Hola")`, que muestra el texto "Hola" en la aplicación.
-    - `else: pass`: Si `state` es `False` (el checkbox no está marcado), no se hace nada. `pass` es una instrucción nula en Python.
+  - Si `state` es `True` (el checkbox está marcado), se ejecuta `st.write("Hola")`, que muestra el texto "Hola" en la aplicación.
+  - `else: pass`: Si `state` es `False` (el checkbox no está marcado), no se hace nada. `pass` es una instrucción nula en Python.
 
 **Segunda parte:**
 
@@ -83,13 +82,13 @@ state = st.checkbox("Checkbox2",
 ```
 
 - `def ha_cambiado():`: Define una función llamada `ha_cambiado()`. Esta función se ejecutará cada vez que cambie el estado del checkbox.
-    - `print("Ha cambiado el checkbox")`: Imprime un mensaje en la consola indicando que se ha detectado un cambio en el checkbox.
-    - `print(st.session_state.chequeador)`: Accede al estado actual del checkbox a través de `st.session_state`.
-        - `st.session_state`: Es un diccionario que almacena el estado de los widgets de Streamlit a lo largo de las interacciones del usuario.
-        - `chequeador`: Es la clave (key) que se utiliza para identificar el estado de este checkbox en particular dentro de `st.session_state`.
+  - `print("Ha cambiado el checkbox")`: Imprime un mensaje en la consola indicando que se ha detectado un cambio en el checkbox.
+  - `print(st.session_state.chequeador)`: Accede al estado actual del checkbox a través de `st.session_state`.
+    - `st.session_state`: Es un diccionario que almacena el estado de los widgets de Streamlit a lo largo de las interacciones del usuario.
+    - `chequeador`: Es la clave (key) que se utiliza para identificar el estado de este checkbox en particular dentro de `st.session_state`.
 - `state = st.checkbox(...)`: Vuelve a crear un checkbox, pero esta vez con parámetros adicionales:
-    - `on_change = ha_cambiado`: Asigna la función `ha_cambiado` al evento de cambio del checkbox. Esto significa que `ha_cambiado()` se ejecutará automáticamente cada vez que el usuario marque o desmarque el checkbox.
-    - `key = "chequeador"`: Asigna la clave `"chequeador"` a este checkbox dentro de `st.session_state`. Esto es crucial para poder acceder a su valor actual dentro de la función `ha_cambiado()`.
+  - `on_change = ha_cambiado`: Asigna la función `ha_cambiado` al evento de cambio del checkbox. Esto significa que `ha_cambiado()` se ejecutará automáticamente cada vez que el usuario marque o desmarque el checkbox.
+  - `key = "chequeador"`: Asigna la clave `"chequeador"` a este checkbox dentro de `st.session_state`. Esto es crucial para poder acceder a su valor actual dentro de la función `ha_cambiado()`.
 
 **Diferencias clave entre las dos partes:**
 

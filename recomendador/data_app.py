@@ -1,6 +1,6 @@
 import streamlit as st
 from recommend_app import recommend_main
-from top_products_app import top_products_main
+from Ejemplos.top_products_app import top_products_main
 
 # Set page configuration
 st.set_page_config(page_title="Recomendador de productos", 

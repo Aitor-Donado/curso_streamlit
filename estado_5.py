@@ -1,7 +1,6 @@
 import streamlit as st
-# Incorrect way: Attempting to set the state of a button
+# Forma incorrecta: Establecer el estado de un button después de su creación
 st.session_state.my_button = True
-# Not allowed
-# Using a button
+
 if st.button("Click me", key = 'my_button'):
     st.write("Button was clicked!")

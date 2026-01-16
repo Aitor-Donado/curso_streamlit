@@ -25,7 +25,13 @@ st.code(codigo, language = "python")
 # Etiqueta de visualización de valores
 st.metric(label = "Velocidad del viento", 
           value = "120m/s", delta = "1.4m/s")
-
+# Expander
+with st.expander("📖 Contenido del expander"):
+        st.markdown("""
+        Los expander se utilizan cuando se quiere mostrar información adicional que 
+        no es relevante para todos los usuarios o
+        que se quiere ocultar para no saturar la pantalla.
+        """)
 import pandas as pd
 # Visualización de un DataFrame
 tabla = pd.read_csv("Empresas.csv")
