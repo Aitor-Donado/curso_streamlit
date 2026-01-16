@@ -1,3 +1,4 @@
 strmlit
-
+__pycache__
+*/__pycache__
 .codegpt
