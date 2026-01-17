@@ -21,22 +21,32 @@
 Es una herramienta ideal para aquellos que desean crear rápidamente aplicaciones web interactivas y dashboards para explorar y compartir datos o prototipos de modelos de machine learning, sin tener que preocuparse por la infraestructura o el diseño web tradicional.
 
 - Instalación y configuración de Streamlit
-    
-    ```bash
+
+```bash
     pip install streamlit
-    ```
-    
+```
+
 - Documentación: [Documentación Oficial]
 
 ## Este repositorio también requiere las siguientes librerías
 
-    ```bash
+```bash
     pip install pandas
-    ```
+    pip install matplotlib
+    pip install folium
+    pip install streamlit-folium
+    pip install plotly
+```
+
 ## Para comenzar el curso
 
 En la carpeta Teoría se encuentran los archivos de teoría.
-En la carpeta Ejercicios se encuentran los ejercicios propuestos.
+En la carpeta Ejemplos se encuentran los ejemplos de código que incluyen:
 
+- Ejemplo de conversor de unidades de presión. (`streamlit run Ejemplos/Ejercicio_presiones/app_presiones.py`)
+- Aplicación que permite visualizar datos de de un csv subido por el usuario (`streamlit run Ejemplos/Ejemplo_visualizaciones/app_heart_data_fin.py`)
+- Ejemplo de uso de Streamlit con datos de accidentes en Euskadi. (`streamlit run Ejemplos/Ejemplo_accidentes/app_accidentes.py`)
+
+En la carpeta Ejercicios se encuentran los ejercicios propuestos.
 
 [Documentación Oficial]: https://docs.streamlit.io/get-started
