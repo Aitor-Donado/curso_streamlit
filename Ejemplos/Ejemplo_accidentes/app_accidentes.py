@@ -2,14 +2,15 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# pip install folium
 import folium
 from folium.plugins import HeatMap
-# pip install streamlit_folium
+# pip install streamlit-folium
 from streamlit_folium import st_folium
 
 
 st.title("Datos Accidentes Euskadi")
-df = pd.read_csv("Ejemplo_accidentes/accidentes_2022.csv")
+df = pd.read_csv("Ejemplos/Ejemplo_accidentes/accidentes_2022.csv")
 df.drop(columns=["Unnamed: 0", "incidenceType", "sourceId", "autonomousRegion", "endDate", "incidenceName", "carRegistration", "pkEnd"], inplace=True)
 df.rename(columns={"pkStart": "pk"}, inplace=True)
 
