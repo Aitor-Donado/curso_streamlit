@@ -10,9 +10,16 @@ from streamlit_folium import st_folium
 
 
 st.title("Datos Accidentes Euskadi")
-df = pd.read_csv("Ejemplos/Ejemplo_accidentes/accidentes_2022.csv")
-df.drop(columns=["Unnamed: 0", "incidenceType", "sourceId", "autonomousRegion", "endDate", "incidenceName", "carRegistration", "pkEnd"], inplace=True)
-df.rename(columns={"pkStart": "pk"}, inplace=True)
+
+@st.cache_data()
+def cargar_datos():
+    df = pd.read_csv("Ejemplos/Ejemplo_accidentes/accidentes_2022.csv")
+    df.drop(columns=["Unnamed: 0", "incidenceType", "sourceId", "autonomousRegion", "endDate", "incidenceName", "carRegistration", "pkEnd"], inplace=True)
+    df.rename(columns={"pkStart": "pk"}, inplace=True)
+    print("Se cargan los datos")
+    return df
+
+df = cargar_datos()
 
 st.table(df.head(20))
 

@@ -39,6 +39,14 @@ def convertir_a_milibares(valor, unidad):
         return valor  # Si la unidad ya es mbar, no se convierte
 
 def convertir_presion(valor, unidad):
+    """
+    Docstring for convertir_presion
+    
+    :param valor: Valor numérico de la presión
+    :param unidad: Unidades de presión de origen seleccionadas por el usuario
+    :return: Presión en atmósferas, mm de mercurio, milibares y pascales
+    :rtype: tuple
+    """
     atmosferas = convertir_a_atmosferas(valor, unidad)
     mm_de_mercurio = convertir_a_mm_de_mercurio(valor, unidad)
     milibares = convertir_a_milibares(valor, unidad)

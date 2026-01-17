@@ -3,8 +3,11 @@ import pandas as pd
 import pickle
 
 # Cargar el modelo guardado
-with open('Ejemplos/Uso_modelo_entrenado/modelo_entrenado.pkl', 'rb') as f:
-    modelo = pickle.load(f)
+@st.cache_resource
+def cargar_modelo():
+    with open('Ejemplos/Uso_modelo_entrenado/modelo_entrenado.pkl', 'rb') as f:
+        modelo = pickle.load(f)
+    return modelo
 
 # Título de la aplicación
 st.title("Formulario de Predicción de Salud")
@@ -40,6 +43,7 @@ st.write(persona)
 
 # Realizar la predicción
 if st.button("Predecir"):
+    modelo = cargar_modelo()
     prediccion = modelo.predict(persona)
     st.subheader("Resultado de la predicción")
     if prediccion[0] == 1:
