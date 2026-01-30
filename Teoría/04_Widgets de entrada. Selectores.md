@@ -9,7 +9,7 @@ Nos detendremos especialmente en el primero, `st.checkbox()` para introducir el 
 - Código
 
     ```python
-    # En el archivo selectores.py
+    # streamlit run selectores.py
     import streamlit as st
     
     #----------------------
@@ -43,7 +43,7 @@ Este código de Streamlit demuestra el uso de checkboxes y cómo reaccionar a su
 Esta primera parte crea un checkbox y muestra el mensaje "Hola" en la aplicación solo si el checkbox está marcado.
 
 ```python
-# En el archivo selectores.py
+# streamlit run selectores.py
 import streamlit as st
 
 state = st.checkbox("Soy un Checkbox", value=True)
@@ -100,7 +100,7 @@ La segunda forma es la recomendada para interacciones más complejas, permitiend
 ### 3.2. radio_btn
 
 ```python
-# En el archivo selectores.py
+# streamlit run selectores.py
 import streamlit as st
 
 # Sólo permite seleccionar uno
@@ -114,7 +114,7 @@ print(radio_btn)
 ### 3.3. selectbox
 
 ```python
-# En el archivo selectores.py
+# streamlit run selectores.py
 import streamlit as st
 
 # Es un selector desplegable que sólo permite una elección
@@ -126,7 +126,7 @@ print(select)
 ### 3.4. multiselect
 
 ```python
-# En el archivo selectores.py
+# streamlit run selectores.py
 import streamlit as st
 
 # Es un selector desplegable que permite varias opciones
@@ -138,7 +138,7 @@ st.write(multi_select)
 ### 3.5. slider
 
 ```python
-# En el archivo selectores.py
+# streamlit run selectores.py
 valor = st.slider("Deslizante", min_value=50, max_value=150, value=75)
 print(valor)
 ```
@@ -146,7 +146,7 @@ print(valor)
 ### 3.6. select_slider
 
 ```python
-# En el archivo selectores.py
+# streamlit run selectores.py
 opciones = ['infrared', 'red', 'orange', 'yellow', 'green', 
             'blue', 'indigo', 'violet', 'ultraviolet']
 start_color, end_color = st.select_slider('Selecciona una gama de colores',

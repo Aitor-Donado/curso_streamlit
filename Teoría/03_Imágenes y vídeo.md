@@ -1,7 +1,7 @@
 # 03 Visualización de texto, imágenes, y archivos multimedia
 
 ```python
-# En el archivo main_imagenes.py
+# streamlit run main_imagenes.py
 import streamlit as st
 st.image("imagenes/arbol.png", caption = "Árbol de decisión", width = 650)
 st.audio("imagenes/musica.mp3")
@@ -13,7 +13,7 @@ st.video("imagenes/sample.mp4")
 - Estilos
 
 ```python
-# En el archivo main_imagenes.py
+# streamlit run main_imagenes.py
 
 # Vamos a ocultar el botón de Deploy
 # Podemos hacerlo con cualquier otra clase

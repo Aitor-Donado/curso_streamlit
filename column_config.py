@@ -36,7 +36,7 @@ columna_numero = st.column_config.NumberColumn("Ranking",
                     min_value=0,
                     max_value=1000,
                     step=1,
-                    format="%d")
+                    format="Posición. %d")
 
 columna_checkbox = st.column_config.CheckboxColumn("Tu favorito",
                         help="Elige tus favoritos",

@@ -32,13 +32,13 @@ pip install streamlit
 
 ### Documentación
 
-- Streamlit official documentation: https://docs.streamlit.io/
-- Streamlit official app gallery: https://streamlit.io/gallery
-- Streamlit official component gallery: https://streamlit.io/components
-- Streamlit official community boards: https://discuss.streamlit.io/
-- Streamlit official GitHub repo: https://github.com/streamlit
-- Streamlit and Snowflake official guide: https://docs.snowflake.com/en/developer-guide/streamlit/about-streamlit
-- Jrieke GitHub repo for Streamlit projects: https://github.com/jrieke/best-of-streamlit
+- Streamlit official documentation: <https://docs.streamlit.io>
+- Streamlit official app gallery: <https://streamlit.io/gallery>
+- Streamlit official component gallery: <https://streamlit.io/components>
+- Streamlit official community boards: <https://discuss.streamlit.io>
+- Streamlit official GitHub repo: <https://github.com/streamlit>
+- Streamlit and Snowflake official guide: <https://docs.snowflake.com/en/developer-guide/streamlit/about-streamlit>
+- Jrieke GitHub repo for Streamlit projects: <https://github.com/jrieke/best-of-streamlit>
 - MarcSkovMadsen GitHub repo for Streamlit projects: <https://github.com/MarcSkovMadsen/awesome-streamlit>
 
 ## La Magia de Streamlit
@@ -47,10 +47,10 @@ Como testimonio de la filosofía de Streamlit de ser una herramienta intuitiva y
 
 Con *Streamlit Magic*, no es necesario importar la biblioteca de Streamlit ni realizar llamadas explícitas a las API. Con solo escribir el código de Python como si estuviera escribiendo un script o un Jupyter Notebook, se mostrarán los resultados en la aplicación. Las cadenas de Python se representan automáticamente como texto en la aplicación Streamlit, y los marcos de datos, gráficos u otras visualizaciones se muestran directamente sin envolverlos en una función de Streamlit.
 
-El siguiente fragmento de código es para demostrar la función *Streamlit Magic.* Si lo introducimos en un archivo con extensión `.py` se podrá ejecutar con `streamlit run archivo.py` y obtener una web en el navegador:
+El siguiente fragmento de código es para demostrar la función *Streamlit Magic.* Si lo introducimos en un archivo con extensión `.py` se podrá ejecutar con `streamlit run app_sin_import.py` y obtener una web en el navegador:
 
 ```python
-# Archivo app_sin_import.py
+# streamlit run app_sin_import.py
 import pandas as pd
 
 "## Esto es un encabezado"

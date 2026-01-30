@@ -5,7 +5,7 @@ import numpy as np
 # Configuración de página
 st.set_page_config(page_title="Demo: Sidebar & Tabs", layout="wide")
 
-# 1. SIDEBAR - Es un namespace especial (st.sidebar, no st.side_bar())
+# 1. SIDEBAR - Es un namespace especial
 with st.sidebar:
     st.title("⚙️ Panel de Control")
     st.divider()
@@ -34,24 +34,14 @@ tab1, tab2, tab3 = st.tabs(["📈 Datos y Gráficos", "📊 Tabla Dinámica", "�
 with tab1:
     st.header("Análisis de Datos")
     
-    # Usando columns dentro de un tab
+    # Primero definimos la configuración (slider)
     col1, col2 = st.columns(2)
-    
-    with col1:
-        st.subheader("Gráfico de Líneas")
-        # Datos aleatorios
-        datos = pd.DataFrame({
-            'x': range(1, 11),
-            'y': np.random.randn(10).cumsum()
-        })
-        st.line_chart(datos.set_index('x'))
     
     with col2:
         st.subheader("Configuración")
         puntos = st.slider("Número de puntos", 5, 20, 10)
         st.write(f"Mostrando {puntos} puntos aleatorios")
         
-        # Expander dentro de un column
         with st.expander("🔍 ¿Cómo se generan estos datos?"):
             st.write("""
             Los datos se crean usando NumPy:
@@ -59,6 +49,15 @@ with tab1:
             2. Se calcula la suma acumulativa
             3. Se muestran en un gráfico de líneas
             """)
+
+    # Luego usamos el valor del slider para generar datos dinámicos
+    with col1:
+        st.subheader("Gráfico de Líneas")
+        datos = pd.DataFrame({
+            'x': range(1, puntos + 1),
+            'y': np.random.randn(puntos).cumsum()
+        })
+        st.line_chart(datos.set_index('x'))
 
 with tab2:
     st.header("Tabla Interactiva")

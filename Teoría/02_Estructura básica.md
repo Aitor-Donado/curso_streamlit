@@ -7,7 +7,7 @@ En este código vemos una muestra del repertorio de elementos que podemos inclui
 El mismo código se encuentra en el archivo main.py del repositorio.
 
 ```python
-# En el archivo main.py
+# streamlit run main.py
 import streamlit as st
 
 st.title("Título de la web (H1)")
@@ -33,11 +33,11 @@ st.metric(label = "Velocidad del viento",
 
 # Expander
 with st.expander("📖 Contenido del expander"):
-        st.markdown("""
-        Los expander se utilizan cuando se quiere mostrar información adicional que 
-        no es relevante para todos los usuarios o
-        que se quiere ocultar para no saturar la pantalla.
-        """)
+    st.markdown("""
+    Los expander se utilizan cuando se quiere mostrar información adicional que 
+    no es relevante para todos los usuarios o
+    que se quiere ocultar para no saturar la pantalla.
+    """)
 
 # Visualización de un DataFrame
 tabla = pd.read_csv("pequeña_tabla.csv")
