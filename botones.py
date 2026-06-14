@@ -5,8 +5,11 @@ import time
 boton = st.button("Pulsa", on_click = lambda: print("Pulsado"))
 
 # Descargar un objeto
-text_contents = '''This is some text'''
-st.download_button('Download some text', text_contents)
+text_contents = '''Texto que se descargará'''
+st.download_button('Descarga archivo de texto', text_contents, file_name='texto.txt')
+st.download_button('Descarga este script', data = open(__file__, 'r').read(), file_name='botones.py')
+# Descargar el pickle Ejemplos/Uso_modelo_entrenado/modelo_entrenado.pkl
+st.download_button('Descarga el modelo entrenado', data = open("Ejemplos/Uso_modelo_entrenado/modelo_entrenado.pkl", 'rb').read(), file_name='model.pkl')
 
 # Enlace a página
 st.link_button("Go to gallery",

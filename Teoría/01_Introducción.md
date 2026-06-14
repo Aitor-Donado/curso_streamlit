@@ -27,6 +27,8 @@ Es una herramienta ideal para aquellos que desean crear rápidamente aplicacione
 ### Instalación y configuración de Streamlit
 
 ```bash
+python -m venv venv
+source venv/bin/activate
 pip install streamlit
 ```
 
@@ -62,3 +64,14 @@ df
 ```
 
 Esto sirve para hacer prototipos rápidos, pero no para tareas más complejas.
+
+## ¿Cómo se lanza el servidor?
+
+El módulo streamlit que hemos instalado en el entorno virtual (tiene que estar el entorno activado) puede invocarse con `python -m streamlit` o con el alias `streamlit`. El método `run` lanzará un servidor `uvicorn`
+
+Por ejemplo, para lanzar el servidor en el puerto 8080 y que se pueda acceder desde cualquier dispositivo de la red:
+
+```bash
+(venv) $ python -m streamlit run app_sin_import.py --server.port 8080 --server.address="0.0.0.0"
+```
+Si no indicamos un puerto, por defecto es el 8501.

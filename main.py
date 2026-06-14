@@ -20,7 +20,10 @@ st.latex(r"""% \f is defined as 1f(#2) using the macro
     \,d\xi""")
 # Objeto json formateado en la pantalla
 st.json({"Nombre": "Pedro", "Edad": 51})
-codigo = """from math import pi"""
+codigo = """from math import pi
+
+def area_circulo(radio):
+    return pi * radio**2"""
 st.code(codigo, language = "python")
 # Etiqueta de visualización de valores
 st.metric(label = "Velocidad del viento", 

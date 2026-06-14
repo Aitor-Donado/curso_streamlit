@@ -26,9 +26,26 @@ Es una herramienta ideal para aquellos que desean crear rápidamente aplicacione
     pip install streamlit
 ```
 
+## Para comenzar el curso
+
+En la carpeta Teoría se encuentran los archivos de teoría.
+En la carpeta Ejemplos se encuentran los ejemplos de código que incluyen:
+
+- Ejemplo de conversor de unidades de presión. (`streamlit run Ejemplos/Ejercicio_presiones/app_presiones.py`)
+- Aplicación que permite visualizar datos de de un csv subido por el usuario (`streamlit run Ejemplos/Ejemplo_visualizaciones/app_heart_data_fin.py`)
+    Incluye archivos paso a paso de creación de la app
+- Ejemplo de uso de Streamlit con datos de accidentes en Euskadi. (`streamlit run Ejemplos/Ejemplo_accidentes/app_accidentes.py`)
+    Requiere la instalación de folium y streamlit-folium.
+- Ejemplo de uso de Streamlit con un modelo de machine learning. (`streamlit run Ejemplos/Uso_modelo_entrenado/interfaz_app_heart.py`)
+    Requiere la instalación de xgboost.
+
+En la carpeta Ejercicios se encuentran los ejercicios propuestos.
+
 - Documentación: [Documentación Oficial]
 
 ## Este repositorio también requiere las siguientes librerías
+
+> Sin embargo es preferible ir instalando las librerías que sean necesarias sobre la marcha del curso.
 
 ```bash
     pip install pandas
@@ -44,20 +61,5 @@ Si quieres instalar todas las librerías de una vez puedes usar el archivo requi
 ```bash
    pip install -r requirements.txt
 ```
-
-## Para comenzar el curso
-
-En la carpeta Teoría se encuentran los archivos de teoría.
-En la carpeta Ejemplos se encuentran los ejemplos de código que incluyen:
-
-- Ejemplo de conversor de unidades de presión. (`streamlit run Ejemplos/Ejercicio_presiones/app_presiones.py`)
-- Aplicación que permite visualizar datos de de un csv subido por el usuario (`streamlit run Ejemplos/Ejemplo_visualizaciones/app_heart_data_fin.py`)
-    Incluye archivos paso a paso de creación de la app
-- Ejemplo de uso de Streamlit con datos de accidentes en Euskadi. (`streamlit run Ejemplos/Ejemplo_accidentes/app_accidentes.py`)
-    Requiere la instalación de folium y streamlit-folium.
-- Ejemplo de uso de Streamlit con un modelo de machine learning. (`streamlit run Ejemplos/Uso_modelo_entrenado/interfaz_app_heart.py`)
-    Requiere la instalación de xgboost.
-
-En la carpeta Ejercicios se encuentran los ejercicios propuestos.
 
 [Documentación Oficial]: https://docs.streamlit.io/get-started

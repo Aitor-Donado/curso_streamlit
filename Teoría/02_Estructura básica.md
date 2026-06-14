@@ -23,7 +23,10 @@ st.divider()
 st.latex(r"e^2")
 # Objeto json formateado en la pantalla
 st.json({"Nombre": "Pedro", "Edad": 51})
-codigo = """from math import pi"""
+codigo = """from math import pi
+def area_circulo(radio):
+    return pi * radio**2"""
+
 st.code(codigo, language = "python")
 
 # Etiqueta de visualización de valores
