@@ -15,6 +15,7 @@ with st.form("Formulario", clear_on_submit=True):  # Limpiar el formulario al en
     # Entradas del formulario
     nombre = col1.text_input("Nombre")
     apellido = col2.text_input("Apellidos")
+    
     correo = st.text_input("Correo Electrónico")
     contraseña = st.text_input("Contraseña", type="password")
     confirmar_contraseña = st.text_input("Confirmar Contraseña", type="password")

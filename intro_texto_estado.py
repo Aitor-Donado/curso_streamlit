@@ -35,7 +35,7 @@ last_week = today - datetime.timedelta(days=7)
 st.session_state.rango_fechas = st.date_input("Selecciona el rango de fechas ",
     value = (last_week ,today),
     min_value = datetime.date(2022, 12, 1),
-    max_value = datetime.date.today(), format="MM.DD.YYYY", 
+    max_value = datetime.date.today(), format="DD.MM.YYYY", 
                                       on_change = imprime_estado)
 
 # Imprimimos en pantalla el estado de sesión

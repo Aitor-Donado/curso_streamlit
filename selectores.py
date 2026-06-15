@@ -39,7 +39,7 @@ st.divider()
 #----------------------
 st.write("## Radio Button")
 # Sólo permite seleccionar uno
-opciones = ("España", "Cuba", "Venezuela")
+opciones = ("España", "Cuba", "Venezuela", "Irán")
 radio_btn = st.radio("Marca tu país", options = opciones)
 # Imprimirá el valor de la tupla seleccionado al cambiarlo
 st.write(radio_btn)

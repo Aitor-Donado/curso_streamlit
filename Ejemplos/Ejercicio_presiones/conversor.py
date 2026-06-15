@@ -56,8 +56,8 @@ def convertir_presion(valor, unidad):
 
 if __name__ == "__main__":
     # Ejemplo de uso:
-    valor = 2.1
-    unidad = "mm de mercurio"
+    valor = 1
+    unidad = "atmósferas"
     resultado = convertir_presion(valor, unidad)
     print(f"Presión en atmósferas: {resultado[0]}")
     print(f"Presión en mm de mercurio: {resultado[1]}")
