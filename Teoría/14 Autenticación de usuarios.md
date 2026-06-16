@@ -1,6 +1,6 @@
-# 14. Autenticación de usuarios en local: Formulario propio y OAuth con Google
+# 14. Autenticación de usuarios en local: Formulario propio y OAuth Nativo con Google
 
-Al desplegar aplicaciones de IA o tableros de datos, controlar el acceso es fundamental para proteger por privacidad y por los costes de las APIs (como la de Groq que configuramos en el tema anterior).
+Al desplegar aplicaciones de IA o tableros de datos, controlar el acceso es fundamental para proteger la privacidad y mitigar los costes de las APIs (como la de Groq que configuramos en el tema anterior).
 
 Las cookies y el `st.session_state` son herramientas excelentes para mantener el estado, pero la autenticación requiere una lógica de control de acceso estructurada. En este tema aprenderemos dos formas de proteger nuestra aplicación en local antes de dar el salto a la nube.
 
@@ -10,9 +10,9 @@ Las cookies y el `st.session_state` son herramientas excelentes para mantener el
 
 Para validar la identidad de un usuario en Streamlit, podemos optar por dos enfoques principales:
 
-| Característica | Formulario de Login Propio (Usuario/Contraseña) | OAuth 2.0 (Iniciar sesión con Google) |
+| Característica | Formulario de Login Propio (Usuario/Contraseña) | OAuth 2.0 Nativo (Iniciar sesión con Google) |
 | --- | --- | --- |
-| **Complejidad de código** | Baja (Controlado totalmente en Python con Streamlit). | Media (Requiere configurar credenciales en la consola de Google). |
+| **Complejidad de código** | Baja (Controlado totalmente en Python con Streamlit). | Baja-Media (Configuración en la consola de Google y `.streamlit/secrets.toml`). |
 | **Experiencia de usuario** | El usuario debe registrarse y recordar otra contraseña. | Un solo clic usando una cuenta que el usuario ya posee. |
 | **Seguridad de credenciales** | Responsabilidad del desarrollador (cifrado, almacenamiento). | Delegada en Google (máxima seguridad, soporte MFA). |
 | **Uso ideal** | Prototipos rápidos, aplicaciones internas muy reducidas. | Aplicaciones de producción, entornos corporativos o públicos. |
@@ -80,38 +80,56 @@ if st.button("Cerrar Sesión"):
 
 ---
 
-## 2. Autenticación con OAuth de Google (Local)
+## 2. Autenticación con OAuth de Google (Sistema Nativo)
 
-Para implementar el inicio de sesión con Google de forma limpia en Streamlit sin necesidad de construir flujos complejos de redirección a mano, utilizaremos un componente de la comunidad ampliamente adoptado: `streamlit-google-auth`.
+Streamlit incorpora soporte nativo para autenticación OAuth sin necesidad de recurrir a componentes externos obsoletos. Utilizando las funciones `st.login()`, `st.logout()` y el objeto de contexto `st.user`, podemos securizar aplicaciones delegando la gestión de identidad en Google.
 
-### Paso 1: Instalación del componente
+### Paso 1: Instalación de dependencias
 
-Ejecuta el siguiente comando en tu terminal Linux o entorno virtual:
+El sistema nativo requiere instalar el paquete de autenticación de Streamlit junto con un cliente HTTP compatible (`httpx`). Ejecuta el siguiente comando en tu terminal Linux o entorno virtual:
 
 ```bash
-pip install streamlit-google-auth
+pip install httpx streamlit[auth]
 
 ```
 
 ### Paso 2: Configuración en Google Cloud Console
 
-Para que Google permita a nuestra app local validar usuarios, debemos crear unas credenciales:
+Para que Google permita a nuestra aplicación local validar a los usuarios, debemos configurar las credenciales del proyecto:
 
 1. Ve a [Google Cloud Console](https://console.cloud.google.com/).
-2. Crea un proyecto nuevo (ej. `Streamlit Local Auth`).
-3. En el menú lateral, busca **API y servicios** > **Pantalla de consentimiento de OAuth**. Configúrala como *Externo* y rellena los datos básicos de soporte.
+2. Crea un proyecto nuevo (ej. `Streamlit Local Nativo`).
+3. En el menú lateral, busca **API y servicios** > **Pantalla de consentimiento de OAuth**. Configúrala como *Externo* y rellena los datos básicos de soporte de la aplicación.
 4. Ve a **Credenciales** > **Crear credenciales** > **ID de cliente de OAuth**.
 5. Selecciona Tipo de aplicación: **Aplicación web**.
-6. Configura las URIs de la siguiente manera para el desarrollo en local:
+6. Configura las URIs de forma estricta para el entorno de desarrollo local:
 * **Orígenes de JavaScript autorizados:** `http://localhost:8501`
-* **URIs de redireccionamiento autorizados:** `http://localhost:8501`
+* **URIs de redireccionamiento autorizados:** `http://localhost:8501/oauth2callback`
 
 
-7. Descarga el archivo JSON generado, cámbiale el nombre a `google_credentials.json` y colócalo en la raíz del directorio de tu proyecto Streamlit.
 
-### Paso 3: Integración del código en la aplicación de Chat
+> ⚠️ **Nota crítica:** El sistema nativo de Streamlit procesa el retorno de credenciales obligatoriamente a través de la ruta `/oauth2callback`.
 
-A continuación, integramos este gestor con la estructura de chat con Groq que creamos en el **Tema 13**, garantizando que el chat sólo sea accesible tras pasar el login de Google.
+### Paso 3: Configuración de Secretos locales (`secrets.toml`)
+
+Crea o edita tu archivo de secretos dentro del directorio de tu proyecto en la ruta `.streamlit/secrets.toml`. Es indispensable estructurar los parámetros exactamente bajo los bloques indicados para que Streamlit los mapee de forma automática:
+
+```toml
+[auth]
+redirect_uri = "http://localhost:8501/oauth2callback"
+cookie_secret = "una_cadena_muy_larga_y_completamente_aleatoria_para_cifrar_las_cookies_129387"
+
+# Es fundamental que estas claves de Google estén exactamente bajo [auth.google]
+[auth.google]
+client_id = "1234567890-xxxxxxxx.apps.googleusercontent.com"
+client_secret = "xxxxxxxxxxxx"
+server_metadata_url = "[https://accounts.google.com/.well-known/openid-configuration](https://accounts.google.com/.well-known/openid-configuration)"
+
+```
+
+### Paso 4: Integración del código en la aplicación de Chat
+
+Integramos el flujo nativo con la estructura de chat con Groq que creamos en el **Tema 13**. Validaremos el estado del usuario consultando las propiedades del objeto especial `st.user`.
 
 ### Ejemplo de código: `app_protegida_google.py`
 
@@ -119,43 +137,34 @@ A continuación, integramos este gestor con la estructura de chat con Groq que c
 import streamlit as st
 import os
 from dotenv import load_dotenv
-from streamlit_google_auth import Authenticate
 
 # Cargar variables de entorno (Para la API de Groq)
 load_dotenv()
 API_KEY = os.getenv("API_KEY_GROQ")
 
-st.set_page_config(page_title="Chat Privado con Google", page_icon="🤖")
+st.set_page_config(page_title="Chat Privado Nativo", page_icon="🤖")
 
-# 1. Inicializar el autenticador usando el JSON de Google Cloud
-# El componente se encarga de gestionar internamente las cookies y el session_state
-authenticator = Authenticate(
-    secret_credentials_path="google_credentials.json",
-    cookie_name="google_auth_session",
-    cookie_key="una_clave_secreta_y_larga_para_cookies", # Cifra la cookie en el navegador
-    cookie_expiry_days=1
-)
-
-# 2. Comprobar si el usuario ya está autenticado a través de Google
-authenticator.check_authentification()
-
-# 3. Renderizar botón de login si no está autenticado
-if not st.session_state.get("connected", False):
+# =====================================================================
+# SOLUCIÓN COMPROBACIÓN: Si no hay email en st.user, no está autenticado
+# =====================================================================
+if not st.user.get("email"):
     st.title("🤖 Chatbot Corporativo")
     st.subheader("Por favor, inicia sesión para interactuar con la IA.")
     
-    # Este método dibuja el botón oficial "Sign in with Google"
-    authenticator.login()
-    st.stop() # Detiene la app aquí si no se ha conectado
+    # El botón invoca el flujo de Google configurado en secrets.toml
+    if st.button("Iniciar sesión con Google", type="primary"):
+        st.login(provider="google")
+        
+    st.stop() # Detiene la app aquí si no se ha conectado el usuario
 
 # =====================================================================
-# CONTENIDO PROTEGIDO (Solo accesible si el login con Google fue exitoso)
+# CONTENIDO PROTEGIDO (Acceso garantizado)
 # =====================================================================
 
-# Podemos recuperar información del perfil de Google del usuario desde el session_state
-user_info = st.session_state.get("user_info", {})
-nombre_usuario = user_info.get("name", "Usuario de Google")
-foto_usuario = user_info.get("picture", None)
+# El objeto st.user contiene los claims devueltos por Google OAuth
+nombre_usuario = st.user.get("name", "Usuario")
+foto_usuario = st.user.get("picture", None)
+email_usuario = st.user.get("email", "")
 
 # Barra lateral con información del usuario y botón de Logout
 with st.sidebar:
@@ -163,11 +172,12 @@ with st.sidebar:
     if foto_usuario:
         st.image(foto_usuario, width=70)
     st.write(f"Conectado como: **{nombre_usuario}**")
-    st.write(f"Email: `{user_info.get('email')}`")
+    st.write(f"Email: `{email_usuario}`")
     st.divider()
     
-    # Botón para revocar el token y salir
-    authenticator.logout()
+    # Botón de cierre de sesión nativo
+    if st.button("Cerrar Sesión"):
+        st.logout()
 
 # Interfaz del chat (Código heredado del Punto 13)
 st.title(f"👋 ¡Hola {nombre_usuario}! Chat con Groq habilitado")
@@ -192,7 +202,7 @@ if user_input:
     with st.chat_message("assistant"):
         with st.spinner("Pensando..."):
             # Simulación de respuesta para el entorno local
-            respuesta = f"Hola {nombre_usuario}, recibí tu mensaje: '{user_input}'. Tu sesión está securizada con OAuth."
+            respuesta = f"Hola {nombre_usuario}, tu sesión está protegida mediante el sistema nativo de Streamlit."
             st.markdown(respuesta)
             
     st.session_state.messages.append({"role": "assistant", "content": respuesta})
@@ -203,6 +213,6 @@ if user_input:
 
 ## ⚠️ Buenas prácticas de seguridad
 
-1. **Nunca subas credenciales a GitHub:** El archivo `google_credentials.json` y el archivo `.env` **deben** estar incluidos en tu archivo `.gitignore`.
-2. **Uso de contraseñas de producción:** Si usas el método de formulario propio, no escribas la contraseña directamente en el código ("hardcoded"). Utiliza siempre `st.secrets` para leerlas desde `.streamlit/secrets.toml`.
-3. **El puerto de redirección importa:** Google OAuth es estricto. Si configuras la URI en `http://localhost:8501`, tu aplicación fallará si se ejecuta por error en el puerto `8502`. Asegúrate de que el puerto de ejecución coincida exactamente con el de la consola de Google.
+1. **Nunca subas credenciales a GitHub:** Los archivos `.streamlit/secrets.toml` y `.env` **deben** incluirse de forma estricta en tu archivo `.gitignore`.
+2. **Uso de contraseñas de producción:** Si empleas el método de formulario propio, no expongas las credenciales directamente en el código ("hardcoded"). Centraliza las variables utilizando `st.secrets`.
+3. **El puerto y la ruta de redirección importan:** Google OAuth rechaza peticiones si los parámetros difieren un solo carácter. Si configuras la URI en `http://localhost:8501/oauth2callback`, tu aplicación fallará si se ejecuta en otro puerto (ej. `8502`) o si omites la terminación `/oauth2callback` exigida por el framework.

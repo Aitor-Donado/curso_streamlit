@@ -1,83 +1,102 @@
 import streamlit as st
+import requests
 import os
 from dotenv import load_dotenv
-from streamlit_google_auth import Authenticate
 
-# Cargar variables de entorno (Para la API de Groq)
+# 1. Cargar variables de entorno (Para la API de Groq)
 load_dotenv()
 API_KEY = os.getenv("API_KEY_GROQ")
+# 2. Configurar la página (opcional, pero mejora la estética)
+st.set_page_config(page_title="Chat Privado Nativo", page_icon="🤖")
 
-st.set_page_config(page_title="Chat Privado con Google", page_icon="🤖")
-
-# 1. Inicializar el autenticador usando el JSON de Google Cloud
-# El componente se encarga de gestionar internamente las cookies y el session_state
-
-if "authenticator" not in st.session_state:
-    st.session_state.authenticator = Authenticate(
-        secret_credentials_path="google_credentials.json",
-        cookie_name="google_auth_session",
-        cookie_key="una_clave_secreta_y_larga_para_cookies", # Cifra la cookie en el navegador
-        cookie_expiry_days=1,
-        redirect_uri="http://localhost:8501"  # <--- Añade esta línea exacta
-    )
-
-# 2. Comprobar si el usuario ya está autenticado a través de Google
-st.session_state.authenticator.check_authentification()
-
-# 3. Renderizar botón de login si no está autenticado
-if not st.session_state.get("connected", False):
+# =====================================================================
+# SOLUCIÓN COMPROBACIÓN: Si no hay email en st.user, no está autenticado
+# =====================================================================
+if not st.user.get("email"):
     st.title("🤖 Chatbot Corporativo")
     st.subheader("Por favor, inicia sesión para interactuar con la IA.")
     
-    # Este método dibuja el botón oficial "Sign in with Google"
-    st.session_state.authenticator.login()
-    st.stop() # Detiene la app aquí si no se ha conectado
+    # El botón invoca el flujo de Google configurado en secrets.toml
+    if st.button("Iniciar sesión con Google", type="primary"):
+        st.login(provider="google")
+        
+    st.stop() # Detiene la app aquí si no se ha conectado el usuario
 
 # =====================================================================
-# CONTENIDO PROTEGIDO (Solo accesible si el login con Google fue exitoso)
+# CONTENIDO PROTEGIDO (Acceso garantizado)
 # =====================================================================
 
-# Podemos recuperar información del perfil de Google del usuario desde el session_state
-user_info = st.session_state.get("user_info", {})
-nombre_usuario = user_info.get("name", "Usuario de Google")
-foto_usuario = user_info.get("picture", None)
+# El objeto st.user contiene los claims devueltos por Google OAuth
+nombre_usuario = st.user.get("name", "Usuario")
+foto_usuario = st.user.get("picture", None)
+email_usuario = st.user.get("email", "")
 
-# Barra lateral con información del usuario y botón de Logout
 with st.sidebar:
     st.title("⚙️ Sesión Activa")
     if foto_usuario:
         st.image(foto_usuario, width=70)
     st.write(f"Conectado como: **{nombre_usuario}**")
-    st.write(f"Email: `{user_info.get('email')}`")
+    st.write(f"Email: `{email_usuario}`")
     st.divider()
     
-    # Botón para revocar el token y salir
-    st.session_state.authenticator.logout()
+    # Botón de cierre de sesión nativo
+    if st.button("Cerrar Sesión"):
+        st.logout()
+# =====================================================================
 
-# Interfaz del chat (Código heredado del Punto 13)
-st.title(f"👋 ¡Hola {nombre_usuario}! Chat con Groq habilitado")
-
+# 3. Inicializar el historial del chat en session_state
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Mostrar historial
+# 4. Comprobar que la API key existe
+if not API_KEY:
+    st.error("⚠️ No se encontró la variable API_KEY_GROK en el archivo .env")
+    st.stop()
+
+# 5. Interfaz del chat
+st.title(f"🤖 Chatbot con Groq. 👋 ¡Hola {nombre_usuario}! ")
+# Mostrar los mensajes anteriores del historial
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-# Entrada de texto del chat
-user_input = st.chat_input("Escribe tu consulta al LLM...")
+# 6. Función para llamar a la API de Groq
+def obtener_respuesta_groq(historial):
+    url = "https://api.groq.com/openai/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {API_KEY}",
+        "Content-Type": "application/json"
+    }
+    
+    # Formato que espera Groq (igual que OpenAI)
+    payload = {
+        "model": "llama-3.3-70b-versatile", # Puedes cambiar a "mixtral-8x7b-32768" si prefieres
+        "messages": historial,
+        "temperature": 0.7
+    }
+    
+    response = requests.post(url, json=payload, headers=headers)
+    
+    if response.status_code == 200:
+        data = response.json()
+        return data["choices"][0]["message"]["content"]
+    else:
+        return f"❌ Error al conectar con Groq: {response.status_code} - {response.text}"
+
+# 7. Input del usuario y lógica del chat
+user_input = st.chat_input("Escribe tu mensaje aquí...")
 
 if user_input:
+    # Añadir el mensaje del usuario al historial y mostrarlo
     st.session_state.messages.append({"role": "user", "content": user_input})
     with st.chat_message("user"):
         st.markdown(user_input)
-        
-    # Aquí vendría la llamada a obtener_respuesta_groq() vista en el tema anterior...
+    
+    # Generar y mostrar la respuesta del asistente
     with st.chat_message("assistant"):
         with st.spinner("Pensando..."):
-            # Simulación de respuesta para el entorno local
-            respuesta = f"Hola {nombre_usuario}, recibí tu mensaje: '{user_input}'. Tu sesión está securizada con OAuth."
+            respuesta = obtener_respuesta_groq(st.session_state.messages)
             st.markdown(respuesta)
-            
+        
+    # Añadir la respuesta al historial
     st.session_state.messages.append({"role": "assistant", "content": respuesta})
