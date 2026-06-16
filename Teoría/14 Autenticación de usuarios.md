@@ -216,3 +216,111 @@ if user_input:
 1. **Nunca subas credenciales a GitHub:** Los archivos `.streamlit/secrets.toml` y `.env` **deben** incluirse de forma estricta en tu archivo `.gitignore`.
 2. **Uso de contraseñas de producción:** Si empleas el método de formulario propio, no expongas las credenciales directamente en el código ("hardcoded"). Centraliza las variables utilizando `st.secrets`.
 3. **El puerto y la ruta de redirección importan:** Google OAuth rechaza peticiones si los parámetros difieren un solo carácter. Si configuras la URI en `http://localhost:8501/oauth2callback`, tu aplicación fallará si se ejecuta en otro puerto (ej. `8502`) o si omites la terminación `/oauth2callback` exigida por el framework.
+
+
+Para controlar quién accede a tu aplicación y evitar sorpresas con los costes de la API de Groq, implementar una lista blanca (whitelist) es el paso más lógico y seguro en esta etapa. Además, si estás pensando en un modelo de pago por uso, el enfoque cambia por completo, ya que Streamlit nativo se queda corto para gestionar pasarelas de pago complejas de forma segura.
+
+Aquí tienes cómo abordar ambas soluciones:
+
+---
+
+## Implementar una Lista Blanca (Whitelist) de Emails
+
+Aprovechando que ya usamos el sistema nativo de Streamlit, implementar una lista blanca es sumamente sencillo. Como ya tenemos el email del usuario con `st.user.get("email")`, solo necesitamos verificar si ese email existe en una lista de usuarios autorizados.
+
+Para mantener el código limpio y seguro, lo ideal es guardar esta lista en el archivo `.streamlit/secrets.toml`.
+
+### Paso A: Actualizar `.streamlit/secrets.toml`
+
+Añade una sección con los correos electrónicos permitidos:
+
+```toml
+[auth]
+redirect_uri = "http://localhost:8501/oauth2callback"
+cookie_secret = "una_cadena_muy_larga_y_completamente_aleatoria..."
+
+[auth.google]
+client_id = "1234567890-xxxxxxxx.apps.googleusercontent.com"
+client_secret = "xxxxxxxxxxxx"
+server_metadata_url = "https://accounts.google.com/.well-known/openid-configuration"
+
+# Nueva sección para el control de acceso
+[usuarios_autorizados]
+emails = [
+    "tu_correo@gmail.com",
+    "alumno_ejemplo@gmail.com",
+    "jefe@academia.com"
+]
+
+```
+
+### Paso B: Modificar la lógica de comprobación en tu script
+
+Modificamos el bloque de autenticación para que no solo verifique si el usuario ha iniciado sesión, sino también si su correo pertenece a la lista:
+
+```python
+# =====================================================================
+# COMPROBACIÓN DE AUTENTICACIÓN Y LISTA BLANCA
+# =====================================================================
+# 1. Verificar si ha iniciado sesión en Google
+if not st.user.get("email"):
+    st.title("🤖 Chatbot Corporativo")
+    st.subheader("Por favor, inicia sesión para interactuar con la IA.")
+    
+    if st.button("Iniciar sesión con Google", type="primary"):
+        st.login(provider="google")
+    st.stop()
+
+# 2. Verificar si el email está en la lista blanca
+email_usuario = st.user.get("email")
+lista_blanca = st.secrets["usuarios_autorizados"]["emails"]
+
+if email_usuario not in lista_blanca:
+    st.title("🚫 Acceso Denegado")
+    st.error(f"El correo `{email_usuario}` no está autorizado para usar esta aplicación.")
+    st.write("Si crees que esto es un error, contacta con el administrador.")
+    
+    # Ofrecer botón de logout por si quieren iniciar sesión con otra cuenta
+    if st.button("Iniciar sesión con otra cuenta"):
+        st.logout()
+    st.stop()
+
+# =====================================================================
+# CONTENIDO PROTEGIDO (Acceso totalmente garantizado)
+# =====================================================================
+nombre_usuario = st.user.get("name", "Usuario")
+# ... El resto de tu código del chat continúa aquí abajo
+
+```
+
+---
+
+## ¿Se puede habilitar un modelo de Pago por Uso?
+
+**Sí, se puede, pero con matices importantes.** Streamlit está diseñado principalmente para prototipos, herramientas internas o cuadros de mando interactivos. No tiene un backend persistente tradicional o un sistema de base de datos integrado para gestionar pasarelas de pago seguras (como Stripe) o contar créditos/tokens de forma robusta por sesión.
+
+Si quieres experimentar o necesitas implementarlo de todas formas, tienes dos caminos:
+
+### Enfoque A: La solución "Streamlit" (Sencilla / Prototipo)
+
+Consiste en delegar el pago fuera de la app y usar una base de datos externa (como Supabase o Firebase).
+
+1. **Cobro externo:** Creas un enlace de pago en **Stripe** (por ejemplo, una suscripción mensual o un paquete de créditos).
+2. **Base de datos:** Cuando el usuario paga, Stripe (vía Webhook) activa una función que registra el email del usuario y sus "créditos" disponibles en tu base de datos.
+3. **Validación en la App:** En tu código de Streamlit, tras pasar el login de Google, haces una consulta a esa base de datos:
+* Si el usuario no ha pagado, le muestras un mensaje con el enlace de Stripe para que compre créditos.
+* Si tiene créditos, le dejas chatear y, **con cada mensaje que envíe al LLM**, calculas los tokens consumidos y los restas de su saldo en la base de datos.
+
+
+
+### Enfoque B: La solución Profesional (Producción)
+
+Si el objetivo final es lanzar un producto comercial masivo (SaaS) basado en pago por uso, **Streamlit no es la herramienta adecuada para el frontend**.
+
+* Cada usuario en Streamlit consume bastante memoria RAM en el servidor porque duplica la ejecución del script.
+* La interfaz es rígida para flujos de carritos de compra o pasarelas incrustadas.
+
+Para este escenario, la arquitectura estándar de la industria es:
+
+* **Backend:** FastAPI o Django (en Python), que se conecta a Stripe y maneja la lógica de autenticación, usuarios y base de datos de manera ultra segura.
+* **Frontend:** React, Next.js o Vue.js, para una experiencia de usuario fluida, rápida y con componentes de pago integrados de forma nativa.
