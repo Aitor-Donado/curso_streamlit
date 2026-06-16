@@ -28,4 +28,5 @@ if st.button("Guardar preferencia"):
     st.success("Preferencia guardada")
 
 # Imprimimos en pantalla el estado de sesión
-st.json(st.session_state)
+if "nombre" in cookies:
+    st.json(st.session_state)
