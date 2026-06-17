@@ -20,7 +20,7 @@ def cargar_datos():
 
 df = cargar_datos()
 
-# --- 1. Inicializar estado de selecciones Y VERSIÓN DEL GRÁFICO ---
+# --- 2. Inicializar estado de selecciones Y VERSIÓN DEL GRÁFICO ---
 if 'filtro_causa' not in st.session_state:
     st.session_state.filtro_causa = None
 if 'filtro_ciudad' not in st.session_state:
@@ -29,6 +29,7 @@ if 'chart_version' not in st.session_state:
     st.session_state.chart_version = 0  # Controla la "identidad" de los gráficos
 
 # --- 3. Función para filtrar el DataFrame ---
+@st.cache_data()
 def aplicar_filtros(df, causa_seleccionada, ciudad_seleccionada):
     df_filtrado = df.copy() # Importante: usar copy para evitar warnings
     if causa_seleccionada:

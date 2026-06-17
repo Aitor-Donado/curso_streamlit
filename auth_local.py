@@ -3,6 +3,15 @@ import streamlit as st
 # 1. Configuración de la página
 st.set_page_config(page_title="App Protegida", page_icon="🔐")
 
+st.write(st.secrets)
+
+# Acceder a [auth.chapuza] usuario de .streamlit/secrets.toml
+usuario = st.secrets["auth"]["local"]["usuario"]
+password = st.secrets["auth"]["local"]["clave"]
+
+st.markdown(f"{usuario}, {password}")
+
+
 # 2. Inicializar el estado de autenticación si no existe
 if "autenticado" not in st.session_state:
     st.session_state.autenticado = False
@@ -11,8 +20,8 @@ if "autenticado" not in st.session_state:
 def verificar_credenciales(usuario, password):
     # NOTA: En producción, nunca guardes contraseñas en texto plano. 
     # Usa st.secrets o librerías de hashing como bcrypt.
-    USUARIO_CORRECTO = "profesor"
-    PASSWORD_CORRECTO = "streamlit2026"
+    USUARIO_CORRECTO = st.secrets["auth"]["local"]["usuario"]
+    PASSWORD_CORRECTO = st.secrets["auth"]["local"]["clave"]
     
     if usuario == USUARIO_CORRECTO and password == PASSWORD_CORRECTO:
         st.session_state.autenticado = True
